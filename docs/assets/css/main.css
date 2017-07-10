@@ -1733,6 +1733,10 @@
 		box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
 		padding: 2em;
 	}
+    
+    .altbox {
+        background: transparent;
+    }
 
 		.box.feature {
 			padding: 0;
@@ -1759,7 +1763,7 @@
 					border-bottom-left-radius: 0;
 					border-bottom-right-radius: 0;
 				}
-
+                
 /* Icons */
 
 	.icon {
@@ -1864,6 +1868,7 @@
 
 	#logo {
 		display: inline-block;
+		width: 30%;
 	}
 
 		#logo h1 {
