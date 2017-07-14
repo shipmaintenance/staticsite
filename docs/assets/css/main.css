@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", Arial}
 body, html {
     height: 100%;
     line-height: 1.8;
 }
-/* Full height image header *
- */
-@media only screen and (min-device-width : 480px) and (max-device-width : 640px) {
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 640px) {
     #home {
         background-image: url("images/header640.png");
         background-position: center;
@@ -24,7 +23,7 @@ body, html {
 
     }
 }
-@media only screen and (min-device-width : 640px) and (max-device-width : 1024px) {
+@media only screen and (min-device-width : 641px) and (max-device-width : 1024px) {
     #home {
         background-image: url("images/header1024.png");
         background-position: center;
@@ -33,7 +32,7 @@ body, html {
 
     }
 }
-@media only screen and (min-device-width : 1024px) {
+@media only screen and (min-device-width : 1025px) {
     #home {
         background-image: url("images/headerFD.png");
         background-position: center;
@@ -52,10 +51,12 @@ body, html {
 }
 
 
-.w3-bar .w3-button {
+.w3-bar, .w3-button {
     padding: 16px;
 }
 .text-white {
     color: #fff;
-    background-color: rgba(190,190,190,0.10);
 }
+.w3-transparent,.w3-hover-none:hover {background-color: rgba(150,150,150,0.10);}
+
+#home, #about { padding-left: 20%; padding-right: 20%}
