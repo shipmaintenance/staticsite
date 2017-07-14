@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+/* Full height image header *
+ */
+@media only screen and (min-device-width : 480px) and (max-device-width : 640px) {
+    #home {
+        background-image: url("images/header640.png");
+        background-position: center;
+        background-size: cover;
+        min-height: 100%;
+
+    }
+}
+@media only screen and (max-device-width : 480px) {
+    #home {
+        background-image: url("images/header480.png");
+        background-position: center;
+        background-size: cover;
+        min-height: 100%;
+
+    }
+}
+@media only screen and (min-device-width : 640px) and (max-device-width : 1024px) {
+    #home {
+        background-image: url("images/header1024.png");
+        background-position: center;
+        background-size: cover;
+        min-height: 100%;
+
+    }
+}
+@media only screen and (min-device-width : 1024px) {
+    #home {
+        background-image: url("images/headerFD.png");
+        background-position: center;
+        background-size: cover;
+        min-height: 100%;
+
+    }
+}
+
+#home p {
+    font-weight: bold;
+}
+#topNavBar{
+    background-image:linear-gradient(RGB(32, 89,140), RGB(1,171,213));
+    color:#fff;
+}
+
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+.text-white {
+    color: #fff;
+    background-color: rgba(190,190,190,0.10);
+}
