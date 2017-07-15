@@ -1,9 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
-body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", Arial}
-body, html {
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+
+
+/*body, html {
     height: 100%;
     line-height: 1.8;
 }
+*/
 
 @media only screen and (min-device-width : 481px) and (max-device-width : 640px) {
     #home {
@@ -42,7 +51,7 @@ body, html {
     }
 }
 
-#home p {
+#home {
     font-weight: bold;
 }
 #topNavBar{
@@ -54,9 +63,14 @@ body, html {
 .w3-bar, .w3-button {
     padding: 16px;
 }
-.text-white {
+
+#home h1, #home h2, #home p, #home {
+    font-family: Montserrat;
     color: #fff;
+    text-shadow: #000000;
 }
-.w3-transparent,.w3-hover-none:hover {background-color: rgba(150,150,150,0.10);}
 
 #home, #about { padding-left: 20%; padding-right: 20%}
+.w3-half {padding: 0 3% 0 3%;}
+
+.highlight {color: darkblue;}
