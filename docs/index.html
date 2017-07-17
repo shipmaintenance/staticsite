@@ -3,7 +3,7 @@
 <title>my noteboat - l'appli des plaisanciers</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/main1024.css">
 <link rel="stylesheet" href="assets/css/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Avenir">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -12,27 +12,26 @@
 <!-- Navbar (sit on top) -->
 <section class="w3-top" id="topNavBar">
     <nav class="w3-bar w3-card-2 w3-left-align w3-large">
-        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large"
+        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-large"
            href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i
                 class="fa fa-bars"></i></a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large"><img src="assets/images/logo.png" height="60px"></a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Présentation</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Guides</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Racontez-nous</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Participez</a>
-        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Tour de France</a>
+        <a href="#home" class="w3-bar-item w3-button w3-padding-small"><img src="assets/images/logo.png" height="50px"></a>
+        <a href="#about" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Présentation</a>
+        <a href="#guides" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Guides</a>
+        <a href="#raconteznous" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Racontez-nous</a>
+        <a href="#ekosea" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Participez</a>
+        <a href="#tourdefrance" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Tour de France</a>
     </nav>
 
     <!-- Navbar on small screens -->
     <nav id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Présentation</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Guides</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Racontez-nous</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Participez</a>
-        <a href="#" class="w3-bar-item w3-button w3-padding-large">Tour de France</a>
+        <a href="#about" class="w3-bar-item w3-button w3-padding-large">Présentation</a>
+        <a href="#guides" class="w3-bar-item w3-button w3-padding-large">Guides</a>
+        <a href="#raconteznous" class="w3-bar-item w3-button w3-padding-large">Racontez-nous</a>
+        <a href="#ekosea" class="w3-bar-item w3-button w3-padding-large">Participez</a>
+        <a href="#tourdefrance" class="w3-bar-item w3-button w3-padding-large">Tour de France</a>
     </nav>
 </section>
-!-- Header with full-height image -->
 <header class="w3-display-container w3-center" style="padding:128px 16px" id="home">
     <h1 class="w3-margin w3-jumbo">Avec my noteboat <br>
         profitez mieux de vos navigations</h1>
@@ -42,17 +41,17 @@
     <section class="w3-content">
     <section class="w3-half" id="cestquoi">
         <p><img src="assets/images/Mynoteboat_png.png" alt="mynoteboat" width="90%"></p>
-        <h3>C'est quoi ?</h3>
+        <h2>C'est quoi ?</h2>
         <ul>
             <li>Des <span class="highlight">guides</span> pour mieux profiter de ses navigations</li>
             <li>Pour tous les plaisanciers, du nouveau permis au marin confirmé</li>
             <li>Au format digital, pour l'avoir toujours sur soi avec son téléphone, sa tablette ou son portable.</li>
         </ul>
-        </ul>
     </section>
     <section class="w3-half" id="ekosea">
-        <h3>Participez au développement de l'application avec</h3>
-        <p><img src="assets/images/logo_ekosea.png" alt="ekosea" width="90%"></p>
+        <h2>Participez au développement de l'application avec</h2>
+        <p><img src="assets/images/logo_ekosea.png" alt="ekosea" width="90%" id="ekoseaimg"></p>
+        <p><button class="w3-button w3-light-blue" ><a href="#">Je participe!</a></button></p>
     </section>
     </section>
 </section>
@@ -60,27 +59,26 @@
 <section class="w3-row-padding w3-padding-64 w3-container" id="guides">
     <section class="w3-content">
         <section class="w3-half" id="guideatelecharger">
-            <h1>Téléchargez nos guides :</h1>
+            <h2>Téléchargez nos guides :</h2>
             <ul>
                 <li><a href="#">Préparer votre navigation</a></li>
-                <li><a href="#">Mettre à l'eau et ressortir votre bateau</a></li>
+                <li><a href="#">Mettre à l'eau et ressortir votre bateau</li>
                 <li><a href="#">Réussir votre sortie</a></li>
                 <li><a href="#">Communiquer pendant la navigation</a></li>
                 <li><a href="#">Réussir ses manoeuvres</a></li>
             </ul>
         </section>
         <section class="w3-half" id="presentationduguide">
-            <h5>Hiverner son moteur, entretenir sa remorque, assurer la maintenance de son bateau</h5>
-            <p>Nous vous <span class="highlight">accompagnons</span>, tout au long de l'année dans l'entretien
+            <p><span class="highlight">Hiverner son moteur, entretenir sa remorque, assurer la maintenance de son bateau</span><br>
+            Nous vous accompagnons, tout au long de l'année dans l'entretien
                 de votre bateau et de son matériel.
             </p>
-            <h5>Mettre à l'eau, organiser sa navigation, réussir ses sorties</h5>
-            <p>Vous trouvez dans nos guides de <span class="highlight">navigation</span> une check-list et
+            <p><span class="highlight">Mettre à l'eau, organiser sa navigation, réussir ses sorties</span><br>
+            Vous trouvez dans nos guides de <span class="highlight">navigation</span> une check-list et
                 nos conseils pour chaque étape de votre sortie.</p>
-            <h5>Communiquer en navigation, anticiper, assurer sa sécurité</h5>
-            <p>La sécurité est un élément primordial de la navigation.
-                Nous dédions une partie de nos guides à ces sujets importants.
-            </p>
+            <p><span class ="highlight">Communiquer en navigation, anticiper, assurer sa sécurité</span><br>
+            La sécurité est un élément primordial de la navigation.
+                Nous dédions une partie de nos guides à ces sujets importants.</p>
         </section>
     </section>
 </section>
@@ -88,14 +86,15 @@
     <section class="w3-content">
         <section class="w3-half" id="theapp">
             <h2>Bientôt disponible</h2>
-            <p>le site est <strong>disponible</strong>,<br>
+            <p>Le site est <span class="highlight">disponible</span>,
                 et pour l'app ce sera au cours de l'été !</p>
-            <p>My Noteboat est accessible depuis les vacances d'été et son développement<br>
-                continue. Nous organiserons l'inauguration au cours du Nautic 2017<br>
+            <p>My Noteboat est accessible depuis les vacances d'été et son développement
+                continue.</p>
+            <p> Nous organiserons le lancement de l'application au cours du Nautic 2017
                 du 2 au 9 décembre à la porte de Versailles.</p>
         </section>
         <section class="w3-half" id="appmobile">
-            <p><img src="assets/images/inauguration.png" alt="disponible" width="80%"></p>
+            <p><img src="assets/images/inauguration.png" alt="disponible" class="vignette"></p>
         </section>
     </section>
 </section>
@@ -104,10 +103,12 @@
 <section class="w3-row-padding w3-padding-64 w3-container" id="tourdefrance">
     <section class="w3-content">
         <section class="w3-half" id="programme">
-            <h1>Tour de France</h1>
+            <h2>Tour de France</h2>
             <h3>Retrouvons-nous cet été dans les ports de plaisance
                 et échangeons sur my noteboat pendant qu'il est en
                 phase de développement.</h3>
+            <p>Critiquez l'ergonomie, proposez les fonctionnalités dont vous avez le plus besoin, faites-nous part de vos tests
+            et de vos retours d'expérience, votez pour faire développer en priorités vos outils préférés.</p>
         </section>
         <section class="w3-half" id="cartedutour">
             <img src="assets/images/france.png" alt="tourdefrance" width="100%">
@@ -116,87 +117,52 @@
 </section>
 <section class="w3-row-padding w3-padding-64 w3-container" id="raconteznous">
     <section class="w3-content">
-        <section class="w3-col w3-padding-large" id="histoire1">
-            <h3>Racontez-nous</h3>
+        <section class="w3-half" id="histoire">
+            <h2>Racontez-nous</h2>
             <p>Racontez-nous vos péripéties.</p>
             <p>Notre équipe a beaucoup appris de ses navigations, et beaucoup bénéficié des conseils et des récits de marins
                 expérimentés.
             </p>
             <p>Comme eux, partagez vos aventures avec la communauté de my noteboat et ils pourrons en faire profiter les
-                autres en publiant vos bonnes actions<br>
-                dans les guides.</p>
+                autres en publiant vos meilleurs récits dans les guides.</p>
+        </section>
+        <section class="w3-half" id="histoireimg">
+            <img src="assets/images/recit.png" id="imgrecit">
         </section>
     </section>
+    </section>
 </section>
-<section class="w3-center w3-light-blue w3-padding-64" id="reseauxsociaux">
-    <p><img src="assets/images/Mynoteboat_HD_png.png" alt="mynoteboat" width="70%"></p>
-    <div class="w3-xlarge w3-section">
-        <i class="latin"> sur</i>
-        <i class="fa fa-facebook-official w3-hover-opacity"></i>
-        <i class="fa fa-twitter w3-hover-opacity"></i>
+<section class="w3-center w3-light-blue w3-padding-64" id="reseauxsociaux"><p>
+    <img src="assets/images/Mynoteboat_HD_png.png" alt="mynoteboat" width="60%"></p>
+    <h1 class="w3-xlarge w3-section">
+      sur <i class="fa fa-facebook-official w3-hover-opacity"></i>,
+        <i class="fa fa-twitter w3-hover-opacity"></i>,
         <i class="fa fa-linkedin w3-hover-opacity"></i>
-    </div>
+    </h1>
 </section>
 
 
 <!-- Footer -->
 <footer class="w3-center w3-padding-64" id="contact">
-    <a href="#home" class="w3-button w3-light blue"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
-    <p> Contactez-nous pour avoir plus de renseignement<br>
-        sur my noteboat avant l'inauguration !</p>
+    <p>Contactez directement l'équipe à l'origine du projet :</p>
     <p><i class="fa fa-location-arrow" aria-hidden="true"></i> My Noteboat - 51 rue des Chalâtres - 44 000 Nante -
         France</p>
     <p><i class="fa fa-mobile" aria-hidden="true"></i> 06.41.02.61.98</p>
     <p><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@mynoteboat.fr</p>
+    <a href="#home" class="w3-button w3-light blue"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
 </footer>
 
 <!-- Add Google Maps -->
 <script>
-    function myMap() {
-        myCenter = new google.maps.LatLng(41.878114, -87.629798);
-        var mapOptions = {
-            center: myCenter,
-            zoom: 12, scrollwheel: false, draggable: false,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-        var map = new google.maps.Map(document.getElementById("googleMap"), mapOptions);
-
-        var marker = new google.maps.Marker({
-            position: myCenter,
-        });
-        marker.setMap(map);
-    }
-
-    // Modal Image Gallery
-    function onClick(element) {
-        document.getElementById("img01").src = element.src;
-        document.getElementById("modal01").style.display = "block";
-        var captionText = document.getElementById("caption");
-        captionText.innerHTML = element.alt;
-    }
-
-
-    // Toggle between showing and hiding the sidebar when clicking the menu icon
-    var mySidebar = document.getElementById("mySidebar");
-
-    function w3_open() {
-        if (mySidebar.style.display === 'block') {
-            mySidebar.style.display = 'none';
+    // Used to toggle the menu on small screens when clicking on the menu button
+    function myFunction() {
+        var x = document.getElementById("navDemo");
+        if (x.className.indexOf("w3-show") == -1) {
+            x.className += " w3-show";
         } else {
-            mySidebar.style.display = 'block';
+            x.className = x.className.replace(" w3-show", "");
         }
     }
-
-    // Close the sidebar with the close button
-    function w3_close() {
-        mySidebar.style.display = "none";
-    }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
-<!--
-To use this code on your website, get a free API key from Google.
-Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
--->
-
 </body>
 </html>

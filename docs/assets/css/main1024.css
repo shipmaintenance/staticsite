@@ -55,7 +55,7 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
     font-weight: bold;
 }
 #topNavBar{
-    background-image:linear-gradient(RGB(32, 89,140), RGB(1,171,213));
+    background-image:linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
 }
 #contact{
     background-color: RGB(1,171,213);
@@ -99,4 +99,32 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 #presentationduguide {
     text-align: right;
 }
-.highlight {color: darkblue;}
+.highlight {font-weight: bold; color: navy;}
+
+.vignette {height: 400px}
+li, p {font-size: 18px;}
+li { list-style-type: none; margin: 10px;}
+li:before {
+    font-family: 'FontAwesome';
+    content: '\f13d';
+    margin:0 1em 0 -15px;
+}
+#guideatelecharger li:before{
+    content: '\f019';
+}
+
+#ekoseaimg {
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    width: 80%;
+}
+section { padding: 5px;}
+a { text-decoration: dashed;}
+#imgrecit{
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 100%;
+
+}
