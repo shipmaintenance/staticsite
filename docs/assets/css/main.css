@@ -56,21 +56,38 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 }
 #topNavBar{
     background-image:linear-gradient(RGB(32, 89,140), RGB(1,171,213));
-    color:#fff;
 }
 
+#ekosea{
+    background-image: linear-gradient(RGB(194,223,240), RGB(212,216,212));
+    box-shadow: 3px 3px 3px #aaa;
+    text-align: center;
 
+}
+#guides {
+    background-image: url("images/leguide.png");
+}
+#guides, #reseauxsociaux, #ekosea {
+    background-size: cover;
+}
+#reseauxsociaux {
+    background-image: url("images/plongeonxl.png");
+}
 .w3-bar, .w3-button {
     padding: 16px;
 }
 
-#home h1, #home h2, #home p, #home {
+#home, #topNavBar, #guides h1 {
+    text-shadow: 1px 1px 1px #0F0F0F;
+}
+#home, #topNavBar, #guides {
     font-family: Montserrat;
     color: #fff;
-    text-shadow: #000000;
+}
+#guideatelecharger, #presentationduguide {
+    background-color: rgba(100, 100, 100, 0.1);
+
 }
 
-#home, #about { padding-left: 20%; padding-right: 20%}
-.w3-half {padding: 0 3% 0 3%;}
 
 .highlight {color: darkblue;}
