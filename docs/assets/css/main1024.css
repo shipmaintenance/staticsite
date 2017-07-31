@@ -100,7 +100,7 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 #presentationduguide {
     text-align: right;
 }
-.highlight {font-weight: bold; color: white;}
+.highlight {font-weight: bold; color: light-blue;}
 
 .vignette {height: 400px}
 li, p {font-size: 18px;}
