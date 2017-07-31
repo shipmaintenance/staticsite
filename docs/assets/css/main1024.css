@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Arial');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 
 body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
-.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.w3-bar,h1,button {font-family: "Arial", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
 
 
@@ -56,6 +57,7 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 }
 #topNavBar{
     background-image:linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
+    text-align: right
 }
 #contact{
     background-color: RGB(1,171,213);
