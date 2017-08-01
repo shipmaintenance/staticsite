@@ -56,6 +56,7 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 }
 #topNavBar{
     background-image:linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
+    text-align: right;
 }
 #contact{
     background-color: RGB(1,171,213);
@@ -67,7 +68,7 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
 
 }
 #guides {
-    background-image: url("images/leguide.png");
+    background-image: url("images/leguide1024.png");
 }
 #tourdefrance {
     background-image: url("images/fondtourfrance.png");
@@ -76,10 +77,10 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
     background-size: cover;
 }
 #reseauxsociaux {
-    background-image: url("images/plongeonFD.png");
+    background-image: url("images/plongeon1024.png");
 }
 #bientotdisponible{
-    background-image: url("images/plongeons.png");
+    background-image: url("images/plongeons1024.png");
 }
 .w3-bar, .w3-button {
     padding: 16px;
@@ -93,13 +94,13 @@ body,h1,h2,h3,h4,h5,h6,p {font-family:"Montserrat", sans-serif}
     color: #fff;
 }
 #guideatelecharger, #presentationduguide {
-    background-color: rgba(100, 100, 100, 0.1);
+    background-color: rgba(100, 100, 100, 0.01);
 }
 
 #presentationduguide {
     text-align: right;
 }
-.highlight {font-weight: bold; color: navy;}
+.highlight {font-weight: bold; color: light-blue;}
 
 .vignette {height: 400px}
 li, p {font-size: 18px;}
