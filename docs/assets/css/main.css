@@ -11,6 +11,14 @@ html {
     padding: 0;
     z-index: 0;
 }
+p {
+    margin: 0.2em auto;
+    padding: 0.6em 1em;
+}
+a:link {
+    text-decoration: none;
+}
+
 
 /*********************************************************
 Button styling
@@ -111,8 +119,9 @@ General boxing rules
     padding: 4em;
     width: 86%;
     min-width: 30em;
-    margin: 1em 7%;
+    max-width: 140em;
     clear: both;
+    margin: 0 auto;
 }
 
 .article {
@@ -127,6 +136,17 @@ General boxing rules
     margin: 1em 0 0 0;
     font-size: 2em;
 }
+
+.article h2 {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    font-size: 1.5em;
+}
+
+.article strong {
+    font-weight: bolder;
+}
+
 .article ul {
     margin: 1em 1em;
 }
@@ -145,52 +165,13 @@ ul.download li:before {
     margin:0 1em 0 -15px;
 }
 
+
+
 /**********************************************************
 
 Individual rules
 
 ************************************************************/
-
-#cestquoi #mynoteboatimage {
-    width: 80%;
-}
-
-#bouton-participez {
-    margin-left: 30%;
-}
-
-#guides {
-    background-image: ;
-}
-
-/**********************************************
-
-Background images
-
-***********************************************/
-#home, #guides {
-    width: 100%;
-    background-size: cover;
-    min-height: 25em;
-}
-
-#home {
-    background-image: url("images/headerLD.png");
-    padding-top: 15em;
-
-}
-
-@media screen and(min-resolution: 100dpi){
-    #home {
-        background-image: url("images/headerHD.png");
-    }
-
-}
-/**********************************************
-
-Header
-
-***********************************************/
 #home h1 {
     position: relative;
     color: white;
@@ -200,3 +181,103 @@ Header
     text-align: center;
     font-size: 4em;
 }
+
+#cestquoi #mynoteboatimage {
+    width: 80%;
+}
+
+#bouton-participez {
+    margin-left: 30%;
+}
+#guides, #tourdefrance {
+    color: white;
+}
+#guides .article {
+    background-color: RGBA(200, 200, 200, 0.2);
+}
+
+#imgreseauxsociaux {
+    width: 70%;
+    margin: 5em auto;
+    display: block;
+}
+.socialicon {
+    margin: 1em auto;
+    display: inline-block;
+    width: 6em;
+}
+#reseauxsociaux .content {
+    text-align: center;
+}
+footer {
+    background-image:linear-gradient(RGB(1,171,213), RGB(32, 89,140));
+    text-align: center;
+    padding: 3em;
+}
+
+/**********************************************
+
+Background images
+
+***********************************************/
+#appmobile {
+    background-image: url("images/inauguration.png");
+}
+
+#cartedutour {
+    background-image: url("images/france.png");
+}
+
+#histoireimg {
+    background-image: url("images/raconteznousFD.jpg");
+    border-radius: 100%;
+    background-size: cover;
+}
+
+#appmobile, #cartedutour, #histoireimg {
+    min-height: 30em;
+    background-position: left;
+    background-repeat: no-repeat;
+
+
+}
+
+#home {
+    background-image: url("images/headerLD.jpg");
+    padding-top: 15em;
+
+}
+#home, #guides, #bientotdisponible, #tourdefrance, #reseauxsociaux {
+    width: 100%;
+    background-size: cover;
+    min-height: 30em;
+}
+
+#guides {
+    background-image: url("images/leguideLD.jpg");
+}
+#bientotdisponible {
+    background-image: url("images/plongeonsLD.jpg");
+}
+#tourdefrance {
+    background-image: url("images/fondtourfrance.png");
+}
+#reseauxsociaux {
+    background-image: url("images/plongeonFD.jpg");
+}
+@media screen and(min-resolution: 100dpi){
+    #home {
+        background-image: url("images/headerFD.jpg");
+    }
+    #guides {
+        background-image: url("images/leguideFD.jpg");
+    }
+    #bientotdisponible {
+        background-image: url("images/plongeonsFD.jpg");
+    }
+    #reseauxsociaux {
+        background-image: url("images/plongeonLD.jpg");
+    }
+
+}
+
