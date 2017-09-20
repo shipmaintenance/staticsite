@@ -101,7 +101,7 @@ button {
     .topnav.responsive a {
         float: none;
         display: block;
-        text-align: left;
+        text-align: right;
     }
 }
 
@@ -113,12 +113,11 @@ General boxing rules
 **********************************************************/
 .container {
     width: 100%;
+    min-width: 30em;
 }
 
 .content {
-    padding: 4em;
     width: 86%;
-    min-width: 30em;
     max-width: 140em;
     clear: both;
     margin: 0 auto;
@@ -129,7 +128,7 @@ General boxing rules
     padding: 1em;
     width: 45%;
     vertical-align: middle;
-    min-width: 15em;
+    min-width: 25em;
 }
 
 .article h1 {
@@ -238,8 +237,9 @@ Background images
     min-height: 30em;
     background-position: left;
     background-repeat: no-repeat;
-
-
+}
+#appmobile, #cartedutour {
+    background-size: contain;
 }
 
 #home {
