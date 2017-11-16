@@ -12,7 +12,7 @@ html {
     z-index: 0;
 }
 p {
-    margin: 0.2em auto;
+    margin: 0.5em auto;
     padding: 0.6em 1em;
 }
 a:link {
@@ -30,6 +30,7 @@ button {
     color: white;
     padding: 1em;
     margin: 1em;
+    border-radius: 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -68,8 +69,8 @@ button {
 }
 
 .topnav a:hover {
-    background-color: white;
-    color: darkblue;
+    background-color: linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
+    color: whitesmoke;
 }
 
 .topnav .icon {
@@ -133,15 +134,32 @@ General boxing rules
 
 .article h1 {
     margin: 1em 0 0 0;
-    font-size: 2em;
+    font-size: 3em;
+    text-align: center;
+    color: white;
 }
 
 .article h2 {
-    margin-top: 1em;
-    margin-bottom: 0.2em;
-    font-size: 1.5em;
+    margin: .5em 0 0 0 ;
+    text-align: right;
+    font-size: 3em;
+    color: black;
 }
+.article h3{
+    margin: 1em 0 0 0;
+    margin-bottom: 0.2;
+    font-size: 1.5em;
+    text-align: left;
+    color: white;
+}
+.article h4{
+    margin: 1em 0 0 0;
+    margin-bottom: 0.2;
+    font-size: 1.5em;
+    text-align: left;
+    color: black;
 
+}    
 .article strong {
     font-weight: bolder;
 }
@@ -178,20 +196,24 @@ Individual rules
     font-weight: bold;
     margin: auto;
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 #cestquoi #mynoteboatimage {
     width: 80%;
 }
 
+#bouton-video {
+    margin-left: 30%;
+}
+
 #bouton-participez {
     margin-left: 30%;
 }
-#guides, #tourdefrance {
+#Télécharger, #Inscription {
     color: white;
 }
-#guides .article {
+#Télécharger.article {
     background-color: RGBA(200, 200, 200, 0.2);
 }
 
@@ -203,7 +225,7 @@ Individual rules
 .socialicon {
     margin: 1em auto;
     display: inline-block;
-    width: 6em;
+    width: 3em;
 }
 #reseauxsociaux .content {
     text-align: center;
@@ -212,6 +234,18 @@ footer {
     background-image:linear-gradient(RGB(1,171,213), RGB(32, 89,140));
     text-align: center;
     padding: 3em;
+}
+/**********************************************
+
+Box and button individual rules
+
+***********************************************/
+#box_video{
+    width: 85%;
+    height: 300px;
+    border-radius: 4px;
+    border: none;
+    background-image:linear-gradient(RGBA(0, 175,216,1), RGBA(215,215,215,1));
 }
 
 /**********************************************
@@ -247,19 +281,19 @@ Background images
     padding-top: 15em;
 
 }
-#home, #guides, #bientotdisponible, #tourdefrance, #reseauxsociaux {
+#home, #Télécharger, #bientotdisponible, #Inscription, #reseauxsociaux {
     width: 100%;
     background-size: cover;
     min-height: 30em;
 }
 
-#guides {
-    background-image: url("images/leguideLD.jpg");
+#Télécharger {
+    background-image: url("images/leguideFD.jpg");
 }
 #bientotdisponible {
     background-image: url("images/plongeonsLD.jpg");
 }
-#tourdefrance {
+#Inscription {
     background-image: url("images/fondtourfrance.png");
 }
 #reseauxsociaux {
@@ -270,7 +304,7 @@ Background images
         background-image: url("images/headerFD.jpg");
     }
     #guides {
-        background-image: url("images/leguideFD.jpg");
+        background-image: url("images/leguideLD.jpg");
     }
     #bientotdisponible {
         background-image: url("images/plongeonsFD.jpg");
