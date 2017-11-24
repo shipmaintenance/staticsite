@@ -2,7 +2,7 @@
  Parametres globaux
  */
 html {
-    font-size: 14px;
+    font-size: 16px;
     font-family: Montserrat, sans-serif;
 }
 
@@ -11,21 +11,23 @@ html {
     padding: 0;
     z-index: 0;
 }
+
 p {
     margin: 0.5em auto;
     padding: 0.6em 1em;
+    font-size: 1.2em;
 }
+
 a:link {
     text-decoration: none;
 }
-
 
 /*********************************************************
 Button styling
 
 **********************************************************/
 button {
-    background-color: RGB(32, 89,140);
+    background-color: RGB(32, 89, 140);
     border: none;
     color: white;
     padding: 1em;
@@ -35,9 +37,17 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.bouton {
+    width: fit-content;
+    margin: auto;
+}
+
+video {
+    width: 100%;
+}
 
 /*********************************************
 
@@ -51,13 +61,13 @@ button {
     top: 0;
     left: 0;
     width: 100%;
-    background-image:linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
+    background-image: linear-gradient(RGBA(32, 89, 140, 0.8), RGBA(1, 171, 213, 0.8));
     overflow: hidden;
     z-index: 1000;
 
 }
 
-.topnav a{
+.topnav a {
     float: left;
     display: block;
     text-align: center;
@@ -69,7 +79,6 @@ button {
 }
 
 .topnav a:hover {
-    background-color: linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
     color: whitesmoke;
 }
 
@@ -81,31 +90,40 @@ button {
     margin: 0;
     padding: 0;
 }
+
 .topnav #logo {
     /* header top margin */
     height: 4em;
 }
+
 @media screen and (max-width: 900px) {
-    .topnav a:not(:first-child) {display: none;}
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
     .topnav a.icon {
         float: right;
         display: block;
     }
 }
+
 @media screen and (max-width: 900px) {
-    .topnav.responsive {position: relative;}
+    .topnav.responsive {
+        position: relative;
+    }
+
     .topnav.responsive a.icon {
         position: absolute;
         right: 0;
         top: 0;
     }
+
     .topnav.responsive a {
         float: none;
         display: block;
         text-align: right;
     }
 }
-
 
 /*********************************************************
 
@@ -114,19 +132,20 @@ General boxing rules
 **********************************************************/
 .container {
     width: 100%;
-    min-width: 30em;
+    min-width: 40em;
 }
 
 .content {
     width: 86%;
-    max-width: 140em;
+    max-width: 100em;
     clear: both;
     margin: 0 auto;
 }
 
 .article {
     display: inline-block;
-    padding: 1em;
+    padding: 0.5em;
+    margin: 0.5em 0;
     width: 45%;
     vertical-align: middle;
     min-width: 25em;
@@ -136,53 +155,54 @@ General boxing rules
     margin: 1em 0 0 0;
     font-size: 3em;
     text-align: center;
-    color: white;
 }
 
 .article h2 {
-    margin: .5em 0 0 0 ;
-    text-align: right;
+    margin: .5em 0 0 0;
+    text-align: left;
     font-size: 3em;
-    color: black;
 }
-.article h3{
-    margin: 1em 0 0 0;
-    margin-bottom: 0.2;
-    font-size: 1.5em;
-    text-align: left;
-    color: white;
-}
-.article h4{
-    margin: 1em 0 0 0;
-    margin-bottom: 0.2;
-    font-size: 1.5em;
-    text-align: left;
-    color: black;
 
-}    
+.article h3 {
+    margin: 1em 0 1em 0;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.article h4 {
+    margin: 1em 0 1em 0;
+    font-size: 1.5em;
+    text-align: left;
+}
+
 .article strong {
     font-weight: bolder;
+}
+
+.article mark {
+    border: gold;
 }
 
 .article ul {
     margin: 1em 1em;
 }
+
 .article li {
     list-style-type: none;
     padding-top: 1em;
 }
+
 ul.anchor li:before {
-    font-family: 'FontAwesome', 'SansSerif';
+    font-family: 'FontAwesome', sans-serif;
     content: '\f13d';
-    margin:0 1em 0 -15px;
+    margin: 0 1em 0 -15px;
 }
+
 ul.download li:before {
-    font-family: 'FontAwesome', 'SansSerif';
+    font-family: 'FontAwesome', sans-serif;
     content: '\f019';
-    margin:0 1em 0 -15px;
+    margin: 0 1em 0 -15px;
 }
-
-
 
 /**********************************************************
 
@@ -203,17 +223,11 @@ Individual rules
     width: 80%;
 }
 
-#bouton-video {
-    margin-left: 30%;
-}
-
-#bouton-participez {
-    margin-left: 30%;
-}
-#Télécharger, #Inscription {
+#telecharger, #inscription {
     color: white;
 }
-#Télécharger.article {
+
+#telecharger.article {
     background-color: RGBA(200, 200, 200, 0.2);
 }
 
@@ -222,19 +236,23 @@ Individual rules
     margin: 5em auto;
     display: block;
 }
+
 .socialicon {
     margin: 1em auto;
     display: inline-block;
     width: 3em;
 }
+
 #reseauxsociaux .content {
     text-align: center;
 }
+
 footer {
-    background-image:linear-gradient(RGB(1,171,213), RGB(32, 89,140));
+    background-image: linear-gradient(RGB(1, 171, 213), RGB(32, 89, 140));
     text-align: center;
     padding: 3em;
 }
+
 /**********************************************
 
 Box and button individual rules
@@ -245,14 +263,14 @@ Box and button individual rules
     text-align: center;
 }
 
-#box_video{
+#box_video {
     width: 85%;
     min-width: 450px;
     min-height: 350px;
     border-radius: 24px;
-    padding:1em auto;
+    padding: 1em auto;
     border: none;
-    background-image:linear-gradient(RGBA(0, 175,216,1), RGBA(215,215,215,1));
+    background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
 }
 
 /**********************************************
@@ -279,6 +297,7 @@ Background images
     background-position: left;
     background-repeat: no-repeat;
 }
+
 #appmobile, #cartedutour {
     background-size: contain;
 }
@@ -288,91 +307,123 @@ Background images
     padding-top: 15em;
 
 }
-#home, #Télécharger, #bientotdisponible, #Inscription, #reseauxsociaux {
-    width: 100%;
+
+.withbackground {
     background-size: cover;
-    min-height: 30em;
 }
 
-#Télécharger {
-    background-image: url("images/leguideFD.jpg");
+#telecharger {
+    background-image: url("images/leguideLD.jpg");
 }
+
 #bientotdisponible {
     background-image: url("images/plongeonsLD.jpg");
 }
-#Inscription {
+
+#inscription {
     background-image: url("images/fondtourfrance.png");
+    width: 100%;
+    background-size: cover;
 }
+
+#inscription h3 {
+    text-align: center;
+}
+
 #reseauxsociaux {
-    background-image: url("images/plongeonFD.jpg");
+    background-image: url("images/plongeonLD.jpg");
 }
-@media screen and(min-resolution: 100dpi){
+
+@media screen and(min-resolution: 100dpi) {
     #home {
         background-image: url("images/headerFD.jpg");
     }
+
     #guides {
-        background-image: url("images/leguideLD.jpg");
+        background-image: url("images/leguideFD.jpg");
     }
+
     #bientotdisponible {
         background-image: url("images/plongeonsFD.jpg");
     }
+
     #reseauxsociaux {
-        background-image: url("images/plongeonLD.jpg");
+        background-image: url("images/plongeonFD.jpg");
     }
 
 }
-        /* Popup container - can be anything you want */
-        .popup {
-            position: relative;
-            display: inline-block;
-            cursor: pointer;
-            -webkit-user-select: none;
-            -moz-user-select: none;
-            -ms-user-select: none;
-            user-select: none;
-        }
-    
-    /* The actual popup */
-    .popup .popuptext {
-        visibility: hidden;
-        width: 580px;
-        background-color: white;
-        text-align: center;
-        border-radius: 6px;
-        padding: 8px 0;
-        position: absolute;
-        z-index: 1;
-        bottom: 125%;
-        left: 50%;
-        margin-left: -80px;
+
+@media screen and (min-width: 800px) {
+    html {
+        font-size: 18px;
     }
-    
-    /* Popup arrow */
-    .popup .popuptext::after {
-        content: "";
-        position: absolute;
-        top: 100%;
-        left: 50%;
-        margin-left: -5px;
-        border-width: 5px;
-        border-style: solid;
-        border-color: #555 transparent transparent transparent;
+
+    .withbackground {
+        min-height: 700px;
     }
-    
-    /* Toggle this class - hide and show the popup */
-    .popup .show {
-        visibility: visible;
-        -webkit-animation: fadeIn 1s;
-        animation: fadeIn 1s;
+}
+
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 580px;
+    background-color: white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
     }
-    
-    /* Add animation (fade in the popup) */
-    @-webkit-keyframes fadeIn {
-        from {opacity: 0;}
-        to {opacity: 1;}
+    to {
+        opacity: 1;
     }
-    
-    @keyframes fadeIn {
-        from {opacity: 0;}
-        to {opacity:1 ;}
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
     }
+    to {
+        opacity: 1;
+    }
+}
+

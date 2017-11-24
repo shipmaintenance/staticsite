@@ -1,7 +1,9 @@
+CNAME
 *.rbc
 *.DS_Store
 capybara-*.html
 .rspec
+*.iml
 /.idea
 /log
 /tmp

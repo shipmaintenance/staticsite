@@ -11,63 +11,70 @@
 </head>
 
 <body>
-    <nav id="mytopnav" class="topnav">
-        <a href="#home" class="image"><img src="assets/images/logo.png" id="logo"></a>
-        <a href="#about">Présentation</a>
-        <a href="#Télécharger">Téléchargez</a>
-        <a href="#raconteznous">Racontez-nous</a>
-        <a href="#reseauxsociaux">Suivez-nous</a>
-        <a href="#Inscription">Inscription</a>
-        <a href="#contact">Contactez-nous</a>
-        <a href="javascript:void(0);" onclick="setTopNavVisibility()" title="Toggle Navigation Menu" id="topnavicon" class="icon"><i class="fa fa-bars"></i></a>
-    </nav>
-    <header id="home">
-        <h1>Avec l'application MyNoteboat,<br>
-            profitez mieux de vos navigations</h1>
-    </header>
+<nav id="mytopnav" class="topnav">
+    <a href="#home" class="image"><img src="assets/images/logo.png" id="logo"></a>
+    <a href="#about">Présentation</a>
+    <a href="#telecharger">Téléchargez</a>
+    <a href="#raconteznous">Racontez-nous</a>
+    <a href="#reseauxsociaux">Suivez-nous</a>
+    <a href="#inscription">Inscription</a>
+    <a href="#contact">Contactez-nous</a>
+    <a href="javascript:void(0);" onclick="setTopNavVisibility()" title="Toggle Navigation Menu" id="topnavicon"
+       class="icon"><i class="fa fa-bars"></i></a>
+</nav>
+<header class="container withbackground" id="home">
+    <h1>Avec l'application MyNoteboat,<br>
+        profitez mieux de vos navigations</h1>
+</header>
 
-    <div class="container" id="about">
-        <div class="content">
-            <div class="article" id="cestquoi">
-                <img src="assets/images/Mynoteboat_png.png" alt="mynoteboat" id="mynoteboatimage">
-                <h2>C'EST QUOI ?</h2>
-                <ul class="anchor">
-                    <li>Une <strong>suite digitale</strong> pour mieux profiter de ses navigations.</li>
-                    <li>Pour <strong>tous</strong> les plaisanciers, du nouveau permis au marin confirmé</li>
-                    <li>Au format digital, pour l'avoir <strong>toujours</strong> sur soi avec son téléphone, sa
-                        tablette ou son portable.
-                    </li>
-                </ul>
-            </div>
-            <div class="article" id="présentation">
-                <div class="article" id="box_video">
-                    <h1>DECOUVREZ !</h1>
-                    <video src="assets/videos/mnb_le_clip.mp4" controls width="400" height="225" poster="assets/images/logo.png"></video>
-                </div>
-            </div>
+<div class="container" id="about">
+    <div class="content">
+        <div class="article" id="cestquoi">
+            <img src="assets/images/Mynoteboat_png.png" alt="mynoteboat" id="mynoteboatimage">
+            <h1>C'est ... </h1>
+            <ul class="anchor">
+                <li>Une <strong>suite digitale</strong> pour mieux profiter de ses navigations.</li>
+                <li>Pour <strong>tous</strong> les plaisanciers, du nouveau permis au marin confirmé</li>
+                <li>Au format digital, pour l'avoir <strong>toujours</strong> sur soi avec son téléphone, sa
+                    tablette ou son portable.
+                </li>
+            </ul>
         </div>
-    </div>
-
-    <div class="container" id="Télécharger">
-        <div class="content">
-            <div class="article" id="guideatelecharger">
-                <h1>Téléchargez<br> nos fichiers <br>digitaux</h1>
-                <div id="bouton"><a href="assets/pdf/exemples_telecharges.pdf" target="_blank"><button>Quelques exemples</button></a></div>
+        <div class="article" id="présentation">
+            <div class="article" id="box_video">
+                <h1>Découvrez !</h1>
+                <video id="decouvrez" controls src="assets/videos/mnb_le_clip.mp4"
+                       poster="assets/images/logo.png"></video>
             </div>
-           <div class="article" id="presentationduguide">
-                <h3>Hiverner son bateau, entretenir sa remorque</h3>
-                <p>Nous vous accompagnons, tout au long de l'année dans <strong>l'entretien</strong> de votre bateau et de son matériel.</p>
-                <h3>Mettre son bateau à l'eau, Préparer sa sortie</h3>
-                <p>Vous trouvez dans nos guides de <strong>navigation</strong> des check-lists et nos conseils à chaque étape de votre sortie.</p>
-                <h3>Communiquer en mer, caréner son bateau...</h3>
-                <p>La sécurité et la santé sont des éléments <strong>primordiux</strong> pour profiter d'une navigation. Nous dédions une partie de nos documents à ces sujets importants.</p>
         </div>
     </div>
 </div>
-<div class="container" id="bientotdisponible">
+
+<div class="container withbackground" id="telecharger">
+    <div class="content">
+        <div class="article" id="guideatelecharger">
+            <h1>Téléchargez<br> nos fichiers<br>digitaux</h1>
+            <div id="bouton_download" class="bouton"><a href="assets/pdf/Reussir_sa_sortie.pdf" target="_blank">
+                <button>Quelques exemples</button>
+            </a></div>
+        </div>
+        <div class="article" id="presentationduguide">
+            <h3>Hiverner son bateau, entretenir sa remorque</h3>
+            <p>Nous vous accompagnons, tout au long de l'année dans <strong>l'entretien</strong> de votre bateau et de
+                son matériel.</p>
+            <h3>Mettre son bateau à l'eau, Préparer sa sortie</h3>
+            <p>Vous trouvez dans nos guides de <strong>navigation</strong> des check-lists et nos conseils à chaque
+                étape de votre sortie.</p>
+            <h3>Communiquer en mer, caréner son bateau...</h3>
+            <p>La sécurité et la santé sont des éléments <strong>primordiux</strong> pour profiter d'une navigation.
+                Nous dédions une partie de nos documents à ces sujets importants.</p>
+        </div>
+    </div>
+</div>
+<div class="container withbackground" id="bientotdisponible">
     <div class="content">
         <div class="article" id="theapp">
-            <h2>Bientôt disponible</h2>
+            <h1>Bientôt disponible</h1>
             <p>Le site est <strong>disponible</strong>,
                 et pour l'app ce sera dans quelques mois !</p>
             <p>My Noteboat est <strong>en ligne</strong> et son développement
@@ -79,14 +86,18 @@
     </div>
 </div>
 
-<div class="container" id="Inscription">
+<div class="container" id="inscription">
     <div class="content">
         <div class="article" id="programme">
             <h1>En ligne depuis juillet,</h1>
             <p>nous inaugurons de nouvelles <strong>fonctionnalités</strong>,cet automne pour le salon nautic.</p>
             <p>Retrouvez-nous au Nautic - D22, Pavillon 2.1<br> du 2 au 9 décembre à la porte de Versailles.</p>
             <p>Recevez votre place pour le salon nautique en vous inscrivant ici</P>
-            <div id="bouton"><a href= https://docs.google.com/forms/d/e/1FAIpQLSd42BGrRVfKv_NFom-Q4H-xz_WZDaWQ6n0ze1E7oEnZ86oMAw/viewform?usp=sf_link target="_blank"><button>Je m'inscris</button></a></div>
+            <div id="bouton_inscription" class="bouton"><a
+                    href=https://docs.google.com/forms/d/e/1FAIpQLSd42BGrRVfKv_NFom-Q4H-xz_WZDaWQ6n0ze1E7oEnZ86oMAw/viewform?usp=sf_link
+                    target="_blank">
+                <button>Je m'inscris</button>
+            </a></div>
             <p>Nous vous invitons le <strong>2 décembre à partir de 17:00</strong> pour l'inauguration !</p>
             <h3>Venez nombreux</h3>
         </div>
@@ -99,37 +110,43 @@
         <div class="article" id="histoireimg">
         </div>
         <div class="article" id="histoire">
-            <h2>Racontez-nous</h2>
-            <h4>Racontez-nous vos péripéties.</h4>
-            <p>Notre équipe a beaucoup appris de ses navigations, et beaucoup bénéficié des conseils et des récits de marins
-                expérimentés.
+            <h1>Racontez-nous vos péripéties</h1>
+            <p>Notre équipe a beaucoup appris de ses navigations, et beaucoup bénéficié des conseils et des
+                récits de marins expérimentés.
             </p>
             <p>Comme eux, partagez vos aventures avec la communauté de my noteboat et ils pourrons en faire profiter les
                 autres en publiant vos meilleurs récits dans les guides.</p>
         </div>
     </div>
 </div>
-<div class="container" id="reseauxsociaux">
+<div class="container withbackground" id="reseauxsociaux">
     <div class="content">
         <img src="assets/images/Mynoteboat_HD_png.png" alt="mynoteboat" id="imgreseauxsociaux">
-        <a href="https://www.facebook.com/My-noteboat-285323008607557/"><img src="assets/images/facebook-icon-S.png" id="FB" class="socialicon"></a>
-        <a href="https://www.linkedin.com/company-beta/11143606/"><img src="assets/images/linkedin-icon-S.png" id="IN" class="socialicon"></a>
-        <a href="https://twitter.com/my_noteboat"><img src="assets/images/twitter-icon-S.png" id="TW" class="socialicon"></a>
-        <a href="https://www.youtube.com/channel/UC5iMfCZCCSixfN9ojxpauiQ"><img src="assets/images/Youtube-Icon-S.png" id="YT" class="socialicon"></a>
+        <a href="https://www.facebook.com/My-noteboat-285323008607557/"><img src="assets/images/facebook-icon-S.png"
+                                                                             id="FB" class="socialicon"></a>
+        <a href="https://www.linkedin.com/company-beta/11143606/"><img src="assets/images/linkedin-icon-S.png" id="IN"
+                                                                       class="socialicon"></a>
+        <a href="https://twitter.com/my_noteboat"><img src="assets/images/twitter-icon-S.png" id="TW"
+                                                       class="socialicon"></a>
+        <a href="https://www.youtube.com/channel/UC5iMfCZCCSixfN9ojxpauiQ"><img src="assets/images/Youtube-Icon-S.png"
+                                                                                id="YT" class="socialicon"></a>
     </div>
 </div>
 
 <!-- Footer -->
-<footer id="contact">
+<footer class="container" id="contact">
     <p>Contactez directement <a class="popup" onclick="myFunction()"><strong>l'equipe</strong>
-        <span class="popuptext" id="myPopup">
+        <mark class="popuptext" id="myPopup"><i class="fa fa-user-o" aria-hidden="true"></i>
             <img src="assets/images/equipe.png" alt=equipe id=equipe>
-        </span></a> à l'origine du projet :</p>
+        </mark> à l'origine du projet :</p>
     <p><i class="fa fa-location-arrow" aria-hidden="true"></i> My Noteboat - 51 rue des Chalâtres - 44 000 Nantes -
         France</p>
     <p><i class="fa fa-mobile" aria-hidden="true"></i> 06.41.02.61.98</p>
-    <p><a href="mailto:contact@mynoteboat.fr"><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@mynoteboat.fr</a></p>
-    <p><a href="assets/pdf/my_noteboat_mentions_legales.pdf" target="_blank">Mentions légales </a><a href="assets/pdf/my_noteboat_CGU.pdf" target="_blank"> Conditions générales </a><a href="assets/pdf/article.pdf" target="_blank"> Dossier de presse</a></p>
+    <p><a href="mailto:contact@mynoteboat.fr"><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@mynoteboat.fr</a>
+    </p>
+    <p><a href="assets/pdf/my_noteboat_mentions_legales.pdf" target="_blank">Mentions légales </a><a
+            href="assets/pdf/my_noteboat_CGU.pdf" target="_blank"> Conditions générales </a><a
+            href="assets/pdf/article.pdf" target="_blank"> Dossier de presse</a></p>
     <p><a href="#home"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a></p>
     <script>
         // When the user clicks on div, open the popup
