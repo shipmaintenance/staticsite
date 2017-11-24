@@ -121,13 +121,23 @@
 
 <!-- Footer -->
 <footer id="contact">
-    <p>Contactez directement l'équipe à l'origine du projet :</p>
+    <p>Contactez directement <a class="popup" onclick="myFunction()"><strong>l'equipe</strong>
+        <span class="popuptext" id="myPopup">
+            <img src="assets/images/equipe.png" alt=equipe id=equipe>
+        </span></a> à l'origine du projet :</p>
     <p><i class="fa fa-location-arrow" aria-hidden="true"></i> My Noteboat - 51 rue des Chalâtres - 44 000 Nantes -
         France</p>
     <p><i class="fa fa-mobile" aria-hidden="true"></i> 06.41.02.61.98</p>
     <p><a href="mailto:contact@mynoteboat.fr"><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@mynoteboat.fr</a></p>
     <p><a href="assets/pdf/my_noteboat_mentions_legales.pdf" target="_blank">Mentions légales </a><a href="assets/pdf/my_noteboat_CGU.pdf" target="_blank"> Conditions générales </a><a href="assets/pdf/article.pdf" target="_blank"> Dossier de presse</a></p>
     <p><a href="#home"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a></p>
+    <script>
+        // When the user clicks on div, open the popup
+        function myFunction() {
+            var popup = document.getElementById("myPopup");
+            popup.classList.toggle("show");
+        }
+    </script>
 </footer>
 
 
