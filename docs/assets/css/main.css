@@ -2,7 +2,7 @@
  Parametres globaux
  */
 html {
-    font-size: 14px;
+    font-size: 16px;
     font-family: Montserrat, sans-serif;
 }
 
@@ -37,7 +37,14 @@ button {
     font-size: 1.5em;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+.bouton {
+    width: fit-content;
+    margin: auto;
+}
 
+video {
+    width: 100%;
+}
 
 /*********************************************
 
@@ -69,7 +76,6 @@ button {
 }
 
 .topnav a:hover {
-    background-color: linear-gradient(RGBA(32, 89,140, 0.8), RGBA(1,171,213,0.8));
     color: whitesmoke;
 }
 
@@ -114,19 +120,20 @@ General boxing rules
 **********************************************************/
 .container {
     width: 100%;
-    min-width: 30em;
+    min-width: 40em;
 }
 
 .content {
     width: 86%;
-    max-width: 140em;
+    max-width: 100em;
     clear: both;
     margin: 0 auto;
 }
 
 .article {
     display: inline-block;
-    padding: 1em;
+    padding: 0.5em;
+    margin: 0.5em 0;
     width: 45%;
     vertical-align: middle;
     min-width: 25em;
@@ -136,29 +143,22 @@ General boxing rules
     margin: 1em 0 0 0;
     font-size: 3em;
     text-align: center;
-    color: white;
 }
 
 .article h2 {
     margin: .5em 0 0 0 ;
-    text-align: right;
+    text-align: left;
     font-size: 3em;
-    color: black;
 }
 .article h3{
-    margin: 1em 0 0 0;
-    margin-bottom: 0.2;
+    margin: 1em 0 1em 0;
     font-size: 1.5em;
     text-align: left;
-    color: white;
 }
 .article h4{
-    margin: 1em 0 0 0;
-    margin-bottom: 0.2;
+    margin: 1em 0 1em 0;
     font-size: 1.5em;
     text-align: left;
-    color: black;
-
 }    
 .article strong {
     font-weight: bolder;
@@ -172,12 +172,12 @@ General boxing rules
     padding-top: 1em;
 }
 ul.anchor li:before {
-    font-family: 'FontAwesome', 'SansSerif';
+    font-family: 'FontAwesome', sans-serif;
     content: '\f13d';
     margin:0 1em 0 -15px;
 }
 ul.download li:before {
-    font-family: 'FontAwesome', 'SansSerif';
+    font-family: 'FontAwesome', sans-serif;
     content: '\f019';
     margin:0 1em 0 -15px;
 }
@@ -203,17 +203,10 @@ Individual rules
     width: 80%;
 }
 
-#bouton-video {
-    margin-left: 30%;
-}
-
-#bouton-participez {
-    margin-left: 30%;
-}
-#Télécharger, #Inscription {
+#telecharger, #inscription {
     color: white;
 }
-#Télécharger.article {
+#telecharger.article {
     background-color: RGBA(200, 200, 200, 0.2);
 }
 
@@ -288,37 +281,48 @@ Background images
     padding-top: 15em;
 
 }
-#home, #Télécharger, #bientotdisponible, #Inscription, #reseauxsociaux {
-    width: 100%;
+.withbackground {
     background-size: cover;
-    min-height: 30em;
 }
 
-#Télécharger {
-    background-image: url("images/leguideFD.jpg");
+#telecharger {
+    background-image: url("images/leguideLD.jpg");
 }
 #bientotdisponible {
     background-image: url("images/plongeonsLD.jpg");
 }
-#Inscription {
+#inscription {
     background-image: url("images/fondtourfrance.png");
+    width: 100%;
+    background-size: cover;
+}
+#inscription h3 {
+    text-align: center;
 }
 #reseauxsociaux {
-    background-image: url("images/plongeonFD.jpg");
+    background-image: url("images/plongeonLD.jpg");
 }
 @media screen and(min-resolution: 100dpi){
     #home {
         background-image: url("images/headerFD.jpg");
     }
     #guides {
-        background-image: url("images/leguideLD.jpg");
+        background-image: url("images/leguideFD.jpg");
     }
     #bientotdisponible {
         background-image: url("images/plongeonsFD.jpg");
     }
     #reseauxsociaux {
-        background-image: url("images/plongeonLD.jpg");
+        background-image: url("images/plongeonFD.jpg");
     }
 
+}
+@media screen and (min-width: 800px){
+    html {
+        font-size: 22px;
+    }
+    .withbackground {
+        min-height: 700px;
+    }
 }
 
