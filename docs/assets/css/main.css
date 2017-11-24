@@ -96,6 +96,7 @@ video {
     height: 4em;
 }
 
+
 @media screen and (max-width: 900px) {
     .topnav a:not(:first-child) {
         display: none;
@@ -123,6 +124,28 @@ video {
         display: block;
         text-align: right;
     }
+}
+
+/*******************************************
+ Cookies alert bar
+*****************************************/
+#cookiesBar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    z-index: 1000;
+    display: none;
+}
+
+#cookiesButton {
+    font-size: 1em;
 }
 
 /*********************************************************
