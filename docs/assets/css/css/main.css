@@ -1,0 +1,518 @@
+/*
+ Parametres globaux
+ */
+html {
+    font-size: 14px;
+    font-family: Montserrat, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    z-index: 0;
+}
+
+p {
+    margin: 0.5em auto;
+    padding: 0.6em 1em;
+    font-size: 1.2em;
+}
+
+a:link {
+    text-decoration: none;
+    color: darkblue;
+}
+a:visited {
+    color: darkgoldenrod;
+}
+
+/*********************************************************
+Button styling
+
+**********************************************************/
+button {
+    background-color: RGB(32, 89, 140);
+    border: none;
+    color: white;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.5em;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bouton {
+    width: fit-content;
+    margin: auto;
+}
+
+video {
+    width: 100%;
+}
+
+/*********************************************
+
+        TOP NAV BAR
+        https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+
+***********************************************/
+
+.topnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-image: linear-gradient(RGBA(32, 89, 140, 0.8), RGBA(1, 171, 213, 0.8));
+    overflow: hidden;
+    z-index: 1000;
+
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 1.5em;
+    color: white;
+    text-decoration: none;
+    font-size: 1.3em;
+    text-shadow: 1px 1px 1px #0F0F0F;
+}
+
+.topnav a:hover {
+    color: whitesmoke;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.topnav a.image {
+    margin: 0;
+    padding: 0;
+}
+
+.topnav #logo {
+    /* header top margin */
+    height: 4em;
+}
+
+
+@media screen and (max-width: 900px) {
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .topnav.responsive {
+        position: relative;
+    }
+
+    .topnav.responsive a.icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: right;
+    }
+}
+
+/*******************************************
+ Cookies alert bar
+*****************************************/
+#cookiesBar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin: 0.5em;
+    padding: 0.5em;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    z-index: 1000;
+    display: none;
+}
+
+#cookiesButton {
+    font-size: 1em;
+}
+
+/*********************************************************
+
+General boxing rules
+
+**********************************************************/
+.container {
+    width: 100%;
+    color: black;
+}
+
+.content {
+    width: 86%;
+    max-width: 100em;
+    clear: both;
+    margin: 0 auto;
+}
+.TitleBanner {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 30em;
+    overflow: hidden;
+    background-image: url("/assets/css/images/headerFD.jpg");
+    text-shadow: 2px 2px 2px #0F0F0F;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.TitleBanner h1 {
+    font-size: 4em;
+    color: white;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: 5em;
+
+}
+.article {
+    display: inline-block;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    width: 45%;
+    vertical-align: middle;
+    min-width: 25em;
+}
+
+.article h1 {
+    margin: 1em 0 0 0;
+    font-size: 3em;
+    text-align: center;
+}
+
+.article h2 {
+    margin: .5em 0 0 0;
+    text-align: left;
+    font-size: 3em;
+}
+
+.article h3 {
+    margin: 1em 0 1em 0;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.article h4 {
+    margin: 1em 0 1em 0;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.article strong {
+    font-weight: bolder;
+}
+
+.article mark {
+    border: gold;
+}
+
+.article ul {
+    margin: 1em 1em;
+}
+
+.article li {
+    list-style-type: none;
+    padding-top: 1em;
+}
+
+ul.anchor li:before {
+    font-family: 'FontAwesome', sans-serif;
+    content: '\f13d';
+    margin: 0 1em 0 -15px;
+}
+
+ul.download li:before {
+    font-family: 'FontAwesome', sans-serif;
+    content: '\f019';
+    margin: 0 1em 0 -15px;
+}
+
+/**********************************************************
+
+Individual rules
+
+************************************************************/
+#home h1 {
+    position: relative;
+    color: white;
+    text-shadow: 2px 2px 2px #0F0F0F;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+    font-size: 3em;
+}
+
+#cestquoi #mynoteboatimage {
+    width: 80%;
+}
+
+#telecharger, #inscription {
+    color: white;
+}
+
+#telecharger.article {
+    background-color: RGBA(200, 200, 200, 0.2);
+}
+
+#imgreseauxsociaux {
+    width: 70%;
+    margin: 5em auto;
+    display: block;
+}
+
+.socialicon {
+    margin: 1em auto;
+    display: inline-block;
+    width: 3em;
+}
+
+#reseauxsociaux .content {
+    text-align: center;
+}
+
+footer {
+    background-image: linear-gradient(RGB(1, 171, 213), RGB(32, 89, 140));
+    text-align: center;
+    padding: 3em;
+}
+footer mark {
+    font-weight: bolder;
+    text-decoration: underline;
+    background-color: transparent;
+}
+#teamPresentation {
+    display: none;
+    z-index: 1000;
+
+}
+
+/**********************************************
+
+Box and button individual rules
+
+***********************************************/
+
+#présentation {
+    text-align: center;
+}
+
+#box_video {
+    width: 85%;
+    min-width: 450px;
+    min-height: 350px;
+    border-radius: 24px;
+    padding: 1em auto;
+    border: none;
+    background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
+}
+
+/*********************************************
+Blog
+ *********************************************/
+.blogpost ul {
+    padding-left: 4em;
+}
+.blogpost li {
+    font-size: 1.2em;
+}
+.blogindex {
+    margin: 4em auto;
+}
+.blogindex .content {
+    background-color: lightyellow;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.blogindex h1 {
+    font-size: 1.8em;
+}
+.blogindex h2 {
+    font-size: 1.4em;
+}
+.blogindex .left {
+    width: 60%;
+}
+.blogindex .right {
+    width: 30%;
+}
+.blogindex img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.blogindex button {
+    font-size: 1em;
+    width: 10em;
+}
+
+/**********************************************
+
+Background images
+
+***********************************************/
+#appmobile {
+    background-image: url("images/inauguration.png");
+}
+
+#cartedutour {
+    background-image: url("images/france.png");
+}
+
+#histoireimg {
+    background-image: url("images/raconteznousFD.jpg");
+    border-radius: 100%;
+    background-size: cover;
+}
+
+#appmobile, #cartedutour, #histoireimg {
+    min-height: 30em;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+#appmobile, #cartedutour {
+    background-size: contain;
+}
+
+#home {
+    background-image: url("images/headerLD.jpg");
+    padding-top: 15em;
+
+}
+
+.withbackground {
+    background-size: cover;
+}
+
+#telecharger {
+    background-image: url("images/leguideLD.jpg");
+}
+
+#bientotdisponible {
+    background-image: url("images/plongeonsLD.jpg");
+}
+
+#inscription {
+    background-image: url("images/fondtourfrance.png");
+    width: 100%;
+    background-size: cover;
+}
+
+#inscription h3 {
+    text-align: center;
+}
+
+#reseauxsociaux {
+    background-image: url("images/plongeonLD.jpg");
+}
+
+@media screen and(min-resolution: 100dpi) {
+    #home {
+        background-image: url("images/headerFD.jpg");
+    }
+
+    #guides {
+        background-image: url("images/leguideFD.jpg");
+    }
+
+    #bientotdisponible {
+        background-image: url("images/plongeonsFD.jpg");
+    }
+
+    #reseauxsociaux {
+        background-image: url("images/plongeonFD.jpg");
+    }
+
+}
+
+@media screen and (min-width: 800px) {
+    .withbackground {
+        min-height: 700px;
+    }
+}
+
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 580px;
+    background-color: white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+

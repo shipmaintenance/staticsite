@@ -1,0 +1,19 @@
+<div class="container blogindex">
+    {% for post in site.posts %}
+    {% if post.id != page.id %}
+    <div class="content blogindex">
+        <div class="article left">
+            <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+            <p class="author">
+                <span class="date">{{ post.date | date: "%-d/%m/%Y" }}</span>
+            </p>
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}"><button>Lire la suite...</button></a>
+        </div>
+        <div class="article right">
+            <img src="{{ post.featured_img }}">
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

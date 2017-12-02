@@ -1,27 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <script type="text/JavaScript" src="assets/js/analytics.js"></script>
-    <title>my noteboat - l'appli des plaisanciers</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <script type="text/javascript" src="assets/js/topnav.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-
-<body>
-<nav id="mytopnav" class="topnav">
-    <a href="#home" class="image"><img src="assets/images/logo.png" id="logo"></a>
-    <a href="#about">Présentation</a>
-    <a href="#telecharger">Téléchargez</a>
-    <a href="#raconteznous">Racontez-nous</a>
-    <a href="#reseauxsociaux">Suivez-nous</a>
-    <a href="#inscription">Inscription</a>
-    <a href="#contact">Contactez-nous</a>
-    <a href="javascript:void(0);" onclick="setTopNavVisibility()" title="Toggle Navigation Menu" id="topnavicon"
-       class="icon"><i class="fa fa-bars"></i></a>
-</nav>
+---
+layout: landingpage
+title: MyNoteboat, l'appli des plaisanciers
+---
 <header class="container withbackground" id="home">
     <h1>Avec l'application MyNoteboat,<br>
         profitez mieux de vos navigations</h1>
@@ -54,7 +34,7 @@
     <div class="content">
         <div class="article" id="guideatelecharger">
             <h1>Téléchargez<br> nos fichiers<br>digitaux</h1>
-            <div id="bouton_download" class="bouton"><a href="assets/pdf/exemples_telecharges.pdf" target="_blank">
+            <div id="bouton_download" class="bouton"><a href="assets/pdf/Reussir_sa_sortie.pdf" target="_blank">
                 <button>Quelques exemples</button>
             </a></div>
         </div>
@@ -116,56 +96,7 @@
             </p>
             <p>Comme eux, partagez vos aventures avec la communauté de my noteboat et ils pourrons en faire profiter les
                 autres en publiant vos meilleurs récits dans les guides.</p>
+            <a href="/blog"><button>Lire le journal de bord</button></a>
         </div>
     </div>
 </div>
-<div class="container withbackground" id="reseauxsociaux">
-    <div class="content">
-        <img src="assets/images/Mynoteboat_HD_png.png" alt="mynoteboat" id="imgreseauxsociaux">
-        <a href="https://www.facebook.com/My-noteboat-285323008607557/"><img src="assets/images/facebook-icon-S.png"
-                                                                             id="FB" class="socialicon"></a>
-        <a href="https://www.linkedin.com/company-beta/11143606/"><img src="assets/images/linkedin-icon-S.png" id="IN"
-                                                                       class="socialicon"></a>
-        <a href="https://twitter.com/my_noteboat"><img src="assets/images/twitter-icon-S.png" id="TW"
-                                                       class="socialicon"></a>
-        <a href="https://www.youtube.com/channel/UC5iMfCZCCSixfN9ojxpauiQ"><img src="assets/images/Youtube-Icon-S.png"
-                                                                                id="YT" class="socialicon"></a>
-    </div>
-</div>
-
-<!-- Footer -->
-<footer class="container" id="contact">
-    <p>Contactez directement <a class="popup" onclick="myFunction()"><strong>l'equipe</strong>
-        <mark class="popuptext" id="myPopup"><i class="fa fa-user-o" aria-hidden="true"></i>
-            <img src="assets/images/equipe.png" alt=equipe id=equipe>
-        </mark> à l'origine du projet :</p>
-    <p><i class="fa fa-location-arrow" aria-hidden="true"></i> My Noteboat - 51 rue des Chalâtres - 44 000 Nantes -
-        France</p>
-    <p><i class="fa fa-mobile" aria-hidden="true"></i> 06.41.02.61.98</p>
-    <p><a href="mailto:contact@mynoteboat.fr"><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@mynoteboat.fr</a>
-    </p>
-    <p><a href="assets/pdf/my_noteboat_mentions_legales.pdf" target="_blank">Mentions légales </a><a
-            href="assets/pdf/my_noteboat_CGU.pdf" target="_blank"> Conditions générales </a><a
-            href="assets/pdf/article.pdf" target="_blank"> Dossier de presse</a></p>
-    <p><a href="#home"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a></p>
-    <script>
-        // When the user clicks on div, open the popup
-        function myFunction() {
-            var popup = document.getElementById("myPopup");
-            popup.classList.toggle("show");
-        }
-    </script>
-</footer>
-<div id="cookiesBar">Nous utilisons des cookies pour suivre votre
-    navigation sur notre site et ainsi vous proposer
-    des fonctionnalités plus proches de vos attentes. <button id="cookiesButton">J'ai compris!</button></div>
-<script
-        src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-        crossorigin="anonymous"></script>
-<script type="application/javascript" src="assets/js/jquery.js">
-
-</script>
-
-</body>
-</html>

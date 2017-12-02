@@ -20,6 +20,10 @@ p {
 
 a:link {
     text-decoration: none;
+    color: darkblue;
+}
+a:visited {
+    color: darkgoldenrod;
 }
 
 /*********************************************************
@@ -155,7 +159,7 @@ General boxing rules
 **********************************************************/
 .container {
     width: 100%;
-    min-width: 40em;
+    color: black;
 }
 
 .content {
@@ -164,7 +168,26 @@ General boxing rules
     clear: both;
     margin: 0 auto;
 }
+.TitleBanner {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: 30em;
+    overflow: hidden;
+    background-image: url("/assets/css/images/headerFD.jpg");
+    text-shadow: 2px 2px 2px #0F0F0F;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.TitleBanner h1 {
+    font-size: 4em;
+    color: white;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: 5em;
 
+}
 .article {
     display: inline-block;
     padding: 0.5em;
@@ -275,6 +298,16 @@ footer {
     text-align: center;
     padding: 3em;
 }
+footer mark {
+    font-weight: bolder;
+    text-decoration: underline;
+    background-color: transparent;
+}
+#teamPresentation {
+    display: none;
+    z-index: 1000;
+
+}
 
 /**********************************************
 
@@ -294,6 +327,43 @@ Box and button individual rules
     padding: 1em auto;
     border: none;
     background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
+}
+
+/*********************************************
+Blog
+ *********************************************/
+.blogpost ul {
+    padding-left: 4em;
+}
+.blogpost li {
+    font-size: 1.2em;
+}
+.blogindex {
+    margin: 4em auto;
+}
+.blogindex .content {
+    background-color: lightyellow;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.blogindex h1 {
+    font-size: 1.8em;
+}
+.blogindex h2 {
+    font-size: 1.4em;
+}
+.blogindex .left {
+    width: 60%;
+}
+.blogindex .right {
+    width: 30%;
+}
+.blogindex img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.blogindex button {
+    font-size: 1em;
+    width: 10em;
 }
 
 /**********************************************

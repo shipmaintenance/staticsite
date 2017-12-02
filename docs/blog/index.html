@@ -1,0 +1,29 @@
+---
+layout: blogindex
+title: Le journal de bord MyNoteboat
+---
+{% for post in paginator.posts %}
+<div class="content blogindex">
+    <div class="article left">
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="author">
+            <span class="date">{{ post.date | date: "%-d/%m/%Y" }}</span>
+        </p>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url}}"><button>Lire la suite...</button></a>
+    </div>
+    <div class="article right">
+        <img src="{{ post.featured_img }}">
+    </div>
+</div>
+{% endfor %}
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Page précédente</a>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Page suivante</a>
+    {% endif %}
+</div>

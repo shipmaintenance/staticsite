@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'fr-FR' }}">
+{% include head.html %}
+<body>
+{% include navbar.html %}
+{% include posttopbanner.html %}
+<div class="container blogpost">
+    <div class="content">
+        {{ content }}
+        <p>{{page.author}}</p>
+    </div>
+</div>
+{% include partialblogindex.html %}
+<!-- Footer -->
+{% include foot.html %}
+{% include analytics.html %}
+</body>
+</html>
