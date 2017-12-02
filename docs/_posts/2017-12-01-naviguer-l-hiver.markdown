@@ -15,7 +15,7 @@ Windfinder publie les statistiques des vents sur l'ensemble des spots de France.
 
 Nous avons fait pour vous le tour de quelques plans d'eau connus.
 
-Commençons par un plan d'eau en Manche, Perros-Guirec. L'hiver, vous avez 55% du temps au dessus de force 4, l'été 35% au dessus de force 4. Cela vous donne la possibilité de sortir un week-end sur deux en hiver, si vous êtes tout le temps sur place, chiffre qu'il faut corriger en fonction des horaires des marées, si vous ne voulez pas quitter le port en pleine nuit, et des prévisions de houle.
+Commençons par un plan d'eau en Manche, Perros-Guirec. L'hiver, vous avez 55% du temps au dessus de force quatre, l'été 35% au dessus de force quatre. Cela vous donne la possibilité de sortir un week-end sur deux en hiver, si vous êtes tout le temps sur place, chiffre qu'il faut corriger en fonction des horaires des marées, si vous ne voulez pas quitter le port en pleine nuit, et des prévisions de houle.
 
 Pour la houle, le site du CANDHIS, Centre d'Archivage National de Données de Houle In-Situ, vous fournit les statistiques pour la bouée de Bréhat, qui n'est pas si loin. En hiver, la houle, en hauteur significative, est 80% du temps supérieure à un mètre et 80% du temps inférieure à deux mètres. Vous allez donc naviguer, en général, dans une houle de un à deux mètres. En été, vous économisez un bon demi mètre de houle, 20% du temps en dessous de cinquante centimètres et 80% en dessous de un mètre cinquante !
 
