@@ -15,13 +15,15 @@ Windfinder publie les statistiques des vents sur l'ensemble des spots de France.
 
 Nous avons fait pour vous le tour de quelques plans d'eau connus.
 
-Commençons par un plan d'eau en Manche, Perros-Guirec. L'hiver, vous avez 55% du temps au dessus de force 4, l'été 35%. Cela vous donne la possibilité de sortir un week-end sur deux en hiver si vous êtes tout le temps sur place, chiffre qu'il faudrait corriger en fonction des horaires des marées, si vous ne voulez pas quitter le port en pleine nuit, et des prévisions de houle.
+Commençons par un plan d'eau en Manche, Perros-Guirec. L'hiver, vous avez 55% du temps au dessus de force 4, l'été 35% au dessus de force 4. Cela vous donne la possibilité de sortir un week-end sur deux en hiver, si vous êtes tout le temps sur place, chiffre qu'il faut corriger en fonction des horaires des marées, si vous ne voulez pas quitter le port en pleine nuit, et des prévisions de houle.
 
-Pour la houle, le site du CANDHIS, Centre d'Archivage National de Données de Houle In-Situ, vous fournit les statistiques pour la bouée de Bréhat, qui n'est pas si loin. En hiver, la houle, en hauteur significative est 80% du temps supérieure à 1m et 80% du temps inférieure à 2m. Vous allez donc naviguer, en général, dans une houle de 1 à 2m. En été, vous gagnez économisez un bon 1/2 mètre de houle, 20% du temps en dessous de 0,5m et 80% en dessous de 1,5m!
+Pour la houle, le site du CANDHIS, Centre d'Archivage National de Données de Houle In-Situ, vous fournit les statistiques pour la bouée de Bréhat, qui n'est pas si loin. En hiver, la houle, en hauteur significative, est 80% du temps supérieure à un mètre et 80% du temps inférieure à deux mètres. Vous allez donc naviguer, en général, dans une houle de un à deux mètres. En été, vous économisez un bon demi mètre de houle, 20% du temps en dessous de cinquante centimètres et 80% en dessous de un mètre cinquante !
 
-Allons sur un site mieux abrité, à Brest, en rade, au port du Château. Du point de vue du vent, vous êtes 40% du temps au dessus de force 4 l'hiver - contre 55% à Perros-Guirec - et la plage de houle probable est 0,2m-0,4m, contre 1m-2m à Perros-Guirec. Les conditions sont donc nettement plus clémentes à Brest qu'en Manche, c'est une évidence.
+Allons sur un site mieux abrité, à Brest, en rade, au port du Château. Côté vent, vous êtes 40% du temps au dessus de force quatre l'hiver - contre 55% à Perros-Guirec - et la plage de houle probable est vingt centimètres à quarante centimètres, contre un mètre à deux mètres à Perros-Guirec. 
 
-Si vous vous aventurez hors de la rade, vous allez évidemment rencontrer des conditions plus aventureuses, puisque le vent est supérieur à force 4 70% du temps à la point saint Mathieu, voire 80% du temps au mois de mars, et quant à la houle, les relevés à la bouée Ouessant large ne sont guère favorables, avec une houle entre 1,5m et 4m l'hiver.
+Les conditions sont donc nettement plus clémentes à Brest qu'en Manche, c'est une évidence. Vous pourrez y naviguer la plupart du temps l'hiver dans des conditions plutôt agréables.
+
+Si vous vous aventurez hors de la rade, vous allez évidemment rencontrer des conditions plus aventureuses. Le vent est supérieur à force quatre 70% du temps à la point saint Mathieu, voire 80% du temps au mois de mars. Quant à la houle, les relevés à la bouée Ouessant large ne sont guère favorables, avec une houle entre un mètre cinquante et quatre mètres l'hiver. 
 
 En conclusion, pour naviguer régulièrement l'hiver, choisissez votre plan d'eau ou consultez les statistiques de votre plan d'eau habituel et adaptez vos sorties aux conditions de navigation!  
 
