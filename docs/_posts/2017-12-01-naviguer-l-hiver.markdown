@@ -11,7 +11,7 @@ En Manche et en Atlantique, naviguer l'hiver est souvent compliqué, quand les d
 En dehors de ces rades, si vous n'avez pas la chance d'avoir beaucoup de temps libre et d'habiter à deux pas de votre mouillage, les occasions de sortie sont peu nombreuses. 
 
 ## Statistiques météo
-[]Windfinder](https://www.windfinder.com/){:target="_blank"} publie les statistiques des vents sur l'ensemble des spots de France. Il suffit de choisir votre spot et de sélectionner, à partir des prévisions, l'onglet statistiques. Leur consultation vous donne une bonne indication quant à vos chances de naviguer.
+[Windfinder](https://www.windfinder.com/){:target="_blank"} publie les statistiques des vents sur l'ensemble des spots de France. Il suffit de choisir votre spot et de sélectionner, à partir des prévisions, l'onglet statistiques. Leur consultation vous donne une bonne indication quant à vos chances de naviguer.
 
 Nous avons fait pour vous le tour de quelques plans d'eau connus.
 
