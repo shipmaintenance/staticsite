@@ -9,7 +9,7 @@ featured_img: /assets/css/images/blog/needforspeed.jpg
 ## Quel est le potentiel de vitesse de votre bateau ?
 La croissance du motonautisme se poursuit, comme en témoigne l'espace important qui lui est réservé depuis quelques années au Nautique. 
 
-Le motonautisme est parfois considéré par certains voileux comme l'automobile des mers, une activité décérébrée, bruyante et polluante. Nous allons leur prouver, à travers les quelques lignes qui suivent, qu'il n'est pas sans complexité. 
+Le motonautisme est parfois considéré par les voileux comme l'automobile des mers, une activité décérébrée, bruyante et polluante. Nous allons leur démontrer, à travers les quelques lignes qui suivent, qu'il n'est pas sans complexité. 
 <!--break-->
 
 A ce sujet, le magazine [Professional Boatbuilder](https://www.proboat.com/){:target="_blank"} publie, dans son numéro d'octobre 2017, un article fort intéressant concernant l'estimation du potentiel de vitesse des bateaux à moteur. La formule de Crouch, qu'utilise le célèbre architecte naval [Lorne Campbell](http://lornecampbelldesign.com/){:target="_blank"}, bien connu dans le monde Anglo-Saxon pour ses coques planantes, est la suivante :
