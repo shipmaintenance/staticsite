@@ -23,7 +23,7 @@ Il faut impérativement prioriser l'effort et la dépense. A défaut, soit vous 
 ## Comment choisir les travaux à réaliser
 Le magazine [Wooden Boat](https://www.woodenboat.com/){:target="_blank"}  a publié récemment un article instructif sur l'entretien des [Windjammers](https://en.wikipedia.org/wiki/Windjammer){:target="_blank"}. 
 
-Les Windjammers sont [des goélettes du Maine](http://www.sailmainecoast.com/pick-a-ship/our-vessels/){:target="_blank"} exploitées commercialement au charter pendant la belle saison - je pense autour de 6 mois par an. Nous sommes aux Etats-Unis. La flotte n'est donc pas subventionnée. L'entretien des bateaux est assurée grâce aux revenus de l'activité charter et l'aide de bénévoles. Le modèle est finalement assez proche de celui de certains armements NUC français comme Etoile Marine, par exemple. 
+Les Windjammers sont [des goélettes du Maine](http://www.sailmainecoast.com/pick-a-ship/our-vessels/){:target="_blank"} exploitées commercialement au charter pendant la belle saison - je pense autour de 6 mois par an. Nous sommes aux Etats-Unis. La flotte n'est donc pas subventionnée. L'entretien des bateaux est assurée grâce aux revenus de l'activité charter et l'aide de bénévoles. Le modèle est finalement assez proche de celui de certains armements NUC français comme [Etoile Marine](https://www.etoile-marine.com/){:target="_blank"}, par exemple. 
 
 Nous en avons tiré quelques leçons, évidentes pour beaucoup de plaisanciers expérimentés, mais intéressantes :
 
