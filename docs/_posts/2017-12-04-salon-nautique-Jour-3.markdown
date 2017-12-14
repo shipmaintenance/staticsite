@@ -11,7 +11,7 @@ Aujourd'hui se termine notre troisième journée de présence au salon nautique 
 
 Nos visiteurs se sont plus facilement arrété devant notre stand pour regarder notre offre.  Leur curiosité et notre aisance à aller à leur rencontre puis à leur présenter notre produit nous ont permis de passer une excellente troisième journée.
 
-## Dés débuts difficiles
+## Des débuts difficiles
 
 Car nous ne faisions pas les "fiers" le 2 décembre un peu avant 10 heures. Entre l'excitation de rencontrer nos futurs clients et l'angoisse de leur réaction à la présentation de notre projet, nous étions un peu inquiets.  Puis les premières rencontres, la première présentation en public - Merci Christophe, Magalie, Téophane, Yvette et Bernard pour votre soutien - et les premiers retours, nous n'avions pas fait fausse route.
 

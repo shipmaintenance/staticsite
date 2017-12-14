@@ -9,7 +9,7 @@ featured_img: /assets/css/images/blog/l-appli.jpg
 Nous avons quitté le pavillon 2.1 du salon nautique de Paris hier soir. Pendant neuf jours nous avons rencontré des plaisanciers de France et d'ailleurs. 
 C'était un pari fou que nous avons entamé il y a presque 6 mois maintenant et que j'ai déjà expliqué au cours des dix derniers jours. Je la raconte maintenant pour ceux qui ne nous connaissent pas encore.
 <!--break-->
-## notre grande aventure
+## Notre grande aventure
 
 Tout a commencé au printemps 2017.  A cette époque je faisais les travaux d'entretien de notre muscadet familial. A l'abri dans un hangar, j'y consacrais quelques heures hebdomdaires. Des notes sur les travaux à faire, j'en avais dans mon téléphone, ma tablette, mon agenda, sur des post-it, etc.  Tant et si bien que je suis allé trois fois chez le shipchandler du coin en 1 mois.
 
