@@ -226,6 +226,9 @@ ul.anchor li:before {
     content: '\f13d';
     margin: 0 1em 0 -15px;
 }
+ul.anchor li {
+    list-style-type: none;
+}
 
 ul.download li:before {
     font-family: 'FontAwesome', sans-serif;
@@ -307,11 +310,30 @@ Box and button individual rules
 /*********************************************
 Blog
  *********************************************/
+.blogpost h1,h2,h3,h4 {
+    color: darkblue;
+}
+.blogpost h1 {
+    padding-left: 0;
+}
+.blogpost h2 {
+    padding-left: 1em;
+}
+.blogpost h3 {
+    padding-left: 2em;
+}
+.blogpost h4 {
+    padding-left: 3em;
+}
+
 .blogpost ul {
-    padding-left: 4em;
+    padding: 0 0 0 4em;
+    margin: 0.5em 0 0 0;
 }
 .blogpost li {
     font-size: 1.2em;
+    margin: 0.2em 0 0 0;
+    padding: 0;
 }
 .blogindex {
     margin: 4em auto;
