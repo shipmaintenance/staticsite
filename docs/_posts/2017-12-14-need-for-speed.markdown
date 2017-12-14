@@ -11,20 +11,20 @@ La croissance du motonautisme se poursuit, comme en témoigne l'espace important
 <!--break-->
 A ce sujet, le magazine [Professional Boatbuilder](https://www.proboat.com/){:target="_blank"} publie, dans son numéro d'octobre 2017, un article fort intéressant concernant l'estimation du potentiel de vitesse des bateaux à moteur. La formule de Crouch, qu'utilise le célèbre architecte naval [Lorne Campbell](http://lornecampbelldesign.com/){:target="_blank"}, bien connu dans le monde Anglo-Saxon pour ses coques planantes, est la suivante :
 
-![formule de Crouch](/assets/blog/crouchformula.jpg)
+![formule de Crouch](/assets/images/blog/crouchformula.jpg)
 
 Où C est une constante dépendant de la forme de la coque du bateau - et également de sa longueur - , V est la vitesse du bateau, P est la puissance du moteur, et W est la masse du bateau tout équipé, équipage inclus (déplacement en charge?).
 
-## Comment interpréter cette formule ?
+### Comment interpréter cette formule ?
 Le magazine reprend longuement les explications données par Lorne Campbell lors d'une conférence dans le cadre du [High Speed Boat Operations Forum](http://hsbo.org/){:target="_blank"}. Ce que doit en retenir un motoriste intéressé d'aller plus vite ou d'optimiser son bateau se résume à :
 
 - La formule ne s'applique qu'aux coques planantes. Pour les coques à déplacement, des formules de vitesse différentes s'appliquent (avec un paramètre bien connu en fonction de la racine carrée de la longueur de flottaison)
 - Le paramètre C est constant pour une forme de coque et des dimensions bien définies. On peut faire des prédictions, extrapolations, pour des dimensions ou des formes voisines, mais sans garantie
 - Ceci étant dit, pour un bateau donné, la vitesse atteignable est proportionnelle à la racine carrée de la puissance du moteur et inversement proportionnelle à la racine carrée du déplacement du bateau
 
-## Quelques exemples utiles pour ceux qui ont abandonné la lecture au niveau de la formule de calcul...
+### Quelques exemples utiles pour ceux qui ont abandonné la lecture au niveau de la formule de calcul...
 
-### Première exemple : pour les fous de vitesse
+#### Première exemple : pour les fous de vitesse
 Imaginons que : 
 
 - vous soyez l'heureux propriétaire d'un pneumatique semi-rigide, 
@@ -38,7 +38,7 @@ Supposons que, dans ces conditions, votre vitesse de pointe soit de 35 noeuds. V
 
 Si on oublie les gains en rigidité de l'ensemble qui peuvent améliorer le comportement à la mer, vous allez gagner 2,5 noeuds sur votre vitesse de pointe.
 
-### Deuxième exemple : quelle motorisation choisir ?
+#### Deuxième exemple : quelle motorisation choisir ?
 Imaginons que vous soyez sur le point d'acheter une coque open pour aller à la pêche :
 
 - la vitesse de croisière du bateau est de 15 noeuds
@@ -49,14 +49,14 @@ Quelle est la puissance nécessaire pour tenir la vitesse de croisière de 15 no
 
 Les données ci-dessus nous permettent de réaliser très simplement une estimation. La puissance nécessaire pour 15 noeuds est de 250*carré(15/28), soit environ 70CV!
 
-### Troisième exemple : quelle est la charge maximale admissible pour naviguer déjauger ?
+#### Troisième exemple : quelle est la charge maximale admissible pour naviguer déjauger ?
 J'ai longtemps navigué - et il m'arrive encore de naviguer - sur une "sécu de plage" de quatre mètres cinquante de longueur, équipée d'un moteur hors bord deux temps vingt cinq chevaux barre franche. La vitesse de pointe, seule à bord était d'environ 17 noeuds, pour une masse, pilote compris, de 250kg environ. La vitesse minimale déjaugée était d'environ 11 noeuds.
 
 Question : combien de passagers de 70 kg pouvais-je embarquer tout en gardant ma capacité de déjauger ?
 
 Ma charge maximale pour atteindre 11 noeuds était d'environ 250 x carré(17/11) soit 597kg ce qui fait une charge de 350kg soit cinq personnes + le pilote.
 
-### Et pour les paresseux
+#### Et pour les paresseux
 - Quand vous doublez la puissance moteur à déplacement constant, vous multipliez la vitesse de pointe par environ 1,4.
 - Quand vous doublez le déplacement (le poids de l'ensemble), il faut doubler la puissance moteur
 - Si votre vitesse de pointe est de 40 noeuds et que vous acceptez de naviguer à 20 noeuds seulement, vous pouvez théoriquement emporter une charge quatre fois plus grande! Mais il faudra probablement mettre une hélice adaptée à ce nouvel usage. Nous en reparlerons dans un prochain blog.
