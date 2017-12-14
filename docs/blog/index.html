@@ -3,17 +3,17 @@ layout: blogindex
 title: Le journal de bord MyNoteboat
 ---
 {% for post in paginator.posts %}
-<div class="content blogindex">
-    <div class="article left">
+<div class="row blogindex">
+    <div class="col-xs-12 col-md-6">
+        <img class="img-responsive" src="{{ post.featured_img }}">
+    </div>
+    <div class="col-xs-12 col-md-6">
         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
         <p class="author">
             <span class="date">{{ post.date | date: "%-d/%m/%Y" }}</span>
         </p>
-        <p>{{ post.excerpt }}</p>
-        <a href="{{ post.url}}"><button>Lire la suite...</button></a>
-    </div>
-    <div class="article right">
-        <img src="{{ post.featured_img }}">
+        {{ post.excerpt }}
+        <a href="{{ post.url }}"><button>Lire la suite...</button></a>
     </div>
 </div>
 {% endfor %}

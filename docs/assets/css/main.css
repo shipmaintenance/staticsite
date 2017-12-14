@@ -157,17 +157,6 @@ video {
 General boxing rules
 
 **********************************************************/
-.container {
-    width: 100%;
-    color: black;
-}
-
-.content {
-    width: 86%;
-    max-width: 100em;
-    clear: both;
-    margin: 0 auto;
-}
 .TitleBanner {
     background-size: cover;
     background-position: center;
@@ -188,52 +177,47 @@ General boxing rules
     margin-top: 5em;
 
 }
-.article {
-    display: inline-block;
-    padding: 0.5em;
-    margin: 0.5em 0;
-    width: 45%;
-    vertical-align: middle;
-    min-width: 25em;
+.row {
+    margin: 2em;
 }
 
-.article h1 {
+.row h1 {
     margin: 1em 0 0 0;
     font-size: 3em;
     text-align: center;
 }
 
-.article h2 {
+.row h2 {
     margin: .5em 0 0 0;
     text-align: left;
     font-size: 3em;
 }
 
-.article h3 {
+.row h3 {
     margin: 1em 0 1em 0;
     font-size: 1.5em;
     text-align: left;
 }
 
-.article h4 {
+.row h4 {
     margin: 1em 0 1em 0;
     font-size: 1.5em;
     text-align: left;
 }
 
-.article strong {
+.row strong {
     font-weight: bolder;
 }
 
-.article mark {
+.row mark {
     border: gold;
 }
 
-.article ul {
+.row ul {
     margin: 1em 1em;
 }
 
-.article li {
+.row li {
     list-style-type: none;
     padding-top: 1em;
 }
@@ -340,8 +324,6 @@ Blog
 }
 .blogindex {
     margin: 4em auto;
-}
-.blogindex .content {
     background-color: lightyellow;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -351,15 +333,8 @@ Blog
 .blogindex h2 {
     font-size: 1.4em;
 }
-.blogindex .left {
-    width: 60%;
-}
-.blogindex .right {
-    width: 30%;
-}
 .blogindex img {
-    max-height: 100%;
-    max-width: 100%;
+    margin: 10% auto;
 }
 .blogindex button {
     font-size: 1em;
