@@ -6,7 +6,7 @@ date:   2017-12-01 08:00:00
 categories: main
 featured_img: /assets/css/images/blog/naviguerlhiver.jpg
 ---
-En Manche et en Atlantique, naviguer l'hiver est souvent compliqué, quand les dépressions se succèdent. Mais si vous avez l'opportunité naviguer près de certains plans d'eau relativement abrités, principalement les grandes rades, la navigation est possible. On peut citer, parmi ces plans d'eau, la rade de Brest, la rade de Lorient, la baie de Quiberon, bien sûr...
+En Manche et en Atlantique, naviguer l'hiver est souvent compliqué, quand les dépressions se succèdent. Mais si vous avez l'opportunité d'accèder à certains plans d'eau relativement abrités, principalement les grandes rades, l'aventure est largement possible. On peut citer, parmi ces plans d'eau, la rade de Brest, la rade de Lorient, la baie de Quiberon, bien sûr...
 <!--break-->
 En dehors de ces rades, si vous n'avez pas la chance d'avoir beaucoup de temps libre et d'habiter à deux pas de votre mouillage, les occasions de sortie sont peu nombreuses. 
 
