@@ -39,7 +39,7 @@ Supposons que, dans ces conditions, votre vitesse de pointe soit de 35 noeuds. V
 - 80kg, cela fait un gain de poids d'environ 15%
 - le gain de vitesse sera donc d'environ 7% soit  2,5 noeuds
 
-Si on oublie les gains en rigidité de l'ensemble qui peuvent améliorer le comportement à la mer, vous allez gagner 2,5 noeuds sur votre vitesse de pointe.
+Si on oublie les gains en rigidité de l'ensemble qui peuvent améliorer le comportement à la mer, votre vitesse de pointe sera de 37,5 noeuds contre 35 noeuds auparavant... ce n'est pas la révolution de ce côté-là.
 
 #### Quelle motorisation choisir ?
 Imaginons que vous soyez sur le point d'acheter une coque open pour aller à la pêche :
