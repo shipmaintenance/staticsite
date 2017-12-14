@@ -218,7 +218,6 @@ General boxing rules
 }
 
 .row li {
-    list-style-type: none;
     padding-top: 1em;
 }
 
@@ -273,7 +272,7 @@ Individual rules
     width: 3em;
 }
 
-#reseauxsociaux .content {
+#reseauxsociaux {
     text-align: center;
 }
 
@@ -298,15 +297,7 @@ footer mark {
 Box and button individual rules
 
 ***********************************************/
-
-#présentation {
-    text-align: center;
-}
-
 #box_video {
-    width: 85%;
-    min-width: 450px;
-    min-height: 350px;
     border-radius: 24px;
     padding: 1em auto;
     border: none;
