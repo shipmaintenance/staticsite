@@ -9,6 +9,7 @@ featured_img: /assets/css/images/blog/hivernage.jpg
 ## Fin de saison
 En Bretagne, les dernières grandes marées d'automne annoncent la fin de la saison de navigation. A partir d'octobre, beaucoup de mouillages, exposés à l'Ouest, sont difficilement tenables. Y laisser son bateau, surtout si on habite un peu loin, est pour le moins risqué. 
 <!--break-->
+
 C'est donc le moment d'installer son bateau à son poste d'hivernage, en haut de la grève, de sortir la remorque pour l'abriter dans un hangar ou au chantier du coin, 
 de  reprendre sa place dans le bassin à flot, accessible aux heures de marée haute. 
 
