@@ -4,7 +4,8 @@ author: MDY
 title:  "Hivernage"
 date:   2017-11-30 14:00:00
 categories: main
-featured_img: /assets/css/images/blog/hivernage.jpg
+image: /assets/css/images/blog/hivernage.jpg
+description: "En Bretagne, les dernières grandes marées d'automne annoncent la fin de la saison de navigation. A partir d'octobre, beaucoup de mouillages, exposés à l'Ouest, sont difficilement tenables. Y laisser son bateau, surtout si on habite un peu loin, est pour le moins risqué. Quelques précautions sont nécessaires pour préparer son bateau à l'hivernage..."
 ---
 ## Fin de saison
 En Bretagne, les dernières grandes marées d'automne annoncent la fin de la saison de navigation. A partir d'octobre, beaucoup de mouillages, exposés à l'Ouest, sont difficilement tenables. Y laisser son bateau, surtout si on habite un peu loin, est pour le moins risqué. 

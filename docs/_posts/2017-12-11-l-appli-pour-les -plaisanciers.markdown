@@ -4,7 +4,8 @@ author: PJT
 title:  "L'appli pour les plaisanciers au salon de Paris"
 date:   2017-12-11 21:30:00
 categories: main
-featured_img: /assets/css/images/blog/l-appli.jpg
+image: /assets/css/images/blog/l-appli.jpg
+description: "Nous avons quitté le pavillon 2.1 du salon nautique de Paris hier soir. Pendant neuf jours nous avons rencontré des plaisanciers de France et d'ailleurs. Retour sur un pari un peu fou."
 ---
 Nous avons quitté le pavillon 2.1 du salon nautique de Paris hier soir. Pendant neuf jours nous avons rencontré des plaisanciers de France et d'ailleurs. 
 C'était un pari fou que nous avons entamé il y a presque 6 mois maintenant et que j'ai déjà expliqué au cours des dix derniers jours. Je la raconte maintenant pour ceux qui ne nous connaissent pas encore.

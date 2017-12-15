@@ -4,7 +4,8 @@ author: MDY
 title:  "Need for speed"
 date:   2017-12-14 14:00:00
 categories: main
-featured_img: /assets/css/images/blog/needforspeed.jpg
+image: /assets/css/images/blog/needforspeed.jpg
+description: Le motonautisme est parfois considéré par les voileux comme l'automobile des mers, une activité décérébrée, bruyante et polluante. Nous allons leur démontrer, à travers les quelques lignes qui suivent, qu'il n'est pas sans complexité. 
 ---
 ## Quel est le potentiel de vitesse de votre bateau ?
 La croissance du motonautisme se poursuit, comme en témoigne l'espace important qui lui est réservé depuis quelques années au Nautique. 

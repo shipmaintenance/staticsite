@@ -310,7 +310,7 @@ Box and button individual rules
 /*********************************************
 Blog
  *********************************************/
-.blogpost h1,h2,h3,h4 {
+.blogpost h1, .blogpost h2, .blogpost h3, .blogpost h4 {
     color: darkblue;
 }
 .blogpost h1 {
@@ -414,6 +414,7 @@ Background images
 #reseauxsociaux {
     background-image: url("images/plongeonLD.jpg");
 }
+
 
 @media screen and(min-resolution: 100dpi) {
     #home {

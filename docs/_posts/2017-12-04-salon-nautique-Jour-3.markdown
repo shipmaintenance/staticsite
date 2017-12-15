@@ -4,8 +4,10 @@ author: PJT
 title:  "Salon nautique, troisième jour."
 date:   2017-12-04 22:45:00
 categories: main
-featured_img: /assets/css/images/blog/arrivee_salon.jpg
+image: /assets/css/images/blog/arrivee_salon.jpg
+description: "Aujourd'hui se termine notre troisième journée de présence au salon nautique de Paris.  Après les plaisanciers de la journée d'ouverture puis ceux de Dimanche mélangés à de promeneurs, je m'attendais à une chute de la fréquentation dans les coursives de notre pavillon.  Avant même l'ouverture des portes, mon voisin me prévenait: 'tu verras, les plaisanciers qui viennent durant la semaine sont plus exigeants '.  Premier bilan du bénéfice d'un stand au Nautic."
 ---
+
 Aujourd'hui se termine notre troisième journée de présence au salon nautique de Paris.  Après les plaisanciers de la journée d'ouverture puis ceux de Dimanche mélangés à de promeneurs, je m'attendais à une chute de la fréquentation dans les coursives de notre pavillon.  Avant même l'ouverture des portes, mon voisin me prévenait: " tu verras, les plaisanciers qui viennent durant la semaine sont plus exigeants ".  Moi qui pensais avoir un peu de temps pour le développement de notre web-app, me voilà averti.
 <!--break-->
 
