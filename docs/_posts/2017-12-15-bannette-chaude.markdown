@@ -1,7 +1,7 @@
 ---
 layout: default
 author: IT
-title:  "La banette chaude"
+title:  "La bannette chaude"
 date:   2017-12-15 21:00:00
 categories: main
 description: Mes premières impressions suite à mon premier séjour au Nautic 2017.
