@@ -430,6 +430,7 @@ Background images
     #reseauxsociaux {
     background-image: url("images/plongeonLD.jpg");
 }
+}
 
 @media screen and (min-width: 800px) {
     .withbackground {
