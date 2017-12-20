@@ -6,6 +6,6 @@ markdown: kramdown
 paginate: 10
 paginate_path: "/blog/page:num"
 excerpt_separator: <!--break-->
-url: "http://www.mynoteboat.fr"
+url: "http://pjtiberghien.github.io/staticsite/"
 plugins:
   - jekyll-sitemap
