@@ -383,23 +383,11 @@ Background images
     background-size: contain;
 }
 
-#home {
-    background-image: url("images/headerLD.jpg");
-    padding-top: 15em;
-
-}
-
 .withbackground {
     background-size: cover;
 }
 
-#telecharger {
-    background-image: url("images/leguideLD.jpg");
-}
 
-#bientotdisponible {
-    background-image: url("images/plongeonsLD.jpg");
-}
 
 #inscription {
     background-image: url("images/fondtourfrance.png");
@@ -410,13 +398,6 @@ Background images
 #inscription h3 {
     text-align: center;
 }
-
-#reseauxsociaux {
-    background-image: url("images/plongeonLD.jpg");
-}
-
-
-@media screen and(min-resolution: 100dpi) {
     #home {
         background-image: url("images/headerFD.jpg");
     }
@@ -432,7 +413,22 @@ Background images
     #reseauxsociaux {
         background-image: url("images/plongeonFD.jpg");
     }
+@media screen and (max-width: 700px){
+    #home {
+        background-image: url("images/headerLD.jpg");
+        padding-top: 15em;
+    }
 
+    #telecharger {
+    background-image: url("images/leguideLD.jpg");
+}
+
+    #bientotdisponible {
+    background-image: url("images/plongeonsLD.jpg");
+}
+
+    #reseauxsociaux {
+    background-image: url("images/plongeonLD.jpg");
 }
 
 @media screen and (min-width: 800px) {
