@@ -400,6 +400,7 @@ Background images
 }
     #home {
         background-image: url("images/headerFD.jpg");
+        padding-top: 15em;
     }
 
     #guides {
@@ -419,7 +420,7 @@ Background images
         padding-top: 15em;
     }
 
-    #telecharger {
+    #guides {
     background-image: url("images/leguideLD.jpg");
 }
 
