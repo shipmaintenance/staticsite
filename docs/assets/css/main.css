@@ -403,7 +403,7 @@ Background images
         padding-top: 15em;
     }
 
-    #guides {
+    #telecharger {
         background-image: url("images/leguideFD.jpg");
     }
 
@@ -418,19 +418,19 @@ Background images
     #home {
         background-image: url("images/headerLD.jpg");
         padding-top: 15em;
-    }
+            }
 
-    #guides {
+    #telecharger {
     background-image: url("images/leguideLD.jpg");
-}
+    }
 
     #bientotdisponible {
     background-image: url("images/plongeonsLD.jpg");
-}
+    }
 
     #reseauxsociaux {
     background-image: url("images/plongeonLD.jpg");
-}
+    }
 }
 
 @media screen and (min-width: 800px) {
