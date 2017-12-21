@@ -415,6 +415,9 @@ Background images
         background-image: url("images/plongeonFD.jpg");
     }
 @media screen and (max-width: 700px){
+    .withbackground {
+        min-height: 957px;
+    }
     #home {
         background-image: url("images/headerLD.jpg");
         padding-top: 15em;
