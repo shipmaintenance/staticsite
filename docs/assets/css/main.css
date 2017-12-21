@@ -416,8 +416,8 @@ Background images
     }
 @media screen and (max-width: 799px){
     .withbackground {
-        background-size: contain;
-        background-repeat: no-repeat
+        background-size: cover;
+        min-height: 145%;
     }
     #home {
         background-image: url("images/headerLD.jpg");
