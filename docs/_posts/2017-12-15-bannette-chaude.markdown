@@ -7,7 +7,7 @@ categories: main
 description: Mes premières impressions suite à mon premier séjour au Nautic 2017.
 image: /assets/css/images/blog/banetteChaude.jpg
 ---
-## une bibliothécaire dans les allées du Nautic.
+## Une bibliothécaire dans les allées du Nautic
 
 Ce salon nautique 2017, c’était mon tout premier. Première fois que je tenais un stand, première fois que je développais un argumentaire commercial, première fois que je me confrontais au regard parfois intimidant d’un client potentiel.  Pour un rat de bibliothèque, être sous les feux de la rampe demande une phase d’adaptation.
 <!--break-->
