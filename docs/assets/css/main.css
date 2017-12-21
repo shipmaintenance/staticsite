@@ -65,7 +65,7 @@ video {
     top: 0;
     left: 0;
     width: 100%;
-    background-image: linear-gradient(RGBA(32, 89, 140, 0.8), RGBA(1, 171, 213, 0.8));
+    background-image: linear-gradient(RGBA(32, 89, 140, 1), RGBA(1, 171, 213, 1));
     overflow: hidden;
     z-index: 1000;
 
@@ -414,9 +414,9 @@ Background images
     #reseauxsociaux {
         background-image: url("images/plongeonFD.jpg");
     }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 799px){
     .withbackground {
-        min-height: 957px;
+        background-size: cover;
     }
     #home {
         background-image: url("images/headerLD.jpg");
