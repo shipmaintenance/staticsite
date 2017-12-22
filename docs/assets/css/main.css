@@ -425,7 +425,8 @@ Background images
             }
 
     #telecharger {
-    background-image: url("images/leguideLD.jpg");
+        background-image: url("images/leguideLD.jpg");
+        padding-bottom: 15em;
     }
 
     #bientotdisponible {
