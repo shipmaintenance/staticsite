@@ -417,11 +417,11 @@ Background images
 @media screen and (max-width: 799px){
     .withbackground {
         background-size: cover;
-        min-height: 1000px;
     }
     #home {
         background-image: url("images/headerLD.jpg");
         padding-top: 15em;
+        padding-bottom: 15em
             }
 
     #telecharger {
@@ -433,7 +433,9 @@ Background images
     }
 
     #reseauxsociaux {
-    background-image: url("images/plongeonLD.jpg");
+        background-image: url("images/plongeonLD.jpg");
+        padding-top: 15em;
+        padding-bottom: 15em;
     }
 }
 
