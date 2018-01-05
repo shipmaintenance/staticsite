@@ -8,7 +8,7 @@ image: /assets/css/images/blog/tempete.jpg
 description: Quelques conseils entre deux accalmies pour les bateaux qui hivernent en extrieur.
 ---
 
-Ces tempêtes ont sévi le long des facades de la France avec des répercussion sur la Manche,  l’Atlantique et la Méditerranée de sorte qu’une grande partie des bateaux de plaisance de la métropole ou de Corse a été touché par cette météo hivernale.
+Ces tempêtes ont sévi le long des facades de la France avec des répercussions sur la Manche,  l’Atlantique et la Méditerranée de sorte qu’une grande partie des bateaux de plaisance de la métropole ou de Corse a été touché par cette météo hivernale.
 <!--break-->
 Variation de température et vent fort malmènent nos embarcations et nous devons redoubler de vigilance.  Mais nous n’avons pas les même possibilités selon que notre bateau séjourne dans notre garage ou à la place D24 du port du port des Minimes quand on habite à Paris ou encore plus loin, en Alsace.  Dans tous les cas, nous vous donnons quelques conseils.
 
