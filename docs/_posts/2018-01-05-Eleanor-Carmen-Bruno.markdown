@@ -4,7 +4,7 @@ author: PJT
 title:  "Eleanor, Carmen et Bruno"
 date:   2018-01-05 21:30:00
 categories: main
-image: 
+image: /assets/css/images/blog/tempete.jpg
 description: Quelques conseils entre deux accalmies pour les bateaux qui hivernent en extrieur.
 ---
 
