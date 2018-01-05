@@ -23,13 +23,10 @@ Ensuite il faut reprendre l’amarrage de votre bateau et remplacer les amarres 
 Attention il ne faut pas que le tuyau glisse à l’extérieur sinon il sera rapidement inutile.  Si vous possédez un voilier, il ne faut surtout pas utiliser d’ancienne écoutes ou drisses.  D’abord par ce qu’elle sont déjà usées et ensuite par ce qu’elle n’ont pas l’élasticité que l’on attend d’une amarre.
 
 ## Et pour les bateaux à sec ?
-Vous ne vous sentiez pas concerné car votre bateau est au sec cependant il est déjà arrivé que des bateaux tombent de leur ber pendant [une tempête] (http://www.infocapagde.com/index.php?op=newindex&catid=5&marqeur=850)
-{:target="_blank"}.  
+Vous ne vous sentiez pas concerné car votre bateau est au sec cependant il est déjà arrivé que des bateaux tombent de leur ber pendant [une tempête](http://www.infocapagde.com/index.php?op=newindex&catid=5&marqeur=850){:target="_blank"}.  
 Nous vous suggèrerons l’aller inspecter votre bateau et de contrôler son calage.  Si vous avez un doute, vous pouvez le faire doubler: deux précautions valent mieux qu’une.
 
 ## Des inspections à faire tout au long de l’hiver.
 Certains ont l’habitude d’aller inspecter leur bateau pendant l’hiver.  Pour les autres, nous vous invitons à renouveler ces inspections après de gros coups de vent et régulièrement durant l’hiver.  Cela permet en plus de quitter l’air des villes pour la brise vivifiante du large.
 
 A bientôt.
-
-PJT
