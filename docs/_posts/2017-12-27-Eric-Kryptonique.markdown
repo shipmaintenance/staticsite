@@ -1,7 +1,7 @@
 ---
 layout: default
 author: PJT
-title: "Eric et le Kryptonic"
+title: "Eric et la Kryptonique"
 date: 2017-12-27-16:30
 catégories: main
 Description: Kryptonique et my noteboat, l'avènement du digitale dans notre quotidien
