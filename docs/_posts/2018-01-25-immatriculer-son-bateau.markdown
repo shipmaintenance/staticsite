@@ -2,7 +2,7 @@
 layout: default
 author: PJT
 title: Cadeaux et voeux pour 2018
-date: 2018-01-11 15:00
+date: 2018-01-25 15:00
 categorie: main
 image: /assets/css/images/blog/bateau-mynoteboat.jpg
 description: un bref résumé de nos mésaventures au moment d'immatriculer notre bateau.  Cette expérience servira certainement un futur propriétaire de bateau qui envisage de passer par le bon coin.
@@ -29,8 +29,10 @@ Comme le chèque n’est toujours pas encaissé, je lui rappelle que notre accor
 
 Aujourd’hui l’affaire est en bonne voie.  je peux récupérer le bateau pour les besoins de My noteboat et enfin pouvoir naviguer avec.
 
-## Conclusions de notre aventures
-Toute cette mésaventure pour vous rappeler si vous envisagez d’acheter un bateau prochainement de:
-bien vous assurer que le vendeur est le propriétaire du bateau;
-faire toujours immatriculer votre bateau, même si sa navigation et le puissance moteur ne l’exigent pas: la trace d’immatriculation reste visible sur la coque !
-méfiez-vous quand même des amis ;-)
+## Conclusions de notre aventure
+Toute cette mésaventure pour vous rappeler quelques éléments important si vous envisagez d’acheter un bateau prochainemen:
+* bien vous assurer que le vendeur est le propriétaire du bateau;
+* faites toujours immatriculer votre bateau, même si sa navigation et le puissance moteur ne l’exigent pas.  Il est enregistré par l'administration et la trace d’immatriculation reste visible sur la coque !
+* méfiez-vous quand même des amis ;-)
+
+A bientôt,
