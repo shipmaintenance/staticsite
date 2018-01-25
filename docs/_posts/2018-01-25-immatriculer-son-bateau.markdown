@@ -10,7 +10,7 @@ description: un bref résumé de nos mésaventures au moment d'immatriculer notr
 
 ## my noteboat immatricule son bateau
 L’été dernier, pour démontrer le bien-fondé de My noteboat, nous avons entrepris d’acheter un bateau qui correspond à ce qui se vend le plus sur le marché français: une coque rigide avec un moteur hors-bord.  A cet époque, un ami en avait un dans son garage alors dans un immense moment de générosité, nous l’avons acheté « et là, c’est le drame »
-
+<!--break-->
 Evidemment nous avions discuté du bateau, de son état et des papiers.  Certes, ils étaient au nom de l’ancien propriétaire et avec un acte de vente partiellement vierge pour le nouvel acquéreur. Mais n’écoutant que mon coeur, je tope dans la main en lui permettant d’encaisser le chèque une fois les papiers à mon nom.
 
 ## un bateau volé
