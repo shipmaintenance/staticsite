@@ -1,19 +1,19 @@
 ---
 layout: default
 author: BJ
-Title: les passes-coque et leurs vannes de nos bateaux
+Title: Les passes-coque et leurs vannes de nos bateaux
 date: 2018-01-29 15:00:00
 categories: main
 image: assets/css/images/blog/entretien.jpg
 description: nous profitons de l'hiver et des travaux que vous pouvez effectuer sur votre bateau pour attirer votre attention sur les passe-coques et leurs vannes.
 ---
-## de l'importance des passes-coque et vannes
+## De l'importance des passes-coque et vannes
 Les vannes et passe-coques font parties de l’équipement qui doit être le plus surveillé à bord, que ce soit en hivernage à flot sur un ponton ou lors d’une traversée de l’atlantique.
 
 Sur le marché des fabricants, on trouve principalement des vannes et des passe-coques en laiton, en bronze, en PVC et en acier inoxydable. Les entreprises doivent être certifiées pour les commercialiser. (Exemple : marquage CE et ou numéro de norme) .
 <!--break-->
 
-## un grand choix de matériaux
+## Un grand choix de matériaux
 Chacune de ces matières apportent des qualités différentes, avantages et inconvénients.
 Par exemple, l’inox ne prévient pas quand il casse.
 Le PVC est fragile au choc, (éviter de mettre le pied dessus sur un coup de roulis). Il cuit aussi rapidement dans les eaux ensoleillées.  
@@ -24,7 +24,7 @@ Ne jamais mélanger un passe coque en inox avec une vanne en laiton (ou vice ver
 Les passe-coques sont soumis à la  législation de la Division maritime de sécurité 240.
 Les passe-coques doivent être munies de vannes ¼ tour. La tuyauterie doit être fixée avec deux colliers inox de serrage.
 
-## quels sont les entretiens à faire
+## Quelles règles d'entretien ?
 Les entretiens des vannes doivent être effectués très régulièrement. Les postes doivent être propres, asséchés pour éviter l’osmose des coques polyester, qui va se développer en périphérie.
 Les vannes doivent être soigneusement graissées et actionnées régulièrement.
 On rencontre souvent des problèmes ayant deux WC à bord et c’est tout le temps le même WC qui fonctionne.  Par conséquent les vannes restent souvent bloquées dans l’autre WC qui ne fonctionne que quelque fois par an.
