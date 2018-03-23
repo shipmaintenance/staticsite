@@ -3,7 +3,7 @@ layout: default
 author: PJT
 title:  "pendant ce temps..."
 date:   2018-03-08 20:30:00
-categorie: main
+categories: main
 image: /assets/css/images/blog/coding.jpg
 description: l'hiver touche à sa fin et certains parmi vous profitent de la neige pour descendre quelques pistes avant de reprendre le travail, pendant ce temps-là...
 ---

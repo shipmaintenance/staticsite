@@ -2,8 +2,8 @@
 layout: default
 author: PJT
 title: immatriculer son bateau
-date: 2018-01-25 15:00
-categorie: main
+date: 2018-01-25 15:00:00
+categories: main
 image: /assets/css/images/blog/bateau-mynoteboat.JPG
 description: un bref résumé de nos mésaventures au moment d'immatriculer notre bateau.  Cette expérience servira certainement un futur propriétaire de bateau qui envisage de passer par le bon coin.
 ---

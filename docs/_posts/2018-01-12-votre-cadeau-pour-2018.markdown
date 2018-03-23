@@ -2,8 +2,8 @@
 layout: default
 author: PJT
 title: Cadeaux et voeux pour 2018
-date: 2018-01-11 15:00
-categorie: main
+date: 2018-01-11 15:00:00
+categories: main
 image: /assets/css/images/blog/voeux-cadeaux.jpg
 description: 
 ---

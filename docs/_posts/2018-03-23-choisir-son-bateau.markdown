@@ -1,9 +1,9 @@
 ---
 layout: default
-author: pjt
+author: PJT
 title:  "choisir son bateau"
 date:   2018-03-23 19:00:00
-categorie: main
+categories: main
 image: /assets/css/images/blog/acheter-un-bateau.jpg
 description: Doucement nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps des we rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée, encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.
 ---
