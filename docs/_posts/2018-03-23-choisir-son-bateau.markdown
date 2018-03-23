@@ -1,13 +1,13 @@
 ---
 layout: defaut
 author: pjt
-title: choisir son bateau
+title: "choisir son bateau"
 date: 2018-03-23 19:00
 categorie: main
-picture: /assets/css/images/blog/acheter-un-bateau.jpg
+image: /assets/css/images/blog/acheter-un-bateau.jpg
 description: Doucement nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps des we rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée, encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.
 ---
-## Pour quel programme voulez-vous acheter un bateau ?
+## Acheter un bateau, pour quel programme ?
 - La zone de navigation: afin de bien répondre à cette question, le mieux est de connaître votre zone de navigation.  Si vous envisagez de naviguer dans le bassin d’Arcachon ou en Méditerranée, nous imaginez bien que la question du tirant d’eau de votre - futur - bateau de ne pose pas de la même manière.
 <!--break-->
 

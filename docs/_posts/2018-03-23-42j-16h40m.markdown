@@ -1,0 +1,20 @@
+---
+layout: default
+author: PJT
+title:  "42j 16h 40m avant les premières navigations"
+date:   2017-12-14 14:00:00
+categories: main
+image: /assets/css/images/plongeosnFD.jpg
+description: 42j 16h 40m, c'était le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire, c'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai 
+---
+Est-ce que nous serons aussi prêt que François Gabart le jour de son départ ?
+<!--break-->
+
+## Est-ce que mon bateau sera prêt ?
+Est-ce que je suis au point sur les travaux qu'il faut faire sur mon bateau avant une nouvelle saison de navigation ?  Que je les fasse ou qu'un technicien les réalisent pour moi.  Entre les révisions du moteur, le carénage et la mise à l'eau, le temps joue contre nous dorénavant .  
+Il y a quelques jours, je discutais avec un mécanicien marine du Golfe du Morbihan et il m'expliquait que des plaisanciers se réveillaient pour une mise à l'eau à Pâques quand son calendrier est plein jusqu'en juin.
+
+## Est-ce que je serai prêt ?
+En 2017, les statistiques publiées par la [Prefecture maritime de l'Atlantique](https://www.premar-atlantique.gouv.fr/communiques-presse/bilan-campagne-2017-securite-des-activites-nautiques.html) sur les accidents en mer n'étaient pas bonnes. Ne vaut-il pas mieux prendre quelques minutes pour réviser les classiques de la sécurité en mer ?  Nous reviendrons sur ce sujet dans une quinzaine de jours. En attendant, vous pouvez regarder les documents que nous avons mis à votre disposition.
+
+A bientôt,
