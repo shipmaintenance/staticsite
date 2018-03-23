@@ -2,7 +2,7 @@
 layout: default
 author: PJT
 title:  "42j 16h 40m avant les premières navigations"
-date:   2017-12-14 14:00:00
+date:   2018-03-23 14:00:00
 categories: main
 image: /assets/css/images/plongeosnFD.jpg
 description: 42j 16h 40m, c'était le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire, c'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai 
