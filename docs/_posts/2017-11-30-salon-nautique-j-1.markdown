@@ -1,7 +1,7 @@
 ---
 layout: default
 author: MDY
-title:  Nautique : j-1
+title:  "Nautique : j-1"
 date:   2017-11-30 08:00:00
 categories: main
 image: /assets/css/images/blog/salonNautique.jpg
