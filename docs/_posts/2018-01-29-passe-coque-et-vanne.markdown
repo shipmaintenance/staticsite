@@ -7,7 +7,6 @@ categories: main
 image: assets/css/images/blog/entretien.jpg
 description: Nous profitons de l'hiver et des travaux que vous pouvez effectuer sur votre bateau pour attirer votre attention sur les passe-coques et leurs vannes.
 ---
-## De l'importance des passe-coques et vannes
 Les vannes et passe-coques font parties de l’équipement qui doit être le plus surveillé à bord, que ce soit en hivernage, à flot sur un ponton, ou lors d’une traversée de l’Atlantique.
 
 Sur le marché, on trouve principalement des vannes et des passe-coques en laiton, en bronze, en PVC et en acier inoxydable. Les entreprises doivent être certifiées pour les commercialiser. (Exemple : marquage CE et ou numéro de norme) .
