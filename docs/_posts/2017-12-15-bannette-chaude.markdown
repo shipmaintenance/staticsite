@@ -1,15 +1,15 @@
 ---
 layout: default
 author: IT
-title:  "La bannette chaude"
+title:  La bannette chaude
 date:   2017-12-15 21:00:00
 categories: main
-description: Mes premières impressions suite à mon premier séjour au Nautic 2017.
+description: Premières impressions suite à mon séjour au Nautic 2017.
 image: /assets/css/images/blog/banetteChaude.jpg
 ---
 ## Une bibliothécaire dans les allées du Nautic
 
-Ce salon nautique 2017, c’était mon tout premier. Première fois que je tenais un stand, première fois que je développais un argumentaire commercial, première fois que je me confrontais au regard parfois intimidant d’un client potentiel.  Pour un rat de bibliothèque, être sous les feux de la rampe demande une phase d’adaptation.
+Ce salon nautique 2017, c’était mon tout premier; première fois que je tenais un stand, première fois que je développais un argumentaire commercial, première fois que je me confrontais au regard parfois intimidant d’un client potentiel.  Pour un rat de bibliothèque, être sous les feux de la rampe demande une phase d’adaptation.
 <!--break-->
 
  Surtout, ne pas trop montrer que j’étais une novice en la matière; j’ai rapidement appris à convertir les pieds en mètres, histoire de ne pas trop me prendre les pieds dans le tapis! J’avoue que le premier we fut un peu difficile puis je prenais goût au jeu. Car  finalement, nous faisions de vraies rencontres, très riches humainement. 	

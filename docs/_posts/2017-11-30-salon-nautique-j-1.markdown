@@ -1,11 +1,11 @@
 ---
 layout: default
 author: MDY
-title:  "Nautique : j-1"
+title:  Nautique : j-1
 date:   2017-11-30 08:00:00
 categories: main
 image: /assets/css/images/blog/salonNautique.jpg
-description: "Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes. Que faire dans cet environnement?"
+description: Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes. Que faire dans cet environnement?
 ---
 ## Pourquoi aller au Nautique ?
 Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes.

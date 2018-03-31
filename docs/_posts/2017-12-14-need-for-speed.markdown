@@ -1,7 +1,7 @@
 ---
 layout: default
 author: MDY
-title:  "Need for speed"
+title:  Need for speed
 date:   2017-12-14 14:00:00
 categories: main
 image: /assets/css/images/blog/needforspeed.jpg

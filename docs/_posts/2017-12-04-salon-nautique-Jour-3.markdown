@@ -1,7 +1,7 @@
 ---
 layout: default
 author: PJT
-title:  "Salon nautique, troisième jour."
+title:  Salon nautique, troisième jour
 date:   2017-12-04 22:45:00
 categories: main
 image: /assets/css/images/blog/arrivee_salon.jpg
