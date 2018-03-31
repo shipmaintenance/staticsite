@@ -4,7 +4,7 @@ author: BJ
 Title: Les passe-coques et les vannes de nos bateaux
 date: 2018-01-29 15:00:00
 categories: main
-image: assets/css/images/blog/entretien.jpg
+image: /assets/css/images/blog/entretien.jpg
 description: Nous profitons de l'hiver et des travaux que vous pouvez effectuer sur votre bateau pour attirer votre attention sur les passe-coques et leurs vannes.
 ---
 Les vannes et passe-coques font parties de l’équipement qui doit être le plus surveillé à bord, que ce soit en hivernage, à flot sur un ponton, ou lors d’une traversée de l’Atlantique.
