@@ -5,7 +5,7 @@ title:  Choisir son bateau
 date:   2018-03-23 19:00:00
 categories: main
 image: /assets/css/images/blog/acheter-un-bateau.jpg
-description: Doucement nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps, les week-ends rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée. Encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.
+description: Doucement, nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps, les week-ends rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée. Encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.
 ---
 Doucement nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps, les week-ends rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée. Encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.<!--break-->
 ## Acheter un bateau, pour quel programme ?
