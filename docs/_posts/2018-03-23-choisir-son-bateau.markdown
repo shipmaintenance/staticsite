@@ -9,15 +9,13 @@ description: Doucement nous quittons l’hiver et déjà les température remont
 ---
 Doucement nous quittons l’hiver et déjà les température remontent en métropole.  Avec la sortie des premiers bourgeons s’annonce le printemps, les week-ends rallongés et l’été. Certains parmi nous envisagent d’acheter un bateau.  C’est une excellente idée. Encore faut-il se poser quelques questions pour faire le meilleur achat. Voici nos conseils en la matière.
 ## Acheter un bateau, pour quel programme ?
-- La zone de navigation: si vous envisagez de naviguer dans le bassin d’Arcachon ou en Méditerranée, vous imaginez bien que la question du tirant d’eau de votre - futur - bateau de ne pose pas de la même manière. Pour naviguer à la journée en baie, à la semaine dans une zone à fort marnage, faire des aller-retours entre Toulon et la Corse le week-end, ou vivre à bord six mois par an dans les Caraïbes, le bateau le plus adapté est différent.Si vous souhaitez changer régulièrement de zone de navigation et êtes plutot adepte de navigation côtière, l'acquisition d'un bateau transportable est une option à étudier.
-<!--break-->
-
+- La zone de navigation: si vous envisagez de naviguer dans le bassin d’Arcachon ou en Méditerranée, vous imaginez bien que la question du tirant d’eau de votre - futur - bateau de ne pose pas de la même manière. Pour naviguer à la journée en baie, à la semaine dans une zone à fort marnage, faire des aller-retours entre Toulon et la Corse le week-end, ou vivre à bord six mois par an dans les Caraïbes, le bateau le plus adapté est différent.Si vous souhaitez changer régulièrement de zone de navigation et êtes plutot adepte de navigation côtière, l'acquisition d'un bateau transportable est une option à étudier.<!--break-->
 - Solitaire ou en groupe: dans le programme de navigation, il faut se demander aussi si c’est pour une navigation en solitaire avec d’autres personnes.  Que ce soit pour aller à la pêche des copains, bouffer de l’écoute autour de trois bouées, faire du du wake-board ou encore traverser l’atlantique en famille, les bateaux qui pourront retenir votre attention ne seront pas du tout les mêmes.
 - L'expérience du propriétaire et de son équipage: le choix du bateau doit intégrer ce point critique.  Si vous n’avez pas navigué depuis plus de 10 ans ou que votre famille n’y connait rien, vous ne pouvez pas envisager le même investissement que si vous avez amariné votre équipage depuis de longues années.  Certains bateaux sont plus physiques, plus confortables à la mer, ou meilleurs marcheurs que d'autres. Le bon compromis entre ces différentes qualités n'est pas toujours facile à trouver.
 
 Vous commencez à vous faire une idée du votre futur bateau. Il nous faut maintenant aborder le sujet qui fâche: l’argent.
 
-## Quel sont vos budgets d’achat et d’entretien annuel ?
+## Quels sont vos budgets d’achat et d’entretien annuel ?
 Avant d’aller plus loin n’oubliez jamais qu’un bateau coûte à l’année 10% de sa valeur.  Et quand je dis valeur, ce n’est pas celle de l’annonce sur un site ou un journal d’occasion mais celle neuve. Nous reviendrons sur ce sujet dans un prochain billet.
 
 Après ces considérations initiales, n’oubliez pas que nous avons pas encore discuté du stockage du bateau entre deux navigations.
