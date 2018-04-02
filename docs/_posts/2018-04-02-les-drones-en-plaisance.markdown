@@ -11,7 +11,7 @@ L'usage des drones se développent dans le monde maritime. Les projets de [Rolls
 
 Quelques projets qui intéressent le monde de la plaisance voient le jour, notamment pour le secours en mer. Une rapide recherche sur Internet permet de trouver [de nombreux modèles de drones aériens](https://www.google.fr/search?q=rescue+drone+sea){:target="_blank"} transportant des bouées couronne ou d'autres dispositifs de sauvegarde. 
 
-Des projets sont également possibles pour faciliter et améliorer la précision de largage [des chaînes SAR](http://secu-equipage.over-blog.com/article-16136892.html){:target="_blank"} pour le secours en haute mer.  
+Des projets sont également possibles pour faciliter et améliorer la précision de largage [des chaînes SAR](http://secu-equipage.over-blog.com/article-16136892.html){:target="_blank"} lors des opérations de secours en haute mer.  
 
 Tour d'horizon...<!--break-->
 
