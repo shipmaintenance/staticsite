@@ -30,6 +30,6 @@ $(document).ready(() => {
         return [year, month, day].join('');
     }
     $('[future-date]').each(function() {
-        if($(this).attr('future-date') < getCompareDate()) $(this).hide();
+        if($(this).attr('future-date') > getCompareDate()) $(this).hide();
     });
 });
