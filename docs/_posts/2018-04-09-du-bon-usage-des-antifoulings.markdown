@@ -31,7 +31,7 @@ Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-ex
 ### Précisions 
 L’application d’une ou de deux couches de primaire est vivement conseillé, surtout pour les bateaux en aluminium, afin d’isoler le cuivre.  
 
-Les prix abordés sont à titre indicatif à des fins de comparaisons.
+Les prix sont donnés à titre indicatif à des fins de comparaisons.
 
 Les associations de plaisanciers arrivent à  baisser légèrement les prix grâce à des commandes groupées. 
 
