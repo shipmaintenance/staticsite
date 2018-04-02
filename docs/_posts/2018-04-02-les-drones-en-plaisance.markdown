@@ -28,7 +28,7 @@ En discutant avec des professionnels, on constate rapidement que, au delà des a
 - Bâtiment de servitude dans les ports, pour assister le remorquage, le lamanage ou les opérations autour des grands navires
 - Navettes automatiques sur des liaisons simples et régulières comme la traversée d'un fleuve
 
-Pour la plaisance, il nous suffit de transposer cette vision des professionnels pour en déduire un certain nombre d'applications pour la plaisance.
+Il nous suffit de transposer cette vision des professionnels pour en déduire un certain nombre d'applications pour la plaisance.
 
 ## Inspection et surveillance
 De plus en plus de propriétaires de bateaux filment leur bateau à l'aide de drones. Intérêt ? Le drone permet des prises de vue aérienne qui ne sont pas possibles depuis un semi-rigide. Il  est beaucoup moins onéreux et moins intrusif que l'hélicoptère. Il offre, par exemple, la satisfaction de voir de l'extérieur que l'on possède [le plus gros](https://www.amazon.com/Mines-Bigger-Extraordinary-Greatest-Sailboat-ebook/dp/B000TDGGS8/){:target="_blank"}, le plus beau bateau du port. Pour le photographe de voiliers, il offre un nouveau moyen d'expression artistique. Une bonne vidéo peut, dans certains cas, constituer un bon support pour valoriser son bateau lors de sa revente. Un drone peut également être un auxiliaire intéressant pour vérifier le réglage du gréement et des voiles ou s'entraîner ou suivre des régates. L'arbitrage par drone n'est pas encore de mise mais va sûrement apparaître pour les régates.  
