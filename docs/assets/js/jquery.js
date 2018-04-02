@@ -20,7 +20,5 @@ $(document).ready(() => {
         $('#teamPresentation').toggle();
 
     })
+    getCompareDate();
 });
-
-
-
