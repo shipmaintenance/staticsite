@@ -7,7 +7,7 @@ categories: main
 image: /assets/css/images/blog/coquebois.jpg
 description: "avantages inconvénients des différents matériaux de construction des coques de navires de plaisance"
 ---
-Choisir le matériau de construction de la coque de son bateau est important. Aussi cela mérite d’envisager les avantages et inconvénients avant de retenir l’aluminium ou le polyester.<!--script-->
+Choisir le matériau de construction de la coque de son bateau est important. Aussi cela mérite d’envisager les avantages et inconvénients avant de retenir l’aluminium ou le polyester.<!--break-->
 
 Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-expertises.com/){:target="_blank"}
 
