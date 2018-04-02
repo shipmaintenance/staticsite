@@ -20,5 +20,5 @@ $(document).ready(() => {
         $('#teamPresentation').toggle();
 
     })
-    getCompareDate();
+    $(document).getCompareDate();
 });
