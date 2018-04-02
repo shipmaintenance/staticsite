@@ -4,6 +4,7 @@ google_analytics: 'UA-74142838-2'
 title: My noteboat, l'appli des plaisanciers
 markdown: kramdown
 paginate: 10
+show_drafts: true
 paginate_path: "/blog/page:num"
 excerpt_separator: <!--break-->
 url: "http://www.mynoteboat.fr"
