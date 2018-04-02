@@ -510,3 +510,9 @@ Background images
     }
 }
 
+table, th, td {
+    border: 1px solid navy;
+}
+table {
+    border-collapse: collapse;
+}
