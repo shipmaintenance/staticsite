@@ -34,6 +34,7 @@ La surveillance des plages ou des spots de surf, ou le secours aux baigneurs et 
 
 ## Une annexe à votre service
 A plus ou moins long terme, vous pouvez également envisager une annexe automatique. Sur les très grosses unités, il pourrait s'agir d'un scooter des mers automatique qui tracterait les enfants sur une bouée ou le propriétaire sur son mono-ski à la place de l'homme d'équipage à l'heure de la sieste.
+
 ![Skieur nautique](/assets/images/blog/skinautique.jpg)
 
 Sur des unités plus modestes, on pourrait envisager une annexe qui retournerait seul au bateau quand on est à terre, et reviendrait vous chercher de même quand vous en avez besoin. Cette annexe pourrait également être utilisée pour assister certaines manoeuvres, pousser le bateau à la place d'un propulseur auxiliaire, remorquer un bateau qui n'a pas de moteur, ou oringuer une ancre.
