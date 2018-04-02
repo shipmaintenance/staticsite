@@ -72,13 +72,16 @@ Elles permettent d’augmenter le rendement et ainsi diminuer la consommation de
 En forme de bec de canard, les hélices repliables permettent de diminuer considérablement la trainée de l’hélice lorsque le bateau navigue à la voile.
 
 ## Les matériaux
-### Aluminium forgé
+### L'aluminium forgé
+
 Les hélices en aluminium en moulage forgé ont l’avantage que les pales ne subissent pas de flexion, ce qui améliore le rendement, d’où l’économie de carburant, optimisation de la vitesse, déjaugeage plus rapide, pilotage plus aisé, meilleure stabilité dans les virages.
 
-### Inox
+### L'inox
+
 Les hélices en inox sont moins sensibles à la dégradation des extrémités des pales (bords de fuite) lorsqu’il y a cavitation.
 
-### Bronze
+### Le bronze
+
 Les hélices en bronze sont très utilisées pour les moteurs in-board.
 
 
