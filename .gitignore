@@ -1,9 +1,9 @@
-.DS_Store
+*.DS_Store
 _site/
 .sass-cache/
 .jekyll-metadata
 *.iml
-CNAME
+*CNAME
 *.rbc
 *.DS_Store
 capybara-*.html
