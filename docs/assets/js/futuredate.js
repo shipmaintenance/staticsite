@@ -1,5 +1,4 @@
-<script>
-    function getCompareDate() {
+function getCompareDate() {
     var d = new Date(),
         month = '' + (d.getMonth() + 1),
         day = '' + d.getDate(),
@@ -23,4 +22,3 @@ $(firstfuturedate).each(function() {
         return false;
     }
 });
-</script>
