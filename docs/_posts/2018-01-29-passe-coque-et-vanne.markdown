@@ -1,7 +1,7 @@
 ---
 layout: default
 author: BJ
-Title: Les passe-coques et les vannes de nos bateaux
+title: Les passe-coques et les vannes de nos bateaux
 date: 2018-01-29 15:00:00
 categories: main
 image: /assets/css/images/blog/entretien.jpg

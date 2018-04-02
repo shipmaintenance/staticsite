@@ -1,0 +1,64 @@
+---
+layout: default
+author: BJY
+title:  Le safran, élément capital de la performance, de la sécurité et du toucher de barre
+date:   2018-07-16 18:00:00
+categories: main
+image: /assets/css/images/blog/safran.jpg
+description: "le safran du bateau, élément capital en terme de toucher de barre, de sécurité, de performance"
+---
+Le safran est la partie  immergée du gouvernail qui sert à dévier le flux d’eau sous la coque du bateau. Le pivotement du safran permet de diriger le bateau. Il est plus efficace quand il est situé derrière l’hélice car le flux d’eau est accéléré dans cette zone. Divers types de safrans équipent les bateaux. L’angle de barre est déterminant pour un safran efficace.
+Comment  barrer efficacement et gagner vos courses ?<!--break-->
+
+Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-expertises.com/){:target="_blank"}
+
+## Les différents types de safrans :
+
+On distingue le _safran suspendu_ sous la coque en porte-à-faux, le _safran articulé_ en partie basse qui est  placée à l’extrémité du talon de quille,  le _safran compensé, non compensé, et semi compensé_.
+
+Les constructeurs de bateaux ont adaptés les safrans pour optimiser au mieux les manœuvres de navigation. 
+
+De nombreux dériveurs et voiliers de courses ont des safrans en deux parties articulées, car ils sont relevables, afin de faciliter les arrivées de plage et de constituer moins de trainée en navigation.
+
+Certains chantiers nautiques et  constructeurs amateurs ont préféré équiper leurs bateaux avec  des doubles safrans. Cela procure une meilleure efficacité lorsque le voilier s’incline à la gite. Ils peuvent naviguer qu’avec un seul safran aux allures portantes pour réduire la trainée. C’est aussi une sécurité complémentaire en cas d’arrachement de l’un des deux par un OFNI.   
+
+
+## Les éléments primordiaux du safran : L’angle de barre et le couple du safran
+
+_L’angle de barre_ est l’angle d’orientation du safran par rapport à l’axe longitudinal du bateau. Certains bateaux sont équipés d’un indicateur d’angle de barre. Il affiche le zéro degré lorsque la barre est dans l’axe, les angles maxi  à droite et à gauche. C’est une grande aide que d’avoir connaissances de ces indications pour effectuer  des manœuvrés compliquées (surtout pour les marches en arrière).
+
+Lors d’un virement de bord l’angle de barre ne doit pas être trop ouvert car le safran  frêne considérablement l’allure du bateau. Son excès d’ouverture ralenti les filets d’eau sur la coque, et par conséquent le bateau ralenti.
+
+_Le couple du safran_ est le couple nécessaire à gouverner. Il dépend de la vitesse de l’eau passant sur la surface du gouvernail à un certain angle, de sa dimension, de son balayage total et de sa surface de compensation. Ce sont principalement les architectes qui valident tous ces calculs.
+
+Pour tourner, le bateau a besoin d’une force de déviation sur le safran et d’un point de pivot (la quille ou la  dérive).
+Pour être efficace le gouvernail doit conserver un angle optimal de 15 à 30 degrés. Il y a alors écoulement laminaire autour du gouvernail.
+La force de déviation est la résultante de deux forces : la trainée qui est parallèle au fluide (eau),  et la portance perpendiculaire à la trainée.   
+Dans le cadre ou la portance est trop forte, le voilier va avoir tendance à enfourner lorsqu’il navigue rapidement alors qu’il doit rester le plus possible dans ses lignes d’eau.
+
+Si le safran est sous dimensionné, les manœuvres seront moins efficaces car plus difficiles à réaliser. Il faudra bien anticiper le pilotage.
+
+La position du safran par rapport à la coque est également primordiale. Sur un voilier, lors d'un départ au lof, il arrive que le safran ventile ou que la pelle du safran sorte de l'eau.
+
+Enfin, la position de l'hélice par rapport au safran, sur un bateau à moteur ou un voilier à propulsion auxiliaire, influe beaucoup sur la maneuvrabilité au moteur. En marche avant, le flux d'eau déplacé par l'hélice est envoyé dans le safran et dévié par ce dernier pour modifier la direction du bateau.
+
+
+## Equilibre sous voile
+Le safran donne le la quant au réglage des voiles. Un safran trop dur, trop mou, indique sans hésitation un voilier mal réglé. Sous pilote automatique, dans des conditions normales, un pilote qui travaille trop est aussi le signe d'un bateau mal réglé. Pourquoi ? idéalement, le couple carène-voile doit apporter l'essentiel de l'équilibre et ramener naturellement le bateau sur son axe d'évolution. Trop de travail sur le safran indique donc un mauvaise réglage, trop de toile, le choix d'un compromis cap/vitesse peu adapté. 
+
+## La protection du safran
+Lorsque le safran est suspendu, la quille constitue un élément important de protection du safran contre les "OFNI", objets flottants non identifiés. Ce n'est évidemment pas le cas sur un bi-safran ou un biquille mono-safran. Pour les bateaux qui peuvent échouer, dériveur intégral par exemple, la protection du safran est point important à surveiller.
+
+Il faut également avoir un plan en tête en cas de perte du safran, ou plus généralement d'avarie de barre.
+
+
+## Conseils pour bien barrer : le toucher de barre
+
+C’est le toucher de barre fait la différence entre les grands barreurs. Leur grand secret consiste à conserver au maximum la barre dans l’axe longitudinal du bateau afin de ne pas freiner sa vitesse. Chaque à-coup ou mouvement brusque tend à freiner le bateau.   Il faut rester maitre de son navire mais le piloter tout en douceur, en finesse. 
+
+Ce sont principalement dans les virements de bord que l’on peut essayer de s’améliorer. Sur un voilier, le virement doit être franc, mais sans trop casser la vitesse. La trajectoire du bateau doit être la plus rectiligne possible.
+ 
+
+
+
+
