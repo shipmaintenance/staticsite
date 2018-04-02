@@ -35,7 +35,7 @@ De plus en plus de propriétaires de bateaux filment leur bateau à l'aide de dr
 
 L'utilisation d'un drone pourrait également être envisagée pour inspecter le gréement ou investiguer un problème en tête de mat. La méthode a évidemement ses limites; les drones ne volent pas forcèment bien dans des conditions musclées; on a du mal à imaginer un skipper lançant son drone pour comprendre ce qui se passe en tête de mat quand le spi est en vrac...
 
-La surveillance des plages ou des spots de surf, ou le secours aux baigneurs et aux surfers, est un autre domaine où les drones peuvent être envisagés. Cet usage a aussi ses limites; le temps de vol des drones est limité; l'intérêt de surveiller sur écran ce que l'on peut, dans certains cas, voir directement en étant correctement installé sur un point haut à proximité de la plage est discutable.
+La surveillance des plages ou des spots de surf, ou le secours aux baigneurs et aux surfers, est un autre domaine où les drones peuvent trouver une application. Cet usage a aussi ses limites; le temps de vol des drones est limité; l'intérêt de surveiller sur écran ce que l'on peut, dans certains cas, voir directement en étant correctement installé sur un point haut à proximité de la plage est discutable.
 
 
 ## Une annexe à votre service
