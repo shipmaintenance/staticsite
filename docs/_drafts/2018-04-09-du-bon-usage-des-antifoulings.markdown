@@ -2,7 +2,7 @@
 layout: default
 author: BJY
 title:  Antifouling, prix, qualité, entretien
-date:   2018-04-09 18:00:00
+date:   2018-04-05 18:00:00
 categories: main
 image: /assets/css/images/blog/antifouling.jpg
 description: "Le point sur les antifoulings, comment choisir entre les différents antifoulings, et comment bien les appliquer"
@@ -29,11 +29,11 @@ Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-ex
 | Co polymères auto polissant | Eau douce et eau salée, sans impact négatif sur l’environnement, protection 24 mois, réservé aux professionnels | NC | 300€ |
 
 ### Précisions 
-L’application d’une ou de deux couches de primaire est vivement conseillé, surtout pour les bateaux en aluminium, afin d’isoler le cuivre.  
+L’application d’une ou de plusieurs couches de primaire est vivement conseillé.
 
 Les prix sont donnés à titre indicatif à des fins de comparaisons.
 
-Les associations de plaisanciers arrivent à  baisser légèrement les prix grâce à des commandes groupées. 
+Les associations de plaisanciers arrivent à baisser légèrement les prix grâce à des commandes groupées. 
 
 ## Comment fonctionne les différents types d’antifouling ?
 ### 1) les antifoulings  avec polymères auto- polissant :
@@ -58,3 +58,5 @@ La préparation de la coque avant l’application de l’antifouling est primord
 La coque doit être très légèrement poncée au grain fin, pour favoriser l’accroche de la prochaine application puis dégraissée, rincée, bien sèche et sans poussière.
 Bien respecter les temps de séchages en fonction de la température  indiquée par le fabricant avant  la mise à l’eau. Il est déconseillé d’effectuer  l’antifouling trop tôt avant la mise à l’eau car la peinture au contact de l’air s’oxyde plus vite. Elle perd ses qualités mécaniques. (ne pas dépasser 3 mois maximum).
 
+Protégez-vous des projections avec combinaison, masque et gants qui pourraient démanger lors du nettoyage.  
+Lors de la pose des nouvelles couches, portez ces mêmes équipements de protection.

@@ -53,19 +53,18 @@ Si l’on fait varier le pas de l’hélice d’un pouce (1’’=25,4 mm), la m
 
 
 ## Les différentes formes d'hélices
-### Les hélices 3 pales :
+### Les hélices 3 pales fixes :
 
 Pour les moteurs hors-bords (4 temps), parmi les nombreuses hélices proposées, toutes fabriquées en Asie (JAPON, TAIWAN, COREE DU SUD), la majorité est constituée de 3 pales fixes en alliage d’aluminium dont le diamètre varie de 7 à 21 pouces et le pas de 8 à 23 pouces. Le nombre de splines de de 10 à 19.
 
-### Les hélices 4 pales :
+### Les hélices 4 pales fixes :
 
 Les hélices fixes munies de quatre pales sont aussi fabriquées mais en moindre quantité.
 Celles-ci ont l’avantage d’être mieux équilibrées et moins bruyantes car l’effet de résonnance est diminué. Elles favorisent la poussée du bateau à faible vitesse.
 
-
 ### Les hélices à pas variable ou à pas réglable :
 
-Elles permettent d’augmenter le rendement et ainsi diminuer la consommation de carburant. 
+Elles permettent une grande souplesse quant à la poussée de l'hélice.   
 
 ### Les hélices rétractables :
 

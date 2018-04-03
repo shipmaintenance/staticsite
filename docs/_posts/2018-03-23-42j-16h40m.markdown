@@ -4,10 +4,17 @@ author: PJT
 title:  42j 16h 40m avant les premières navigations
 date:   2018-03-23 14:00:00
 categories: main
+<<<<<<< Updated upstream
 image: /assets/css/images/blog/launching.jpg
 description: 42j 16h 40m, c'est le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire; c'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai 
 ---
 Serez-vous aussi prêt que François Gabart le jour de son départ ?
+=======
+image: /assets/css/images/plongeonsFD.jpg
+description: Le pont du 1er mais, c'est dans 6 semaines, chaque minute compte... 
+---
+42j 16h 40m, c'était le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire. C'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai.  Est-ce que nous serons aussi prêt que François Gabart le jour de son départ ?
+>>>>>>> Stashed changes
 <!--break-->
 
 ## Est-ce que votre bateau sera prêt ?

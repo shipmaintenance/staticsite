@@ -15,8 +15,8 @@ Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-ex
 
 **Le matériel de sécurité doit être complet en fonction de  la navigation en vigueur.**
 
-- Les gilets de sauvetage (avec marquage CE) doivent être adaptés pour les adultes mais  encore plus pour les  enfants, car en cas de chute à la mer, ils doivent se sentir à l’aise dans l’eau.  
-- Les harnais de sécurité et les longes doivent être à poste. Dans le cadre ou les jeunes  enfants ne savent  nager, ils doivent être harnachés s’ils accèdent au cockpit et  ou au pont.
+- Les gilets de sauvetage (avec marquage CE) doivent être adaptés pour les adultes mais  encore plus pour les  enfants, car en cas de chute à la mer, ils doivent se sentir à l’aise dans l’eau.  C'est pourquoi il est obligatoire de respecter les indications de poids pour les plus jeunes.
+- Les harnais de sécurité et les longes doivent être à poste. Dans le cadre où les jeunes  enfants ne savent  nager, ils doivent être harnachés s’ils accèdent au cockpit et  ou au pont.
 - Sur de nombreux bateaux de plaisance, les propriétaires ajoutent des filets fixés entre les filières et les chandeliers. 
 - La VHF doit fonctionner : effectuer un test de fonctionnement VHF en appelant le port. «Pour essai radio…. ». Si vous ne disposez que d'un téléphone mobile, assurez-vous que sa batterie est chargée et que vous connaissez le numéro d'appel d'urgence en mer, **196**.
 - Quelques jeux peuvent être embarqués (cartes, dés à jouer, livres…), Ils seront contents de déconnecter de temps en temps pour retrouver leurs univers.

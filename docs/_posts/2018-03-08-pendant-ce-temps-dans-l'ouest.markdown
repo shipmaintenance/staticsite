@@ -12,7 +12,12 @@ L'hiver touche à sa fin. Certains parmi vous profitent de la neige pour descend
 ## Une nouvelle saison de navigation a déjà commencé
 Les plus sportifs parmi nous ont déjà remis leur veste de quart, soit pour s'entrainer en régate soit pour aller à la pêche.  
 
+<<<<<<< Updated upstream
 ## Les premiers salons nautiques de l'année ouvrent
+=======
+<!--break-->
+## les premiers salons nautiques de l'année ouvrent
+>>>>>>> Stashed changes
 A Lyon, le salon consacré au loisir d'eau s'est fermé il y a quelques semaines,
 A [La Ciotat](http://www.salon-lesnauticales.com), [Lorient](http://www.lorient-nautic.com) ou [Port Camargue](http://www.lesnautiques.com) etc... on prépare les salons qui ouvriront dans quelques semaines.
 
