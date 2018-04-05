@@ -60,3 +60,5 @@ Bien respecter les temps de séchages en fonction de la température  indiquée 
 
 Protégez-vous des projections avec combinaison, masque et gants qui pourraient démanger lors du nettoyage.  
 Lors de la pose des nouvelles couches, portez ces mêmes équipements de protection.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [mailto](blog@mynoteboat.fr)
