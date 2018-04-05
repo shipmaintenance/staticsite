@@ -62,3 +62,5 @@ Protégez-vous des projections avec combinaison, masque et gants qui pourraient 
 Lors de la pose des nouvelles couches, portez ces mêmes équipements de protection.
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,

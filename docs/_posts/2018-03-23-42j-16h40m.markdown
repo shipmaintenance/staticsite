@@ -4,17 +4,10 @@ author: PJT
 title:  42j 16h 40m avant les premières navigations
 date:   2018-03-23 14:00:00
 categories: main
-<<<<<<< Updated upstream
 image: /assets/css/images/blog/launching.jpg
 description: 42j 16h 40m, c'est le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire; c'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai 
 ---
 Serez-vous aussi prêt que François Gabart le jour de son départ ?
-=======
-image: /assets/css/images/plongeonsFD.jpg
-description: Le pont du 1er mais, c'est dans 6 semaines, chaque minute compte... 
----
-42j 16h 40m, c'était le temps mis par Francois Gabart pour effectuer le tour du monde en solitaire. C'est aussi le temps qui nous sépare des premiers w-e à rallonge du mois de mai.  Est-ce que nous serons aussi prêt que François Gabart le jour de son départ ?
->>>>>>> Stashed changes
 <!--break-->
 
 ## Est-ce que votre bateau sera prêt ?
@@ -26,5 +19,7 @@ Il y a quelques jours, je discutais avec un mécanicien marine du Golfe du Morbi
 
 ## Est-ce que vous serez prêt ?
 En 2017, les statistiques publiées par la [Prefecture maritime de l'Atlantique](https://www.premar-atlantique.gouv.fr/communiques-presse/bilan-campagne-2017-securite-des-activites-nautiques.html) sur les accidents en mer n'étaient pas bonnes. Il vous reste encore un peu de temps pour réviser les classiques de la sécurité en mer. La préparation de chaque sortie peut aussi être l'opportunité d'accroître vos compétences.  Nous reviendrons sur ce sujet dans une quinzaine de jours. En attendant, vous pouvez regarder les documents que nous avons mis à votre disposition.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
 A bientôt,
