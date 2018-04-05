@@ -30,4 +30,4 @@ Avez-vous envisagé la co-propriété ? Nous reviendrons prochainement sur ce su
 
 A bientôt,
 
-Si vous avez des commentaires à faire, contactez nous: [mailto:blog@mynoteboat.fr]
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
