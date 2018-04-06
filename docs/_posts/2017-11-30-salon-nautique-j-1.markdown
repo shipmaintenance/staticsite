@@ -32,3 +32,4 @@ Nous avons donc sept jours pour travailler de dix heures à vingt heures, discut
 ## Pendant les pauses
 Les pauses seront mises à profit pour parcourir les stands de la voile légère, acheter un kayak ou un SUP, aller voir les dernières tendances architecturales du côté des croiseurs, bouchain marqué, quille à ailettes, double safrans , foils..., découvrir les derniers équipements de sécurité, revoir des amis ou flâner tout simplement.
 
+A bientôt,

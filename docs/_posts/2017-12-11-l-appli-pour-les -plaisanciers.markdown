@@ -21,3 +21,7 @@ Je vous épargne les discussions avec deux autres amis plaisanciers, l'un inform
 Après des heures de travail, nous avons présenté notre projet au salon nautic.  Ce soir nous savons que my noteboat plait aux plaisanciers.  Il nous reste encore beaucoup de travail à accomplir.  Suivez-nous sur notre journal ! 
 
 L'équipe de my noteboat.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,

@@ -43,6 +43,8 @@ En conclusion :
 * Faites appel aux bonnes volontés, dans la mesure du possible
 * Modérez vos ambitions... sortir avec une peinture approximative vaut souvent mieux que rester au port avec des vernis impeccables
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
+A bientôt,
  
 

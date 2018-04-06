@@ -20,4 +20,6 @@ Car nous ne faisions pas les "fiers" le 2 décembre un peu avant 10 heures. Entr
 Certes nous devons corriger un peu notre offre.  Nous vous en parlerons plus en détail d'ici vendredi mais la ligne est bonne.  Nous vous laissons la découvrir sur notre site.
 Nous avons encore beaucoup de travail à fournir mais cela en vaut le peine.  Nous vous attendons trés nombreux sur notre stand dans les jours à venir et [inscrivez-vous](https://docs.google.com/forms/d/e/1FAIpQLSd42BGrRVfKv_NFom-Q4H-xz_WZDaWQ6n0ze1E7oEnZ86oMAw/alreadyresponded) pour avoir des entrées.
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
 A bientôt,

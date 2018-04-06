@@ -4,11 +4,7 @@ author: PJT
 title:  Comment hiverner en Nouvelle-Calédonie ?
 date:   2017-12-15 21:00:00
 categories: main
-<<<<<<< Updated upstream
 description: Hiverner son bateau sous les tropiques peut faire sourire dans un premier temps.  Mais en y regardant de plus prés on se rend compte que les bateaux qui naviguent dans ces eaux ont autant besoin d'entretien que ceux qui restent en métrople.
-=======
-description: Hiverner son bateau sous les tropiques peut faire sourire dans un premier temps.  Mais en y regardant de plus prés on se rend compte que les bateaux qui naviguent dans ces eaux ont autant besoin d'entretien que ceux qui restent en métrople. 
->>>>>>> Stashed changes
 image: /assets/css/images/blog/noumea.jpg
 ---
 ## Cet hiver il fera chaud à Nouméa
@@ -34,3 +30,7 @@ C’est pourquoi nous conseillons de laisser son bateau sur un terre-plein penda
 Je serai heureux de retrouver Philippe l’année prochaine et de discuter avec lui des trois semaines d’hivernage de son voilier à Nouméa pour faire toutes les opérations d’entretien nécessaire entre deux périodes de navigation.
 
 En attendant cette rencontre, je profite de la fraicheur de l’hiver pour vous souhaiter, au nom de Bertrand, Isabelle, Mikaël et moi-même, un Joyeux Noël.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,

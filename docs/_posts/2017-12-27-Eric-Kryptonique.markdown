@@ -13,3 +13,7 @@ Il y a 3 semaines nous avons eu la visite sur notre stand au Nautic d’Eric de 
 Nous travaillons dans deux univers différents et Kryptonic nous devance dans le milieu du digital mais nous nous retrouvons sur un point: le digital peut et doit nous faciliter la vie.
 
 Eric, « you are not alone. »
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,

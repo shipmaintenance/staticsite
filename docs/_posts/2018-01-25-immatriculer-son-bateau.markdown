@@ -35,4 +35,6 @@ Toute cette mésaventure pour vous rappeler quelques éléments importants si vo
 * faites toujours immatriculer votre bateau, même si sa navigation et le puissance moteur ne l’exigent pas.  Il est enregistré par l'administration et la trace d’immatriculation reste visible sur la coque !
 * méfiez-vous quand même des amis et des coups de coeur
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
 A bientôt,

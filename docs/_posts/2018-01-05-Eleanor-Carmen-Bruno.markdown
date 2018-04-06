@@ -30,4 +30,6 @@ Nous vous suggèrerons d’aller l'inspecter et de contrôler son calage.  Si vo
 ## Des inspections à faire tout au long de l’hiver.
 Certains ont l’habitude d’aller inspecter leur bateau pendant l’hiver.  Pour les autres, nous vous invitons à renouveler ces inspections après de gros coups de vent et régulièrement durant l’hiver.  Cela permet en plus de quitter l’air des villes pour la brise vivifiante du bord de mer.
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
 A bientôt.

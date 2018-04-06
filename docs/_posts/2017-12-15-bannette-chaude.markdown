@@ -24,7 +24,4 @@ Notre appli n’intéresse pas que les plaisanciers à l’aise avec un téléph
 
 Vivement le prochain salon! 
 
-
-
-
-
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)

@@ -67,7 +67,9 @@ Ma charge maximale pour atteindre 11 noeuds était d'environ 250 x carré(17/11)
 
 Il s'agit bien sûr d'une formule approximative. Les résultats doivent donc être interprétés avec prudence. Ils donnent une première vision intuitive des choix possibles en terme de chargement, de motorisation et de vitesse.
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
+A bientôt,
 
 
 

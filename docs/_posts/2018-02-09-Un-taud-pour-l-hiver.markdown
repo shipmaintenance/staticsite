@@ -43,4 +43,6 @@ Au moment de mettre en place le taud, veillez à ne pas laisser de passage pour 
 
 Dans un prochain billet, nous reviendrons sur le déshumidificateur et sur son importance pendant la période d’hivernage.
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
 A bientôt,

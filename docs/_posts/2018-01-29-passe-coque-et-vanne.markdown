@@ -39,3 +39,7 @@ Le couple de serrage de la pelle de vanne doit être suffisant pour éviter son 
 En navigation les vannes doivent être fermées sauf, bien sûr, la ou les vannes du circuit de refroidissement moteur. En cas d’absence du bord, il est conseillé de fermer toute les vannes.
 
 Exemples d'un passe-coque et d'une vanne corrodée, il manque les doubles colliers de serrage : ![passe-coque](/assets/images/blog/passe-coque.jpg)
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,

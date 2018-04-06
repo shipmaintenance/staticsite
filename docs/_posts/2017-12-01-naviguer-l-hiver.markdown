@@ -28,4 +28,6 @@ Si vous vous aventurez hors de la rade, vous allez évidemment rencontrer des co
 
 En conclusion, pour naviguer régulièrement l'hiver, choisissez votre plan d'eau ou consultez les statistiques de votre plan d'eau habituel et adaptez vos sorties aux conditions de navigation!  
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
+A bientôt,

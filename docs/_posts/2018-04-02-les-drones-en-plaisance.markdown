@@ -52,3 +52,7 @@ Pour des clubs hébergeant une flottille importante de bateaux de régate non mo
 
 ## Une navette automatique
 Enfin, dans les grands ports de plaisance, sur les zones de mouillage, une navette automatique pourrait aller chercher les plaisanciers sur leur bateau pour les amener à terre, ou permettre de traverser plus rapidement le port pour se rendre en ville. Les ports situés sur des rivières, les marinas qui ont trop grandi ou qui se sont implantées loin du centre ville bénéficieraient certainement de ce service.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,
