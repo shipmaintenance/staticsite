@@ -1,11 +1,11 @@
 ---
 layout: default
 author: BJ, IT & PJT
-title: naviguer avec des enfants
-date: 2018-04-13 18:00:00
+title:  naviguer avec des enfants
+date:   2018-04-13 18:00:00
 categories: main
 image: /asset/css/images/blog/naviguer-avec-des-enfants.png
-Description: La pratique de la navigation, à voile ou à moteur est le plus beau des loisirs.  Naviguer avec ses enfants est d’autant plus réjouissant pour une mère ou un père quand cela se passe bien.  Ceci est d’autant plus vrai si vous prêterz attention à quelques points spécifiques à cette catégorie de passager.  Y penser sera une garantie de réussite pour vous..
+description: La pratique de la navigation, à voile ou à moteur est le plus beau des loisirs.  Naviguer avec ses enfants est d’autant plus réjouissant pour une mère ou un père quand cela se passe bien.  Ceci est d’autant plus vrai si vous prêterz attention à quelques points spécifiques à cette catégorie de passager.  Y penser sera une garantie de réussite pour vous..
 ---
 ##La sécurité
 Il n’est jamais trop tôt pour parler de sécurité et avec des enfants, cela commence dés le parking car à un âge où ils ne savent pas encore nager, il vaut mieux quitter la voiture en ayant mis une brassière. Ainsi, la magie commence déjà.
