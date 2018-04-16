@@ -9,6 +9,8 @@ description: La pratique de la navigation, à voile ou à moteur est le plus bea
 ---
 ## La sécurité
 Il n’est jamais trop tôt pour parler de sécurité et avec des enfants, cela commence dés le parking car à un âge où ils ne savent pas encore nager, il vaut mieux quitter la voiture en ayant mis une brassière. Ainsi, la magie commence déjà.
+
+Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-expertises.com/){:target="_blank"}
 <!--break-->
 Parmi le matériel de sécurité obligatoire à bord, il y a les brassières.  Les fabricants ont développé des modèles adaptés aux poids des moussaillons les plus jeunes.  Il est très important de respecter les recommandations de poids: si elle est trop petite, la brassière ne garantie pas la flottabilité de l’enfant. Trop grande, non seulement l’enfant sera engoncé et  sera gêné. De plus, s’il tombe à l’eau, la brassière remontera le long du corps et la tête ne sera pas maintenue hors de l’eau.  Ainsi, le risque  de noyade est  important dans les deux cas.
 
