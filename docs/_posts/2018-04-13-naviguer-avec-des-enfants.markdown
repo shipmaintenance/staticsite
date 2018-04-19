@@ -12,6 +12,7 @@ Il n’est jamais trop tôt pour parler de sécurité et avec des enfants, cela 
 
 Publié avec l'aimable autorisation de [Yatagan Expertise](http://www.yatagan-expertises.com/){:target="_blank"}
 <!--break-->
+
 Parmi le matériel de sécurité obligatoire à bord, il y a les brassières.  Les fabricants ont développé des modèles adaptés aux poids des moussaillons les plus jeunes.  Il est très important de respecter les recommandations de poids: si elle est trop petite, la brassière ne garantie pas la flottabilité de l’enfant. Trop grande, non seulement l’enfant sera engoncé et  sera gêné. De plus, s’il tombe à l’eau, la brassière remontera le long du corps et la tête ne sera pas maintenue hors de l’eau.  Ainsi, le risque  de noyade est  important dans les deux cas.
 
 Témoignage de Stéphanie: un enfant en bas âge n’a pas la même connaissance et la même crainte de l’eau qu’un adulte.  S’il tombait à l’eau, il n’aurait pas le réflexe de bouger ou de se débattre. Il coulerait donc comme une pierre.  Ce qui justifie un peu plus la présence d’une brassière, si certains n’étaient pas encore convaincus. Cette explication nous avait été donnée par la pédiatre de nos enfants alors que nous préparions notre première sortie familiale avec notre ainé de 4 mois.
