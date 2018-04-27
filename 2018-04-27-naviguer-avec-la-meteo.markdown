@@ -1,7 +1,7 @@
 ---
 layout: default
 author: BJY
-title:  "Météo, Marée,  comment prendre en compte les prévisions marines avant de naviguer ?"
+title:  "Météo, Marée: prendre en compte les prévisions marines avant de naviguer ?"
 date:   2018-06-18 18:00:00
 categories: main
 image: /assets/css/images/blog/meteo.jpg
@@ -25,7 +25,7 @@ Dans l'hémisphère Nord, lorsque l’on est face au vent, on se trouve avec la 
 ### Quels sont les signes annonciateurs de mauvais temps ?
 * Chute brutale du baromètre indiquant déjà la tendance en régime dépressionnaire      (en dessous de 1013 hectopascals).
 * Le vent s’orientant progressivement au sud en tournant en sens inverse des aiguilles d’une montre. 
-* Ciel envahi par de gros nuages bas à développement vertical (cumulus et cumulonimbus). Ces nuages peuvent être chargés de champs électriques (orage).
+* Ciel envahi par de gros nuages bas à développement vertical (cumulus et cumulonimbus). Ces nuages peuvent être chargés de champs électriques, préulde à des orages.
 
 ## Déchiffrage des Cartes météo
 Les cartes météo donnent des renseignements sur l’évolution de la situation, à tendance soit anticyclonique (journée ensoleillée),  soit dépressionnaire (retour de la pluie).
@@ -50,27 +50,28 @@ L’état de la mer et la hauteur des vagues en mètres sont aussi communiqués 
 * Mer très grosse = 9 à 14 m
 * Mer énorme= dépassant 14 m
 
-La hauteur des vagues est une donnée statistique calculée sur la base de la vague la plus haute au quatrième quintile. Lorsque la haute des vagues annoncée est de cinq mètres, 80% des vagues ont une hauteur d'au plus cinq mètres. La hauteur maximale des vagues, sur 100%, est estimée à la deux fois la hauteur annoncée.
+La hauteur des vagues est une donnée statistique calculée, au quatrième quintile, sur la base de la vague la plus haute. Lorsque la hauteur des vagues annoncée est de cinq mètres, 80% des vagues ont une hauteur d'au plus cinq mètres et La hauteur maximale d'une vague, est estimée à deux fois la hauteur annoncée.
 
-La hauteur de la houle est aussi indiquée :
-* Hauteur de la houle en mètres: « petite » < 2 m, « modérée » entre 2 et 4 m, « grande » > 4 m.
+La houle est un mouvement donné à une masse d'eau après un coup de vent.  Les caractéristiques de la houle peuvent aussi indiquée lors des prévision:
+* Hauteur de la houle (en mètres): « petite » < 2 m, « modérée » entre 2 et 4 m, « grande » > 4 m.
 
-### Echelle Beaufort pour le vent moyen (hors rafale) en force et en km/h
-* Force 0= calme < vitesse vent 1km/h,   (aspect miroir)
-* 1= Très légère brise = 1 à 5 km/h
-* 2= Légère brise= 6 à 11 km/h avec vaguelettes non déferlantes.
-* 3 = Petite brise = 12 à 19km /h avec quelques moutons
-* 4 = Jolie brise = 20 à 28 km/h avec quelques petites vagues, nombreux moutons
-* 5= Bonne brise : 29 à 38 km/h (vagues modérées, moutons et embruns)
-* 6= Vent frais : 39 à 49 km/h (lames, crêtes blanches, embruns)
-* 7 = Grand frais : 50 à 61 (lames, déferlantes, trainées d’écume)
-* 8= Coup de vent : 62 à 74 (tourbillons d’écume à la crête des lames)
-* 9= Fort coup de vent : 75 à 88 km/h
-* 10=Tempête : 89 à 102 km/h
-* 11=Violente tempête : 103 à 117 km/h
+### Echelle Beaufort pour un vent moyen (hors rafale) en force et en km/h
+la force du vent et l'état de la mer (sont liés, en voici la description:
+* Force 0= calme < vitesse vent 1km/h (< 1 noeud), la mer à un aspect miroir.
+* 1= Très légère brise = 1 à 5 km/h (< 3 noeuds), quelques rides.
+* 2= Légère brise= 6 à 11 km/h (< 6 noeuds), avec vaguelettes non déferlantes.
+* 3 = Petite brise = 12 à 19km /h (< 10 noeuds), avec quelques moutons.
+* 4 = Jolie brise = 20 à 28 km/h (< 16 noeuds), avec quelques petites vagues, nombreux moutons.
+* 5= Bonne brise : 29 à 38 km/h (< 21 noeuds), avec vagues modérées, moutons et apparition d'embruns.
+* 6= Vent frais : 39 à 49 km/h (< 27 noeuds), les vagues deviennent lames avec des crêtes blanches et embruns.
+* 7 = Grand frais : 50 à 61 km/h (<33 noeuds), avec des lames déferlantes et trainées d’écume
+* 8= Coup de vent : 62 à 74 km/h (<40 noeuds), avec tourbillons d’écume à la crête des lames
+* 9= Fort coup de vent : 75 à 88 km/h (<47 noeuds).
+* 10=Tempête : 89 à 102 km/h (< 55 noeuds)
+* 11=Violente tempête : 103 à 117 km/h (< 65 noeuds)
 * 12= Ouragan >118 km/h
 
-De force 9 à 12 les lames déferlantes sont grosses à énormes, visibilité réduite par les embruns.
+De force 9 à 12 les lames déferlantes sont grosses à énormes et la visibilité est réduite par les embruns de mer emportés par le vent.
 
 ### Les précipitations selon les météorologues  
 Elles sont ainsi nommées  dans les bulletins météo de la manière suivante : le brouillard, la brume, la bruine, la pluie, la neige, la grêle, les averses, les grains, les giboulées, les tornades, le givre et le verglas.
@@ -83,3 +84,7 @@ Pour le calcul des marées, la hauteur d’eau est accrue en situation dépressi
 Le vent, selon sa direction et sa force peut provoquer une accumulation d’eau sur les zones côtières et les vagues produisent une élévation du niveau moyen (phénomène de « Vagues submersions »).
 
 Enfin, le calcul de hauteur pour une heure donnée est facile à réaliser en s'appuaynt sur la règle des douzièmes : un douzième de hauteur le première heure, deux douzième la deuzième, 3 douzième la troisième...
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+A bientôt,
