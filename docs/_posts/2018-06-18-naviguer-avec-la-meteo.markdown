@@ -85,6 +85,17 @@ Le vent, selon sa direction et sa force peut provoquer une accumulation d’eau 
 
 Enfin, le calcul de hauteur pour une heure donnée est facile à réaliser en s'appuaynt sur la règle des douzièmes : un douzième de hauteur le première heure, deux douzième la deuzième, 3 douzième la troisième...
 
-Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+## Consulter la météo avant de partir en mer
+La météo marine est disponible:
+- à la capitainerie en affichage libre;
+- sur la VHF, annoncée sur le canal 16 et suivi d'un canal de dégagement.  Il y a 3 diffusions par jour: le matin, en milieu d'après-midi et le soir.  Les heures et les fréquences dépendent des CROSS.
+- avec une BLU en hautes fréquence (1650khz et 2677 khz)
+- depuis un récepteur navtex (toutes les 4 heures);
+- depuis les sites dédiés de [météofrance](www.météofrance.com) ou d'autres sites spécialisés tel que [windguru](www.windguru.cz) ou [météoconsult](http://marine.meteoconsult.fr/meteo-marine/previsions-meteo-cotiere.php)
+- France Inter n'émet plus sa météo marine depuis 2017.
+
+Le <strong>BMS</strong> ou Bulletin Météorologiques Spécial est diffusé toutes les <strong>deux heures</strong>.
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr) et retrouvez plus de renseignements sur le guide de [météo France](http://www.meteofrance.fr/documents/10192/24678998/Guide+Marine+2017/53aeadee-4e19-422e-b5ef-80a1b159e46e)
 
 A bientôt,
