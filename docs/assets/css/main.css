@@ -126,7 +126,7 @@ video {
     .topnav.responsive a {
         float: none;
         display: block;
-        text-align: right;
+        text-align: center;
     }
 }
 
@@ -140,7 +140,7 @@ video {
     width: 100%;
     margin: 0.5em;
     padding: 0.5em;
-    background-color: darkblue;
+    background-image: linear-gradient(RGB(1, 171, 213), RGB(32, 89, 140));
     color: white;
     text-align: center;
     overflow: hidden;
@@ -189,20 +189,20 @@ General boxing rules
 
 .row h2 {
     margin: .5em 0 0 0;
-    text-align: left;
+    text-align: center;
     font-size: 3em;
 }
 
 .row h3 {
     margin: 1em 0 1em 0;
     font-size: 1.5em;
-    text-align: left;
+    text-align: center;
 }
 
 .row h4 {
     margin: 1em 0 1em 0;
     font-size: 1.5em;
-    text-align: left;
+    text-align: center;
 }
 
 .row strong {
@@ -261,6 +261,7 @@ Individual rules
 
 #telecharger.article {
     background-color: RGBA(200, 200, 200, 0.2);
+    text-align: center;
 }
 
 #imgreseauxsociaux {
@@ -306,10 +307,24 @@ Box and button individual rules
     border: none;
     background-image: linear-gradient(RGBA(0, 175, 216, 1), RGBA(215, 215, 215, 1));
 }
+#telecharger h1{
+    text-align: center;
+}
+#telecharger h3{
+    text-align: center;
+}
+#telecharger p{
+    text-align: center;
+}
+#inscription h3 {
+    text-align: center;
+}
 
 /*********************************************
+
 Blog
- *********************************************/
+
+*********************************************/
 .blogpost h1, .blogpost h2, .blogpost h3, .blogpost h4 {
     color: darkblue;
 }
@@ -353,6 +368,62 @@ Blog
     font-size: 1em;
     width: 10em;
 }
+/*********************************************
+
+menu accordeon in downloading
+
+*********************************************/
+#menu-vertical-aide-memoire-accordeon, {
+    padding:0;
+    margin:0;
+    list-style: none;
+    text-align: left;
+    width: 450 px;
+}
+
+#menu-vertical-aide-memoire-accordeon ul{
+    padding:0;
+    margin:0;
+    list-style: none;
+    text-align: left;
+}
+
+#menu-vertical-aide-memoire-accordeon li {
+    background-color: none;
+    background-image: none;
+    background-image: none;
+    border-radius: 0px;
+    margin-bottom: 0px;   
+}
+#menu-vertical-aide-memoire-accordeon li li {
+    max-height: 0;
+    overflow:hidden;
+    transition: all .5s;
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+}
+#menu-vertical-aide-memoire-accordeon a {
+    display:block;
+    text-decoration: none;
+    color:white;
+    padding: 0 0;
+    font-family: avenir;
+    font-size: 1em;
+}
+#menu-vertical-aide-memoire-accordeon ul li a, #menu-vertical-aide-memoire-accordeon li:hover li a {
+    font-size:1em;
+}
+#menu-vertical-aide-memoire-accordeon li:hover {
+    max-height: 30em;
+}
+#menu-vertical-aide-memoire-accordeon li li:hover{
+    background:none;
+}
+
+#menu-vertical-aide-memoire-accordeon li:hover li {
+    max-height: 10em;
+}
 
 /**********************************************
 
@@ -395,23 +466,20 @@ Background images
     background-size: cover;
 }
 
-#inscription h3 {
-    text-align: center;
-}
-    #home {
+#home {
         background-image: url("images/headerFD.jpg");
-        padding-top: 15em;
+        padding-top: 30em;
     }
 
-    #telecharger {
+#telecharger {
         background-image: url("images/leguideFD.jpg");
     }
 
-    #bientotdisponible {
+#bientotdisponible {
         background-image: url("images/plongeonsFD.jpg");
     }
 
-    #reseauxsociaux {
+#reseauxsociaux {
         background-image: url("images/plongeonFD.jpg");
     }
 @media screen and (max-width: 799px){
@@ -421,12 +489,12 @@ Background images
     #home {
         background-image: url("images/headerLD.jpg");
         padding-top: 15em;
-        padding-bottom: 15em
+        padding-bottom: 15em;
             }
 
     #telecharger {
         background-image: url("images/leguideLD.jpg");
-        padding-bottom: 15em;
+        padding-bottom: 3em;
     }
 
     #bientotdisponible {
@@ -442,7 +510,7 @@ Background images
 
 @media screen and (min-width: 800px) {
     .withbackground {
-        min-height: 700px;
+        min-height:700px;
     }
 }
 
