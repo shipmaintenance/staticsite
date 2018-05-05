@@ -42,7 +42,10 @@ cet aide-mémoire reste à portée de main durant votre navigation.
 
 Voici l'exemple pour une manoeuvre d'appareillage.
 
-## Appareiller(/assets/images/appareiller-avec-succes-04.png){:target="_blank}
+## Appareiller
+
+![appareiller](/assets/images/appareiller-avec-succes-04.png)
+
 Il existe de nombreux ouvrages sur les manoeuvres et en particulier la manoeuvre de départ. Que ce soit en focntion du vent ou du courant, ou la conjugaison des deux, vous trouverez facilement 3 ou 4 manoeuvres différentes et un peu plus encore en jouant avec les amarres.
 
 Nous n'allons pas déroger à vos habitudes ou références, nous faisons seulement quelques rappels fondamentaux liés à l'appareillage pour bien débuter votre sortie.
