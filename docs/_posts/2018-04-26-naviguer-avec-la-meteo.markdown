@@ -2,7 +2,7 @@
 layout: default
 author: BJY
 title:  "Météo, Marée: prendre en compte les prévisions marines avant de naviguer ?"
-date:   2018-06-18 18:00:00
+date:   2018-04-26 18:00:00
 categories: main
 image: /assets/css/images/blog/meteo.jpg
 description: "météorologie, marée, terminologie, règles simples pour mieux naviguer"
