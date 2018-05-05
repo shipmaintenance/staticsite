@@ -4,7 +4,7 @@ author: BJ, MDY, IL, PJT
 title: guide de navigation et aide-mémoire
 date: 2018-05-03 21:00
 categories: main
-image: assests/images/blog/blog-guide-aide-memoire.png
+image: assets/images/blog/blog-guide-aide-memoire.png
 description: Le premier pont de mai est passé et naviguer le 1er mai fut un grand moment de plaisir.  Ce w-e, je repartirai en ballade et d'autres vont reprendre la mer après une longue période d'hibernation nautique.  Alors nous avons rédigé à cette intention un guide de naivgation et quelques aides mémoires pour reprendre les bonnes habitudes et éviter l'accident bête.
 ---
 A quelques chiffres prés, un marin sur trois (35 %) va reprendre la mer sur un bateau à moteur ou à voile dans les jours ou les semaines qui viennent .  Plusieurs mois se sont écoulés depuis ma dernière sortie et l'apréhension me guète parfois quand je remets mon bateau à l'eau et que j'embarque pour la première fois de l'année.  C'est la raison pour laquelle j'avais fini par avoir des petites notes en guise d'aides mémoires.
