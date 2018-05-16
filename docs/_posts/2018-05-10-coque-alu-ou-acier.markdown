@@ -63,3 +63,9 @@ Si vous avez de l'attirance pour un univers plutôt que l'autre, choisissez auss
 ## En conclusion
 On peut donc estimer que dans le choix d’un bateau, la coque doit être adaptée à la zone de navigation. L’aluminium résistera plus à des voyages dans les glaces ou aux OFNI que du polyester. Mais la facilité de réparation, le prix sont aussi des facteurs déterminant pour réaliser son rêve : de construire  ou d’acheter son bateau. 
 
+Si vous voulez nous faire parvenir vos commentaires ou d'autres idées relatives au guide ou nos aides-mémoire, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/05/10/coque-alu-ou-acier.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
+
+A bientôt,
