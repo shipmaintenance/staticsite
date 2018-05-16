@@ -30,3 +30,6 @@ La premières fois que j’ai vu ce [tee-shirt](https://www.spreadshirt.fr/thera
 
 ## BAB, un bracelet qui pourrait vous sauver la vie
 Ils étaient nos voisins lors du salon nautique de Paris. Ils concourraient pour le prix de l’innovation.  Un autre projet a finalement été retenu mais ce [bracelet](http://www.bab.bzh){:target="_blank3} a tout notre attention. Il peut s'avérer un accessoire utile lors de sorties en Kite.
+
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/01/12/votre-cadeau-pour-2018.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>

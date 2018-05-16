@@ -58,4 +58,5 @@ Nous vous souhaitons de belles naavigations.
 
 Si vous voulez nous faire parvenir vos commentaires ou d'autres idées relatives au guide ou nos aides-mémoire, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-A bientôt,
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/05/03/guide-de-navigation-et-aide-memoire.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>

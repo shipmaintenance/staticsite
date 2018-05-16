@@ -22,6 +22,9 @@ Ce salon nautique 2017, c’était mon tout premier; première fois que je tenai
 
 Notre appli n’intéresse pas que les plaisanciers à l’aise avec un téléphone portable et l’utilisation d’une appli. Je me souviens d’une dame d’un certain âge, qui déambulait devant notre stand en attendant son mari qui faisait un achat. Elle finit par s’arrêter et nous commençons la conversation. Pour une fois, c’était elle qui avait initié son mari à la pratique de la voile. Elle était allée se former aux Glénans. « Mais vous faites partie de ceux qui ont connu la bannette chaude »….je frime car ma propre mère  appartient à cette génération de voileux, formés à la « dure ». Mon interlocutrice a beaucoup ri et moi aussi! 
 
-Vivement le prochain salon! 
-
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2017/12/15/bannette-chaude.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
+
+Vivement le prochain salon!

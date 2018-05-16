@@ -25,4 +25,5 @@ Certains vont naviguer depuis leur salon - ou leur bureau en prenant part à une
 ## Dernière minute
 A partir du 16 mars, vous pourrez passer quelques heures dans les allées du salon consacré à [la pêche](https://www.salon-peche-mer.com) dans toutes ses pratiques à Nantes.
 
-A bientôt,
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/03/08/pendant-ce-temps-dans-l'ouest.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>

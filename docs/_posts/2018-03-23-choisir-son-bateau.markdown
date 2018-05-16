@@ -28,6 +28,7 @@ Nous avons évoqué les questions qui doivent aider au choix de votre futur bate
 
 Avez-vous envisagé la co-propriété ? Nous reviendrons prochainement sur ce sujet prochainement car il a ses avantages quand on sait en éviter les pièges.
 
-A bientôt,
-
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/03/23/choisir-son-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>

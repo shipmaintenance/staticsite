@@ -32,4 +32,5 @@ Nous avons donc sept jours pour travailler de dix heures à vingt heures, discut
 ## Pendant les pauses
 Les pauses seront mises à profit pour parcourir les stands de la voile légère, acheter un kayak ou un SUP, aller voir les dernières tendances architecturales du côté des croiseurs, bouchain marqué, quille à ailettes, double safrans , foils..., découvrir les derniers équipements de sécurité, revoir des amis ou flâner tout simplement.
 
-A bientôt,
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/11/30/salon-nautique-j-1.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
