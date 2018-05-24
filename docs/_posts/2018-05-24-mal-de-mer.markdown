@@ -1,0 +1,33 @@
+---
+layout: default
+author: IT
+title: le mal de mer
+date: 2018-05-24 18:00
+categories: main
+image: /assets/css/images/blog/mal-de-mer.jpg
+description: le mal de mer, voici quelques lignes sur ce sujet, tabou parmi ceux qui le subisst, pour ceux qui le supporte afin que tous passent un bon moment...en mer ;-)
+---
+Le mal de mer, et si on en parlait? Sujet délicat dans un milieu maritime, honte toujours difficile à avouer...  Mais, si vous en avez assez que votre belle-mère vienne à chaque sortie que vous aimeriez faire avec votre épouse, en amoureux, voici ce qu’il faut faire...
+<!--break-->
+## Un bon déjeuner
+Aujourd’hui, Belle-Maman vient à bord, et comme il ne fait pas très beau, vous hésitez encore à sortir mais vous voulez en profiter.
+Faites un bon déjeuner à bord.  Prévoyez une bonne salade de tomates ou de concombre, l’acidité peut causer des maux d’estomac peu agréables.  Puis un bon cassoulet vous réchauffera bien, car même si c’est été, le fond de l’air est frisquet en ce début de mois de juillet. 
+Un bourgogne bien choisi rendra ce déjeuner et cette journée inoubliables! Evitez de proposer un repas léger, tel que du riz, des bananes, ou de simples sandwichs comme le ferait toute personne sensée voulant absolument éviter le mal de mer.  Et pour accentuer l’acidité et mettre K-O les estomacs, une salade de fruits de saisons achèvera son oeuvre.  Vous servirez aussi un café ou un thé. Bien sûr, vous prenez le risque que Madame soit malade. 
+
+## Balade en mer
+Le temps s’est amélioré et sur l’insistance de votre belle-mère, vous sortez en mer. 
+En cachette, votre épouse a pris ses précautions pour éviter d’avoir le mal de mer.  Elle prend d’ordinaire des antihistaminiques tels que Mercalm, Nautamine et Nausicalm.  Bien sûr, elle n’aura pas bu de vin car l’alcool et les médicaments ne s’aiment pas trop!  Elle a déjà été victime de ce genre de repas trop riche, suivi d’une ballade en mer et le résultat fut garanti.  Très rapidement, elle a été prise de malaise, le vent soufflait force 5.  Elle commençait à transpirer, son cerveau ne comprenait plus rien et était en décalage entre ce que son oeil voyait et ce que son centre d’équilibre ressentait.  
+"Vous êtes atteint de naupathie", aurait dit un médecin. 
+Peut-être qu’elle essayera les [boarding ring](https://www.boardingring.com){:target="_blank"}, des lunettes qui permettent la synchronisation entre ce que voit l’oeil et recent l'oreille interne (ou centre de l’équilibre).  Pour les élégantes, il existe le [sea-band](http://www.sea-band.com/fr){:target="_blank"}, bracelet anti-mal de mer. Les points de vente de ce genre de produit sont sur internet. Chacun trouvera ce qui lui convient le mieux. 
+
+## La sécurité 
+Le mal de mer est à prendre au sérieux : plus de 17 000 000 de références trouvées par Google pour évoquer ce problème.
+Finalement, l’essentiel pour votre passager atteint de mal de mer est sa sécurité.  Il faut penser à son confort, si il a froid, faim, lui proposer de rester dehors ne l’enchantera peut-être pas.  Autant rester au chaud, dans la cabine avec un sac ou une bassine! 
+Ce sera un moindre mal même si des personnes bien intentionnées vous conseillerons de le garder dehors. Le risque en cas de vomissement répété est que le malaise de la personne s’amplifie et qu’elle finisse par passer à l’eau. 
+
+Rentrés au port, nul n’est à l’abri d’un autre souci, qu’est le mal de terre! Mais c’est une autre histoire…
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/04/02/les-drones-en-plaisance.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
