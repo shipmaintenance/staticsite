@@ -5,7 +5,7 @@ title: le mal de mer
 date: 2018-05-24 18:00
 categories: main
 image: /assets/css/images/blog/mal-de-mer.jpg
-description: le mal de mer, voici quelques lignes sur ce sujet, tabou parmi ceux qui le subisst, pour ceux qui le supporte afin que tous passent un bon moment...en mer ;-)
+description: Voici quelques lignes sur ce sujet - tabou pour ceux qui le subisse - pour ceux qui ne sont jamais malade afin que tous passent un bon moment...en mer ;-)
 ---
 Le mal de mer, et si on en parlait? Sujet délicat dans un milieu maritime, honte toujours difficile à avouer...  Mais, si vous en avez assez que votre belle-mère vienne à chaque sortie que vous aimeriez faire avec votre épouse, en amoureux, voici ce qu’il faut faire...
 <!--break-->
