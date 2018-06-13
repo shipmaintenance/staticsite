@@ -7,20 +7,20 @@ categories: main
 image: /assets/css/images/blog/eric-tabarly.jpg
 description: La contribution d’un plaisancier de renom au nautisme actuel.
 ---
-Il y a 20 ans, Eric Tabarly disparaissait en mer.  Il a marqué le nautisme par son ingéniosité.  Nous pourrions parler de la chaussette à spi, de la coque planante ou de la préservation du patrimoine avec Pen Duick.  Aujourd’hui je m’intéresse plus particulièrement aux foils .  En france c’est une réalités depuis qu’il a fait voler un flotteur de tornado dans la baie de La Rochelle en 1976 et plus tard avec l’Hydroptère d’Alain Thébaud, projet auquel Eric Tabarly était associé.
+Il y a 20 ans, Eric Tabarly disparaissait en mer.  Il a marqué le nautisme par son ingéniosité. Nous pourrions parler de la chaussette à spi, de la coque planante ou de la préservation du patrimoine avec Pen Duick.  Aujourd’hui je m’intéresse plus particulièrement aux foils .  En france c’est une réalités depuis qu’il a fait voler un flotteur de tornado dans la baie de La Rochelle en 1976 et plus tard avec l’Hydroptère d’Alain Thébaud, projet auquel il était associé.
 <!--break-->
 ## des foils dans tous leurs états
 
-L’usage des foils dans le nautisme remonte au tournant du XIX et du XX siècle en Italie, on y retrouve les expériences menée par les frères Forlanini sur le la Majeur.  Ils atteignirent la vitesse de 42 nds avec un moteur de 60 cv !.  Par la suite on trouve différents usages civiles ou militaire de cette technologie tout au long du XX siècle.
+L’usage des foils dans le nautisme remonte au tournant du XIX et du XX siècle en Italie, on y retrouve les expériences menées par les frères Forlanini sur le lac Majeur.  Ils atteignirent la vitesse de 42 nds avec un moteur de 60 cv !.  Par la suite on trouve différents usages civiles ou militaire de cette technologie tout au long du XX siècle.
 
-Les progrès de la science appliquée à la resistances des matériaux et aux modélisations numériques ont énormément apporté à cette technologie.  L’énergie nécessaire pour « arracher » la coque à son élément liquide grace aux foils et moins importante que par le passé.  En effet aujourd’hui on peut faire « voler » tout type de bateau et les vidéos sur Youtube ne manquent pas dans ce domaine en partant du pédalo jusqu’au catamaran de croisière G4, même si parfois cela se termine mal.…
+Les progrès de la science appliquée à la resistances des matériaux et aux modélisations numériques ont énormément apporté à cette technologie.  L’énergie nécessaire pour « arracher » la coque à son élément liquide grace aux foils et moins importante que par le passé.  En effet aujourd’hui on peut faire « voler » tout type de bateau et les vidéos sur Youtube ne manquent pas dans ce domaine en partant du [pédalo](https://www.youtube.com/watch?v=tvlS-4t54cc){:target="_blank"} jusqu’au catamaran de croisière G4, même si parfois cela se [termine mal]((https://www.youtube.com/watch?v=o3uQOTrJtKw){:target="_blank"}…
 
 ## La trainée, ça freine
 
 La logique entourant la technologie des foils est la suivante: moins de déplacement, moins de trainée, plus de vitesse pour la même puissance.
 
-Cette logique s’applique aussi à des bateaux plus lourd: des IMOCA, les voiliers de la mythique course du Vendée Globe aux navires de commerce, l’emploi des foils permet de la même manière de « soulever » la coque de l’eau, de réduire son déplacement pour en augmenter la vitesse.  Il est ainsi possible aujourd’hui de réduire la consommation d’un moteur de 20 % en ajoutant un foil comme l’explique Peter Van Oonssanen - ce spécialiste du design d’ailes de quille depuis la coupe de l’américa de 1983 ;-) «  les performances (…) vont de 5 à 15 % pour des navires compatibles et dans des cas précis des économies de 20 % sont possibles."(texte). 
-D’ailleurs la 36ème édition de la coupe de l’America nous promet des voiliers mono-coque volant. 
+Cette logique s’applique aussi à des bateaux plus lourd des IMOCA -les voiliers de la mythique course du Vendée Globe- aux navires de commerce, l’emploi des foils permet de la même manière de « soulever » la coque de l’eau et de réduire son déplacement pour en augmenter la vitesse.  Il est ainsi possible aujourd’hui de réduire la consommation d’un moteur de 20 % en ajoutant un foil comme l'a démontrée Hull Vane «  [les performances (…) vont de 5 à 15 % pour des navires compatibles et dans des cas précis des économies de 20 % sont possibles](www.heavyliftnews.com/news/hull-vane--launched--fuel-saving-foils-for-your-ship){:target="_blank"}", dont le fondateur Peter Van oonssanen c'était spécialisé dans le design d’ailes de quille depuis la coupe de l’américa de 1983 ;-).
+D’ailleurs la 36ème édition de la coupe de l’America nous promet des voiliers mono-coque volants. 
 
 ## Quelles perspectives
 
@@ -31,7 +31,7 @@ Face à tout ces bénéfices, mon esprit français ne peut s’empêcher de se p
 - D’autre part, les foils et les grandes vitesses ont eu raison de la vie de quelques cétacés en Méditerranée ?  Est-ce qu’il sera nécessaire d’installer des SONAR sur ces nouveaux bateaux  pour protéger des dauphins ou des plongeurs ?  
 Autant de questions et bien d’autres encore sur l’état des bateaux équipés de foils auxquels il faudra apporter des réponses.
 
-Avant de conclure, je ne peux m’empêcher de partager cette video du « sailing booster system », j’ai hate de l’essayer.https://youtu.be/3MtS2WW2Jyo
+Avant de conclure, je ne peux m’empêcher de partager cette video du « [sailing booster system](https://youtube/3MtS2WW2Jyo){:target="_blank"} », j’ai hate de l’essayer.
 
 Aujourd’hui je voulais écrire ce billet sur Eric Tabarly qui a marqué mon enfance et d’autres avant moi par sa passion pour la mer et le nautisme mais aussi par son esprit ingénieux et créatif.
 
