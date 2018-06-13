@@ -13,7 +13,7 @@ Il y a 20 ans, Eric Tabarly disparaissait en mer.  Il a marqué le nautisme par 
 
 L’usage des foils dans le nautisme remonte au tournant du XIX et du XX siècle en Italie, on y retrouve les expériences menées par les frères Forlanini sur le lac Majeur.  Ils atteignirent la vitesse de 42 nds avec un moteur de 60 cv !.  Par la suite on trouve différents usages civiles ou militaire de cette technologie tout au long du XX siècle.
 
-Les progrès de la science appliquée à la resistances des matériaux et aux modélisations numériques ont énormément apporté à cette technologie.  L’énergie nécessaire pour « arracher » la coque à son élément liquide grace aux foils et moins importante que par le passé.  En effet aujourd’hui on peut faire « voler » tout type de bateau et les vidéos sur Youtube ne manquent pas dans ce domaine en partant du [pédalo](https://www.youtube.com/watch?v=tvlS-4t54cc){:target="_blank"} jusqu’au catamaran de croisière G4, même si parfois cela se [termine mal]((https://www.youtube.com/watch?v=o3uQOTrJtKw){:target="_blank"}…
+Les progrès de la science appliquée à la resistances des matériaux et aux modélisations numériques ont énormément apporté à cette technologie.  L’énergie nécessaire pour « arracher » la coque à son élément liquide grace aux foils et moins importante que par le passé.  En effet aujourd’hui on peut faire « voler » tout type de bateau et les vidéos sur Youtube ne manquent pas dans ce domaine en partant du [pédalo](https://www.youtube.com/watch?v=tvlS-4t54cc){:target="_blank"} jusqu’au catamaran de croisière G4, même si parfois cela se [termine mal]((https://www.youtube.com/watch?v=o3uQOTrJtKw){:target="_blank"} …
 
 ## La trainée, ça freine
 
