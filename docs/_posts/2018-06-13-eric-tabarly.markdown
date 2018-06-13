@@ -29,6 +29,7 @@ L’usage des foils dans le nautisme et le motonautisme aura un impact bénéfiq
 Face à tout ces bénéfices, mon esprit français ne peut s’empêcher de se poser quelques questions quant à la sécurité en mer:
 - Qu’en sera-t-il de la veille visuelle ?  Aujourd’hui des formations existent pour les chef de quart de navire de commerce à grande vitesse, les NGV.  Est-ce que demain il sera nécessaire de former de la même manière un plaisancier naviguant à plus de 30 noeuds ?  
 - D’autre part, les foils et les grandes vitesses ont eu raison de la vie de quelques cétacés en Méditerranée ?  Est-ce qu’il sera nécessaire d’installer des SONAR sur ces nouveaux bateaux  pour protéger des dauphins ou des plongeurs ?  
+
 Autant de questions et bien d’autres encore sur l’état des bateaux équipés de foils auxquels il faudra apporter des réponses.
 
 Avant de conclure, je ne peux m’empêcher de partager cette video du « [sailing booster system](https://youtube/3MtS2WW2Jyo){:target="_blank"} », j’ai hate de l’essayer.
