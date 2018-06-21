@@ -17,11 +17,11 @@ Un nom m'a toujours plus amusé que les autres: IPECA - "(...) est utilisée en 
 Récemment nous avons acheté un bateau pour l'utiliser comme support de notre projet.  C'est la raison pour laquelle nous l'avons appelé mynoteboat.
 
 Ainsi donner ou changer le nom d'un bateau permet:
-	- de lui offrir une nouvelle vie.  En particulier si cette dernière s'est terminée sur un terre-plein, loin de l'eau et a duré quelques années.  Ce nouveau nom sera une nouvelle chance pour votre nouveau bateau.
-	- d'avoir un bateau en confromité avec son programme de navigation, bref vous l'approprier.
+- de lui offrir une nouvelle vie.  En particulier si cette dernière s'est terminée sur un terre-plein, loin de l'eau et a duré quelques années.  Ce nouveau nom sera une nouvelle chance pour votre nouveau bateau.
+- d'avoir un bateau en confromité avec son programme de navigation, bref vous l'approprier.
 
 ## Comment changer le nom d'un bateau ?
-Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:taget="blank_"} et de la transmettre à  la DTTM.
+Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:target="blank_"} et de la transmettre à  la DTTM.
 
 Pour tous, y compris les croyants, les superstitieux, il reste encore quelque démarches à entreprendre:
 1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées, dans les documents conservés à bord, etc.
