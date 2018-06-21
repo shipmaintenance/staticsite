@@ -11,7 +11,7 @@ En remplissant le fiche plaisance en vue de l'immatriculation de notre bateau, j
 <!--break-->
 ## Un nom pour un bateau
 
-A les différences des chiens par exemple, il n'y a pas d'attribution de lettre en fonction de l'année. Il est donc possible de donner à son bateau le nom que l'on veut.  Et dans ce domaine, les idées ne manquent pas et il suffit de se promener sur les pontons d'un port de plaisance pour s'en rendre compte.  Un bateau a la plus part du temps un prénom féminin et confirme ainsi la tradition britannique assimilant un bateau à une [femme](http://fijisun.com.fj/2015/09/30/poem-why-is-a-ship-called-a-she/){:target=blank_}.  
+A les différences des chiens par exemple, il n'y a pas d'attribution de lettre en fonction de l'année. Il est donc possible de donner à son bateau le nom que l'on veut.  Et dans ce domaine, les idées ne manquent pas et il suffit de se promener sur les pontons d'un port de plaisance pour s'en rendre compte.  Un bateau a la plus part du temps un prénom féminin et confirme ainsi la tradition britannique assimilant un bateau à une [femme](http://fijisun.com.fj/2015/09/30/poem-why-is-a-ship-called-a-she/){:target="blank_"}.  
 Un nom m'a toujours plus amusé que les autres: IPECA - "(...) est utilisée en médecine allopathique pour des préparations magistrales aux propriétés vomitives". (source Doctissimo).  Ce nom est un programme à lui tout seul.  
 
 Récemment nous avons acheté un bateau pour l'utiliser comme support de notre projet.  C'est la raison pour laquelle nous l'avons appelé mynoteboat.
@@ -21,7 +21,7 @@ Ainsi donner ou changer le nom d'un bateau permet:
 	- d'avoir un bateau en confromité avec son programme de navigation, bref vous l'approprier.
 
 ## Comment changer le nom d'un bateau ?
-Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:taget:blank_} et de la transmettre à  la DTTM.
+Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:taget="blank_"} et de la transmettre à  la DTTM.
 
 Pour tous, y compris les croyants, les superstitieux, il reste encore quelque démarches à entreprendre:
 1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées, dans les documents conservés à bord, etc.
