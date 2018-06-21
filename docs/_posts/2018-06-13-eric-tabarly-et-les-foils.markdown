@@ -38,7 +38,7 @@ Aujourd’hui je voulais écrire ce billet sur Eric Tabarly qui a marqué mon en
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/06/13/eric-tabarly-et-les-foils.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+<h3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/06/13/eric-tabarly-et-les-foils.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
             id="FB" class="socialicon"></a></H3>
 <h3>Si vous avez aimé, partagez-le sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
 <script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
