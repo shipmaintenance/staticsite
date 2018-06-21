@@ -23,10 +23,10 @@ Ainsi donner ou changer le nom d'un bateau permet:
 ## Comment changer le nom d'un bateau ?
 Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:target="blank_"} et de la transmettre à  la DTTM.
 
-Pour tous, y compris les croyants, les superstitieux, il reste encore quelque démarches à entreprendre:
-1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées, dans les documents conservés à bord, etc.
-2) inscrire le nouveau nom et son immatriculation sur la coque, les brassières, le radeau, etc.
-3) préparer une cérémonie festive.
+Pour tous, y compris les croyants, les superstitieux, il reste encore quelque démarches à entreprendre:  
+- 1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées, dans les documents conservés à bord, etc.  
+- 2) inscrire le nouveau nom et son immatriculation sur la coque, les brassières, le radeau, etc.  
+- 3) préparer une cérémonie festive.
 
 ### Cérémonie festive
 
@@ -34,21 +34,21 @@ S'attirer les bonnes grâces de Dieu ou celles d'une divivinité (Neptune ou Pos
 
 ### cérémonie catholique
 
-Dans ce cas précis, le mieux reste de contacter le curé de votre paroisse ou de l'accoster lors d'une cérémonie de Pardon de la mer.  Il vous faudra une marraine à cette occasion.  Comme toujours, il faut faire très attention à votre choix car ce titre donne le droit de naviguer gratuitement.  Cela est valable pour la plaisance, la pêche comme pour le commerce.
+Dans ce cas précis, le mieux reste de contacter le curé de votre paroisse ou de l'accoster lors d'une cérémonie de Pardon de la mer.  Il vous faudra une marraine à cette occasion et il faut faire très attention à votre choix car ce titre lui donne le droit de naviguer gratuitement et quand elle veut.  Cela est valable pour la plaisance, la pêche comme pour le commerce.
 
-### autre payenne
+### cérémonie payenne
 
 Qu'il soit question de macoui, de serpent ou de sillage, en coupant ce dernier pendant le cérémonie de changement de nom, vous offrez à votre bateau une nouvelle vie.  C'est la raison pour laquelle vous couperez deux fois le sillage en faisant un "8".  La première boucle symbolise la fin de sa première vie, le seconde figure  sa (re)naissance, début d'une vie certainement turbulente dans le jardin de Neptune, à l'image d'un nourrisson.  C'est pourquoi il vaut mieux s'attirer les bonnes grâces de la divinité des flots et ainsi assurer les premiers "pas" de votre "jeune" bateau.
 
 la formule d'usage m'a été transmises par un ami Marc R, marin renommé que j'ai bien connu quand je naviguais en méditerrannée.
 
 _Neptune, dieu de la mer et des flots, nous te saluons._
-commencer la première boucle en partant vers bâbord.
-_En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais._
-Ici vous pouvez continuer sur le passé du bateau et de ses propriétaires...
-Couper le sillage puis partir vers tribord:
-_Neptune, nous vous présentons - nouveau nom, ex:Thalassanté - soyez bienveillant à son encontre et à l'encontre de son équipage.  Que ses navigations soient belles et douces et que vos flots l'amènent toujours à bon port._
-couper une seconde fois le sillage.
+- commencer la première boucle en partant vers bâbord.  
+_En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais._  
+- Ici vous pouvez continuer sur le passé du bateau et de ses propriétaires...  
+- Couper le sillage puis partir vers tribord:
+_Neptune, nous vous présentons - nouveau nom, ex:Thalassanté - soyez bienveillant à son encontre et à l'encontre de son équipage.  Que ses navigations soient belles et douces et que vos flots l'amènent toujours à bon port._  
+- couper une seconde fois le sillage.
 
 A partir de ce moment, votre bateau porte son nouveau nom, et vous pouvez en profiter pour boire un verre - de champagne par exemple - pour marquer ce jour de fête.
 
