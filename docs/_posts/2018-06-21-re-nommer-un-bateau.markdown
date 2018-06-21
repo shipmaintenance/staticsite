@@ -53,4 +53,9 @@ A partir de ce moment, votre bateau porte son nouveau nom, et vous pouvez en pro
 
 Nous vous souhaitons de belles navigations.
 
-A bientôt,
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<h3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/06/21/re-nommer-un-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a></H3>
+<h3>Si vous avez aimé, partagez-le sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
