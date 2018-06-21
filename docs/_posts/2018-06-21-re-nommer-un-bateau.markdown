@@ -41,12 +41,12 @@ Qu'il soit question de macoui, de serpent ou de sillage, en coupant ce dernier p
 
 la formule d'usage m'a été transmises par un ami Marc R, marin renommé que j'ai bien connu quand je naviguais en méditerrannée.
 
-* Neptune, dieu de la mer et des flots, nous te saluons. *
+_Neptune, dieu de la mer et des flots, nous te saluons._
 commencer la première boucle en partant vers bâbord.
-* En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais. *
+_En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais._
 Ici vous pouvez continuer sur le passé du bateau et de ses propriétaires...
 Couper le sillage puis partir vers tribord:
-* Neptune, nous vous présentons - nouveau nom, ex:Thalassanté - soyez bienveillant à son encontre et à l'encontre de son équipage.  Que ses navigations soient belles et douces et que vos flots l'amènent toujours à bon port. *
+_Neptune, nous vous présentons - nouveau nom, ex:Thalassanté - soyez bienveillant à son encontre et à l'encontre de son équipage.  Que ses navigations soient belles et douces et que vos flots l'amènent toujours à bon port._
 couper une seconde fois le sillage.
 
 A partir de ce moment, votre bateau porte son nouveau nom, et vous pouvez en profiter pour boire un verre - de champagne par exemple - pour marquer ce jour de fête.
