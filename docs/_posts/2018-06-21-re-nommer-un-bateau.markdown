@@ -7,7 +7,8 @@ categories: main
 image: /assets/css/images/blog/salonNautique.jpg
 description: "Vous venez de faire l'acquisition d'un bateau et l'Administration va lui attribuer une immatriculation.  Cette succession de lettres et de chiffres va marquer votre bateau tant que vous en serez propriétaire.  Je n'ai rien contre ST 819 328 mais ce n'est pas l'identification la plus agréable à mes oreilles.  "
 ---
-En remplissant le fiche plaisance en vue de l'immatriculation de notre bateau, j'ai vu que je pouvais lui attribuer un nom alors j'en ai profité.  Mais quel nom donner et surtout ai-je le droit de renommer un bateau ?  Faisons un rapide tour des habitudes dans ce domaine. <!--break-->
+En remplissant le fiche plaisance en vue de l'immatriculation de notre bateau, j'ai vu que je pouvais lui attribuer un nom alors j'en ai profité.  Mais quel nom donner et surtout ai-je le droit de renommer un bateau ?  Faisons un rapide tour des habitudes dans ce domaine.
+<!--break-->
 ## Un nom pour un bateau
 
 A les différences des chiens par exemple, il n'y a pas d'attribution de lettre en fonction de l'année. Il est donc possible de donner à son bateau le nom que l'on veut.  Et dans ce domaine, les idées ne manquent pas et il suffit de se promener sur les pontons d'un port de plaisance pour s'en rendre compte.  Un bateau a la plus part du temps un prénom féminin et confirme ainsi la tradition britannique assimilant un bateau à une [femme](http://fijisun.com.fj/2015/09/30/poem-why-is-a-ship-called-a-she/){:target=blank_}.  
@@ -22,9 +23,9 @@ Ainsi donner ou changer le nom d'un bateau permet:
 ## Comment changer le nom d'un bateau ?
 Sur un plan administratif, la démarche est simple il suffit de le préciser sur [la fiche plaisance](http://www.documentissime.fr/formulaires/telecharger/FPINP.pdf){:taget:blank_} et de la transmettre à  la DTTM.
 
-Pour tous, y compris les croyants, les superstitieux il reste encore quelque démarches à entreprendre:
-1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées ou dans les documents conservés à bord,
-2) inscrire le nouveau nom et son immatriculation sur la coque, 
+Pour tous, y compris les croyants, les superstitieux, il reste encore quelque démarches à entreprendre:
+1) faire disparaître toutes traces de l'ancien nom - sur la coque comme sur les bouées, dans les documents conservés à bord, etc.
+2) inscrire le nouveau nom et son immatriculation sur la coque, les brassières, le radeau, etc.
 3) préparer une cérémonie festive.
 
 ### Cérémonie festive
