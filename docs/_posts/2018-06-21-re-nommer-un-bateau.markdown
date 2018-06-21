@@ -30,7 +30,7 @@ Pour tous, y compris les croyants, les superstitieux, il reste encore quelque d�
 
 ### Cérémonie festive
 
-S'attirer les bonnes grâces de Dieu ou celles d'une divivinité (Neptune ou Poséidon - suivant que vous avez étudié le latin ou le grec au collège) pour son bateau et ses occupants lors d'un cérémonie qui sera suivie d'un baptême dans le cas d'un bateau neuf.
+S'attirer les bonnes grâces de Dieu ou celles d'une divinité (Neptune ou Poséidon - suivant que vous avez étudié le latin ou le grec au collège) pour son bateau et ses occupants lors d'un cérémonie qui sera suivie d'un baptême dans le cas d'un bateau neuf.
 
 ### cérémonie catholique
 
@@ -44,9 +44,10 @@ la formule d'usage m'a été transmises par un ami Marc R, marin renommé que j'
 
 _Neptune, dieu de la mer et des flots, nous te saluons._
 - commencer la première boucle en partant vers bâbord.  
-_En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais._  
-- Ici vous pouvez continuer sur le passé du bateau et de ses propriétaires...  
-- Couper le sillage puis partir vers tribord:
+
+_En ce jour particulier, nous changeons le nom de notre bateau. - nom du bateau, ex:GLLOQ - a eu une vie de bateau bien remplie, nous vous remettons tout les instants qu'il a vécu, bon ou mauvais._  Ici vous pouvez continuer sur le passé du bateau et de ses propriétaires...  
+- Couper le sillage puis partir vers tribord:  
+
 _Neptune, nous vous présentons - nouveau nom, ex:Thalassanté - soyez bienveillant à son encontre et à l'encontre de son équipage.  Que ses navigations soient belles et douces et que vos flots l'amènent toujours à bon port._  
 - couper une seconde fois le sillage.
 
@@ -57,6 +58,5 @@ Nous vous souhaitons de belles navigations.
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
 <h3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/06/21/re-nommer-un-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
-            id="FB" class="socialicon"></a></H3>
-<h3>Si vous avez aimé, partagez-le sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+            id="FB" class="socialicon"></a> et sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
 <script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
