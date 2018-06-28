@@ -2,7 +2,7 @@
 layout: default
 author: BJY
 title:  "Choisir une hélice adaptée à son bateau"
-date:   2018-06-04 18:00:00
+date:   2018-06-28 18:00:00
 categories: main
 image: /assets/css/images/blog/helice.jpg
 description: "hélices de bateaux, avantages et inconvenients des différents profils"
@@ -54,8 +54,7 @@ Si l’on fait varier le pas de l’hélice d’un pouce (1’’=25,4 mm), la m
 
 ## Les différentes formes d'hélices
 ### Les hélices 3 pales fixes :
-
-Pour les moteurs hors-bords (4 temps), parmi les nombreuses hélices proposées, toutes fabriquées en Asie (JAPON, TAIWAN, COREE DU SUD), la majorité est constituée de 3 pales fixes en alliage d’aluminium dont le diamètre varie de 7 à 21 pouces et le pas de 8 à 23 pouces. Le nombre de splines de de 10 à 19.
+Pour les moteurs hors-bords (4 temps), parmi les nombreuses hélices proposées, toutes fabriquées en Asie (JAPON, TAIWAN, COREE DU SUD), la majorité est constituée de 3 pales fixes en alliage d’aluminium dont le diamètre varie de 7 à 21 pouces et le pas de 8 à 23 pouces. Le nombre de splines de 10 à 19.
 
 ### Les hélices 4 pales fixes :
 
@@ -63,26 +62,27 @@ Les hélices fixes munies de quatre pales sont aussi fabriquées mais en moindre
 Celles-ci ont l’avantage d’être mieux équilibrées et moins bruyantes car l’effet de résonnance est diminué. Elles favorisent la poussée du bateau à faible vitesse.
 
 ### Les hélices à pas variable ou à pas réglable :
-
 Elles permettent une grande souplesse quant à la poussée de l'hélice.   
 
 ### Les hélices rétractables :
-
 En forme de bec de canard, les hélices repliables permettent de diminuer considérablement la trainée de l’hélice lorsque le bateau navigue à la voile.
 
 ## Les matériaux
 ### L'aluminium forgé
-
 Les hélices en aluminium en moulage forgé ont l’avantage que les pales ne subissent pas de flexion, ce qui améliore le rendement, d’où l’économie de carburant, optimisation de la vitesse, déjaugeage plus rapide, pilotage plus aisé, meilleure stabilité dans les virages.
 
 ### L'inox
-
 Les hélices en inox sont moins sensibles à la dégradation des extrémités des pales (bords de fuite) lorsqu’il y a cavitation.
 
 ### Le bronze
-
 Les hélices en bronze sont très utilisées pour les moteurs in-board.
-
 
 ## Compatibilité d'une hélice
 Pour vérifier la compatibilité d’une hélice avec votre moteur, vous devez consulter les données du constructeur.  Il faut choisir une géométrie, un pas, une surface adaptés à votre moteur (selon sa marque) et à l'usage, vitesse et déplacement du bateau.
+
+
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
+
+<h3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/06/28/choisir-une-hélice.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+            id="FB" class="socialicon"></a> et sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
