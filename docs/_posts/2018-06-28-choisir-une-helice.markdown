@@ -61,7 +61,7 @@ Pour les moteurs hors-bords (4 temps), parmi les nombreuses hélices proposées,
 Les hélices fixes munies de quatre pales sont aussi fabriquées mais en moindre quantité.
 Celles-ci ont l’avantage d’être mieux équilibrées et moins bruyantes car l’effet de résonnance est diminué. Elles favorisent la poussée du bateau à faible vitesse.
 
-### Les hélices à pas variable ou à pas réglable :
+### Les hélices à pale orientable  :
 Elles permettent une grande souplesse quant à la poussée de l'hélice.   
 
 ### Les hélices rétractables :
