@@ -15,23 +15,23 @@ Par exemple, suite à des discussions que nous avons eu avec des plaisanciers, e
 Ainsi chacun pourra savoir s'il a des chances de trouver une place de libre dans le port de son choix cet été. Merci de nous faire part de vos commentaires ou si vous souhaitez ajouter des informations à [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr). Nous actualiserons cette page au fil des contributions.
 
 
-|Département|Port de plaisance|Evènement|Du  |Au  |Nombre d'emplacements occupés / bateaux|
+| Département | Port de plaisance | Evènement | Du  | Au  | Nombre d'emplacements occupés / bateaux |
 |:-----------:|-----------------|---------|:---:|:---:|-------------------------------------|
-|56|Port blanc - ile aux moines|National muscadet|12/07|14/07|80 muscadets|
-|56|Port blanc - iles aux moines|Tour de France|14/07|15/07|26 Diam's|
-|04|Gruissan|Tour de France|17/07|18/07|26 Diam's|
-|83|Hyères|Tour de France|19/07|20/07|26 Diam's|
-|06|Nice|Tour de France|21/07|22/07|26 Diam's|
-|56|Lorient - Port Louis|National Arpège|20/07|22/07|Arpège|
-|85|Les Sables d'Olonne|Voile classiques|28/07|29/07|Divers|
-|29|Roscoff|Tour du Finistère|28/07|30/07|Une centaine de croiseurs|
-|29|L'Aber Wrac'h|Tour du Finistère|30/07|31/07|Une centaine de croiseurs|
-|29|Lampaul Plouarzel|Tour du Finistère|31/07|01/08|Une centaine de croiseurs|
-|29|Camaret|Tour du Finistère|01/08|02/08|Une centaine de croiseurs|
-|29|Douarnenez|Tour du Finistère|02/08|03/08|Une centaine de croiseurs|
-|29|Port la Forêt|Tour du Finistère|03/08|04/08|Une centaine de croiseurs|
-|17|Bois de la Chaise - Noirmoutier|Noirmoutier classique|03/08|05/08|Divers|
-|44|La Baule|Voile de légende|11/08|15/08|Divers|
+|56| Port blanc - ile aux moines| National muscadet| 12/07 | 14/07 | 80 muscadets|
+|56| Port blanc - iles aux moines| Tour de France| 14/07 | 15/07 | 26 Diam's|
+|04| Gruissan| Tour de France| 17/07| 18/07| 26 Diam's|
+|83| Hyères| Tour de France| 19/07| 20/07| 26 Diam's|
+|06| Nice| Tour de France| 21/07| 22/07| 26 Diam's|
+|56| Lorient - Port Louis| National Arpège| 20/07| 22/07| Arpège|
+|85| Les Sables d'Olonne| Voile classiques| 28/07|29/07| Divers|
+|29| Roscoff| Tour du Finistère| 28/07| 30/07| Une centaine de croiseurs|
+|29| L'Aber Wrac'h| Tour du Finistère| 30/07| 31/07| Une centaine de croiseurs|
+|29| Lampaul Plouarzel| Tour du Finistère| 31/07| 01/08| Une centaine de croiseurs|
+|29| Camaret|Tour du Finistère| 01/08| 02/08| Une centaine de croiseurs|
+|29| Douarnenez|Tour du Finistère| 02/08| 03/08| Une centaine de croiseurs|
+|29| Port la Forêt|Tour du Finistère| 03/08| 04/08| Une centaine de croiseurs|
+|17| Bois de la Chaise - Noirmoutier| Noirmoutier classique| 03/08| 05/08|Divers|
+|44| La Baule| Voile de légende| 11/08| 15/08|Divers|
 |76|Le Havre|La Solitaire du Figaro Urgo|23/08 (à valider)|26/08|Figaros|
 |22|Saint-Brieuc|La Solitaire du Figaro Urgo|29/08|02/09|Figaros|
 |80|Saint Gilles Croix de Vie|La Solitaire du Figaro Urgo|11/09|15/09|Figaros|
