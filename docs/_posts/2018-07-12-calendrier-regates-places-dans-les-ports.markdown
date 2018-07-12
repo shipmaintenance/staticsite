@@ -7,7 +7,7 @@ categories: main
 image: /assets/css/images/blog/regates.jpg
 description: "place au port plaisance regates navigation occupation été 2018"
 ---
-L'été, certains évènements, régates notamment, occupend de nombreuses places dans les ports. Les jours de régate, il n'est pas toujours facile pour le plaisancier de trouver une place dans les ports concernés. Nous avons donc décider de mettre en lignes les différents évènements dont nous entendons parler.<!--break-->
+L'été, certains évènements, régates notamment, occupent de nombreuses places dans les ports. Les jours de régate, il n'est pas toujours facile pour le plaisancier de trouver une place dans les ports concernés. Nous avons donc décider de mettre en lignes les différents évènements dont nous entendons parler.<!--break-->
 
 Par exemple, suite à des discussions que nous avons eu avec des plaisanciers, et particulièrement avec Christian S, nous avons compris que des plaisanciers arrivant à Port Blanc en l'île aux Moines le w-e du 14 juillet rencontreront des difficultés pour accoster.  En effet, entre un national muscadet et une étape du tour de France, les places disponibles seront chers.  
 
