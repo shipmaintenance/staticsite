@@ -55,14 +55,10 @@ En voici les grandes lignes en commençant par l'étude de la zone de navigation
 - contrôler l'état de l'hélice
 - contrôler la fixation de l'hélice
 - disposer la réfrigfération du moteur:
-1 - vérfier que les aspirations d'eau de mer ne sont pas bouchées (vase, algue, etc.)
-    - pour les moteur hors-bord, descendre l'embase dans l'eau   
-    - pour les autres moteurs les vannes de coques doivent être ouvertes
+1 - vérfier que les aspirations d'eau de mer ne sont pas bouchées (vase, algue, etc.) et pour les moteurs "in-board" les vannes de coques doivent être ouvertes
 2 - démarrer le moteur
-3 - contrôle du bon fonctionnement du circuit de réfrigération: l'eau doit retourner à la mer:  
-    - soit par la buse sous le bloc moteur pour les hors-bord
-    - soit par le collecteur d'échappement pour les autres
-4 - contrôle de la température au bout de 5'(minutes).  L'eau doit être tiède, faire ce test en douceur pour ne pas vous brûler !
+3 - contrôle du bon fonctionnement du circuit de réfrigération: l'eau doit retourner à la mer soit par la buse sous le bloc moteur pour les hors-bord soit par le collecteur d'échappement pour les autres  
+4 - contrôle de la température de l'eau de réfrigération au bout de 5'(minutes).  L'eau doit être tiède, faire ce test en douceur pour ne pas vous brûler !
 
 <strong>Notre conseil :</strong> faites une vérification de votre bateau avant de partir, que vous ayez gardé votre bateau dans votre jardin ou confié à un chantier pour l'hiver.  Si vous louez un bateau pour la journée, nous vous invitons à faire les mêmes contrôles.
 
