@@ -51,7 +51,7 @@ En voici les grandes lignes en commençant par l'étude de la zone de navigation
 
 ### contrôle du moteur
 1 - contrôler les niveaux de carburant et d'huile  
-<strong>Remarque :</strong> attention au mélange huile/carburant si votre moteur n'a pas de réservoir à huile intégré  
+<strong>Remarque :</strong> attention ne pas oublier de mélanger huile/carburant si votre moteur n'a pas de réservoir à huile intégré  
 2 - contrôler l'état de l'hélice  
 3 - contrôler la fixation de l'hélice  
 4 - disposer la réfrigfération du moteur:
