@@ -50,15 +50,15 @@ En voici les grandes lignes en commençant par l'étude de la zone de navigation
 - les connections sont bien vissées
 
 ### contrôle du moteur
-- contrôler les niveaux de carburant et d'huile  
+1 - contrôler les niveaux de carburant et d'huile  
 <strong>Remarque :</strong> attention au mélange huile/carburant si votre moteur n'a pas de réservoir à huile intégré  
-- contrôler l'état de l'hélice
-- contrôler la fixation de l'hélice
-- disposer la réfrigfération du moteur:
-1 - vérfier que les aspirations d'eau de mer ne sont pas bouchées (vase, algue, etc.) et pour les moteurs "in-board" les vannes de coques doivent être ouvertes
-2 - démarrer le moteur
-3 - contrôle du bon fonctionnement du circuit de réfrigération: l'eau doit retourner à la mer soit par la buse sous le bloc moteur pour les hors-bord soit par le collecteur d'échappement pour les autres  
-4 - contrôle de la température de l'eau de réfrigération au bout de 5'(minutes).  L'eau doit être tiède, faire ce test en douceur pour ne pas vous brûler !
+2 - contrôler l'état de l'hélice
+3 - contrôler la fixation de l'hélice
+4 - disposer la réfrigfération du moteur:
+- vérfier que les aspirations d'eau de mer ne sont pas bouchées (vase, algue, etc.) et pour les moteurs "in-board" les vannes de coques doivent être ouvertes
+- démarrer le moteur
+- contrôle du bon fonctionnement du circuit de réfrigération: l'eau doit retourner à la mer soit par la buse sous le bloc moteur pour les hors-bord soit par le collecteur d'échappement pour les autres  
+- contrôle de la température de l'eau de réfrigération au bout de 5'(minutes).  L'eau doit être tiède, faire ce test en douceur pour ne pas vous brûler !
 
 <strong>Notre conseil :</strong> faites une vérification de votre bateau avant de partir, que vous ayez gardé votre bateau dans votre jardin ou confié à un chantier pour l'hiver.  Si vous louez un bateau pour la journée, nous vous invitons à faire les mêmes contrôles.
 
