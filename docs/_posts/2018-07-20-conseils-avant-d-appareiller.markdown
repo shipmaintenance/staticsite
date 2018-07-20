@@ -22,19 +22,19 @@ En voici les grandes lignes en commençant par l'étude de la zone de navigation
 - prévoir les heures de sortie et de retour
 - durée de la navigation
 
-<strong>Remarque :</strong> cette connaissance est moin vitale pour la méditerranée, donc méfiez-vous si vous rejoignez l'Atlantique ou la manche après quelques navigation dans le sud est de la France.
+<strong>Remarque :</strong> cette connaissance est moins vitale pour la méditerranée, donc méfiez-vous si vous rejoignez l'Atlantique ou la manche après quelques navigation dans le sud est de la France.
     
 ### connaître la météo
 1 -  étudier la météo pour la sortie:  
 - le vent en force et direction et les prévision à venir
 - l'ensoleilement pour la journée
-- la mer et son état pour la sortie à venir.
+- la mer et son état pour la sortie à venir.  
 2 - Au cours de ma sortie, je surveille la météo car il y a parfois un écart entre les prévisions de la veille et celle que l'on rencontre.  Cette remarque est valable dans les deux sens: elle peut être meilleure comme plus mauvaise.
 
-<strong>Notre conseil :</strong> il faut bien connaître sa zone de navigation.  Je discute souvent  avec les habitués dans le café du coin pour connaîtres les pièges: que ce soit les cailloux mal identifés sur une carte ou des phénomènes thérmiques locaux par exemple.
+<strong>Notre conseil :</strong> il faut bien connaître sa zone de navigation.  Je discute avec les habitués du coin pour connaîtres les pièges: que ce soit les cailloux mal identifés sur une carte ou des phénomènes thérmiques locaux par exemple.  Internet m'aide aussi dans mes recherches avec les forums ou les applications tel que plan ou google earth pour mieux connaître les fonds.
 
 ## le bateau
-### contrôle l'état de la coque
+### contrôle de l'état de la coque
 1 - inpection extérieur: 
 
 - pneumatique: les boudins sont gonflé  
@@ -49,11 +49,11 @@ En voici les grandes lignes en commençant par l'étude de la zone de navigation
 - la batterie est saisie sur son chassis  
 - les connections sont bien vissées
 
-### contrôle du le moteur
+### contrôle du moteur
 - contrôler les niveaux de carburant et d'huile  
+<strong>Remarque :</strong> attention au mélange huile/carburant si votre moteur n'a pas de réservoir à huile intégré  
 - contrôler l'état de l'hélice
 - contrôler la fixation de l'hélice
-<strong>Remarque :</strong> attention au mélange huile/carburant si votre moteur n'a pas de réservoir à huile intégré
 - disposer la réfrigfération du moteur:
 1 - vérfier que les aspirations d'eau de mer ne sont pas bouchées (vase, algue, etc.)
     - pour les moteur hors-bord, descendre l'embase dans l'eau   
