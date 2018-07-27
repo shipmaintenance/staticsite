@@ -8,6 +8,7 @@ image: /assets/css/images/blog/loisir.jpg
 description: "Navigation et loisir : eventail de ce que l'on peut faire pendant une navigation qui peut sembler un peu longue..."
 ---
 lors de nos promenades en bateau, certaines navigations paraissaient plus longues à certains équipiers.  Comme en voiture, on me demande alors: "quand-est-ce qu'on arrive ?".  Voici quelques idées glanées ici ou là pour "tuer" le temps.  Certaines de ces activités peuvent aussi se faire au mouillage et ne nécessitent pas de connection à internet ;-).  
+<!--break-->
 
 ## Un peu de lecture
 C'est souvent la première activité qui me vient à l'esprit et les titres ne manquent pas.  Mais si vous êtes en panne d'inspiration en voici quelques uns que vous ne connaissez peut-être pas:
