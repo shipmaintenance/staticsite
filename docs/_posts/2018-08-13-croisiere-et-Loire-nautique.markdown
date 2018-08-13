@@ -59,5 +59,6 @@ Attention, il existe un roche mal cartographiée à l'approche du ponton.  Pour 
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/08/013/croisiere-et-loire-nautique.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
-            id="FB" class="socialicon"></a></H3>
+<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/08/13/croisiere-et-loire-nautique.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+           id="FB" class="socialicon"></a> et sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
