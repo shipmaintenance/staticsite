@@ -3,7 +3,7 @@
  */
 html {
     font-size: 14px;
-    font-family: Montserrat, sans-serif;
+    font-family: Avenir, Montserrat, sans-serif;
 }
 
 * {
@@ -179,7 +179,7 @@ General boxing rules
 }
 .TitleBanner h1 {
     font-size: 4em;
-    color: white;
+    color: RGBA(0, 175, 216, 1);
     width: 100%;
     text-align: center;
     position: relative;
@@ -458,12 +458,17 @@ Background images
     background-size: cover;
 }
 
-#appmobile, #cartedutour, #histoireimg, #assistance_image {
+#appmobile, #cartedutour, #histoireimg {
     min-height: 30em;
     background-position: left;
     background-repeat: no-repeat;
 }
 
+#assistance_image {
+    min-height: 40em;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 #appmobile, #cartedutour {
     background-size: contain;
 }
@@ -484,6 +489,7 @@ Background images
         background-image: url("images/main-HD.png");
         background-size: contain;
         padding-top: 30em;
+        background-repeat: no-repeat;
     }
 
 #telecharger {
