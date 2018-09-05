@@ -1,8 +1,8 @@
 ---
 layout: default
 author: MDY
-title:  "Nautique : j-1"
-date:   2017-11-30 08:00:00
+title:  "le journal de myNOTEBOAT"
+date:   2018-09-05 08:00:00
 categories: main
 image: /assets/css/images/blog/journal_de_bord.jpg
 description: Retrouvez les différents billets (ou posts) relatif au projet my noteboat dans ce journal de bord. 
