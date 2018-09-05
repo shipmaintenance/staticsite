@@ -1,6 +1,6 @@
 ---
 layout: default
-author: MDY
+author: BJ MDY IL PJT
 title:  "le journal de myNOTEBOAT"
 date:   2018-09-05 08:00:00
 categories: main
@@ -10,7 +10,9 @@ description: Retrouvez les différents billets (ou posts) relatif au projet my n
 # Chapitre 4 - 30 août 2018
 un seul numéro pour tous les professionnels du nautisme et la garantie d'avoir l'interlocuteur dont on a besoin dans les 3 minutes, tel est notre engagement pour que vous puissiez profiter de votre sortie en bateau."
 
-![assistance téléphonique](/assets/images/blog/assistance.jpg)
+lire la suite...<!--break-->
+
+![assistance téléphonique](/assets/css/images/blog/assistance.jpg)
 
 ## l'assistance téléphonique
 
@@ -22,7 +24,7 @@ Le numéro de l'assistance est [+33 805 102 416](tel:+330805102416).
 Nous avons quitté le pavillon 2.1 du salon nautique de Paris hier soir. Pendant neuf jours nous avons rencontré des plaisanciers de France et d'ailleurs. 
 Retour sur un pari fou que nous avons entamé il y a presque 6 mois maintenant et que j'ai déjà expliqué au cours des dix derniers jours. Je le raconte maintenant pour ceux qui ne nous connaissent pas encore.
 
-![l'appli](/assets/images/blog/l-appli.jpg)
+![l'appli](/assets/css/images/blog/l-appli.jpg)
 
 ## Notre grande aventure
 
@@ -38,7 +40,7 @@ Après des heures de travail, nous avons présenté notre projet au salon nautic
 Aujourd'hui se termine notre troisième journée de présence au salon nautique de Paris.  Après les plaisanciers de la journée d'ouverture puis ceux de Dimanche mélangés à de promeneurs, je m'attendais à une chute de la fréquentation dans les coursives de notre pavillon.  Avant même l'ouverture des portes, mon voisin me prévenait: 'tu verras, les plaisanciers qui viennent durant la semaine sont plus exigeants '.  Moi qui pensais avoir un peu de temps pour le développement de notre web-app, me voilà averti. 
 Premier bilan du bénéfice d'un stand au Nautic.
 
-![arrivée au salon](/assets/images/blog/arrivee_salon.jpg)
+![arrivée au salon](/assets/css/images/blog/arrivee_salon.jpg)
 
 Nos visiteurs se sont plus facilement arrété devant notre stand pour regarder notre offre.  Leur curiosité et notre aisance à aller à leur rencontre puis à leur présenter notre produit nous ont permis de passer une excellente troisième journée.
 
@@ -52,7 +54,7 @@ Nous avons encore beaucoup de travail à fournir mais cela en vaut le peine.  No
 # Chapitre 1 - 30 nov 2017
 Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes. Que faire dans cet environnement ?
 
-![salon nautique](/assets/images/blog/SalonNautique.jpg)
+![salon nautique](/assets/css/images/blog/SalonNautique.jpg)
 
 ## Pourquoi aller au Nautique ?
 Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes.
