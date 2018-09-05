@@ -54,7 +54,7 @@ Nous avons encore beaucoup de travail à fournir mais cela en vaut le peine.  No
 # Chapitre 1 - 30 nov 2017
 Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes. Que faire dans cet environnement ?
 
-![salon nautique](/assets/css/images/blog/SalonNautique.jpg)
+![salon nautique](/assets/css/images/blog/salonNautique.jpg)
 
 ## Pourquoi aller au Nautique ?
 Au fil du temps, le Nautique est devenu une sorte de salon de l'agriculture de la voile, un endroit où l'on trouve de tout, de la dégustation de choucroute de la mer au simulateur de surf, en passant par des choses plus sérieuses comme les moteurs, l'électronique ou les bateaux sous toutes leurs formes.
