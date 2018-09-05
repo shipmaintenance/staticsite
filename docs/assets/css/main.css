@@ -53,7 +53,7 @@ video {
     width: 100%;
 }
 #button-assistance {
-    background-color: RGBA(200, 200, 200, 0.1);
+    background-color: RGBA(200, 200, 200, 1, 0.1);
     border: 2px solid orangered;
     padding: 1em;
     margin: 1em;
@@ -179,7 +179,7 @@ General boxing rules
 }
 .TitleBanner h1 {
     font-size: 4em;
-    color: RGBA(0, 175, 216, 1);
+    color: white;
     width: 100%;
     text-align: center;
     position: relative;
