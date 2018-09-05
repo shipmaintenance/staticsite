@@ -52,7 +52,16 @@ button {
 video {
     width: 100%;
 }
-
+#button-assistance {
+    background-color: RGBA(200, 200, 200, 0.1);
+    border: 2px solid orangered;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 1.5em;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 /*********************************************
 
         TOP NAV BAR
