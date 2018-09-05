@@ -16,9 +16,11 @@ lire la suite...<!--break-->
 
 ## l'assistance téléphonique
 
-Nous avons mis en place cette assistance il y a quelques jours et nous avons reçu une première demande aujourd'hui suite à un problème mécanique.
+Nous avons mis en place cette assistance il y a quelques jours, le 20 août derier et nous avons eu notre première intervention aujourd'hui suite à un problème mécanique sur une motorisation inboard.
 
 Le numéro de l'assistance est [+33 805 102 416](tel:+330805102416).
+
+Pour plus de renseignements envoyez un [mailto:assistance@mynoteboat.fr](mel).
 
 # Chapitre 3 - 11 dec 2017
 Nous avons quitté le pavillon 2.1 du salon nautique de Paris hier soir. Pendant neuf jours nous avons rencontré des plaisanciers de France et d'ailleurs. 
