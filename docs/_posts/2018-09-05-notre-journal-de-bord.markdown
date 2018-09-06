@@ -1,7 +1,7 @@
 ---
 layout: default
 author: BJ MDY IL PJT
-title:  "le journal de myNOTEBOAT"
+title:  "le journal de mynoteboat"
 date:   2018-09-05 08:00:00
 categories: main
 image: /assets/css/images/blog/journal_de_bord.jpg
