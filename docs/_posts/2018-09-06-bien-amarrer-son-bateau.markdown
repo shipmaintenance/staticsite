@@ -9,6 +9,7 @@ description: Il y a quelques jpurs, V......., une amie navigatrice m'a demandée
 ---
 en retournant sur notre bateau mardi dernier, l'amarrage des bateaux de ma panne m'a surpris car il usait prématurément les amarres et faisait courir un risque à leurs propriétaires.  Je me suis donc demander comment je pouvais limiter le ragage des amarres et éviter des dommages à mon bateau ? Voici quelques idées... <!-- break -->
 
+
 La photo n° 1 représente l'amarrage le plus présent sur la panne en question.  (24 sur 27 bateaux).  
 ![différentes photos d'amarrage](/assets/css/images/blog/photo-amarrage.png)
 
@@ -18,7 +19,7 @@ C'est donc un bon amarrage mais ne peut-on faire mieux et ainsi rentrer dans le 
 Car ils semblaient bien amarré et l'absence de dommage extérieur confirmaient un amarrage efficace.  Cependant ces propriétaires prenaient le risque d'avoir des amarres s'user plus vite (photo 3) et être moins efficace car elles présentaient une cassure au passage du taquet (photo 1 & photo 3).  Le risque de rompre une amarre en cas de tempête est donc plus important pour eux.
 Il est donc préférable de s'amarrer selon la photo 4 ou le schémas n° 1 pour être plus clair.
 
-![un amarrage efficace](/assets/css/images/blog/schema-1.png)
+![un amarrage efficace](/assets/css/images/blog/schéma-1.png)
 
 ## bien amarrer un bateau
 En effet, ces amarres ne présentent plus d'angles vifs qui avec les frottements dans le temps cisaillent les torons des amarres et leurs font perdre leur résistance mécanique - que l’on appel ragage.  De plus, la longueur de l'amarre entre le taquet de ponton et celui du pont est plus longue dans notre cas, ce qui lui offre une plus grande souplesse de travail quand la météo se dégrade.   
@@ -29,11 +30,11 @@ Tout comme je vérifie la météo avant de partir en mer, je la regarde aussi av
 
 Pointes, gardes et traversiers, à chacune son utilité à l’avant comme à l’arrière.  
 Entre l’amarrage de l’avant et l’amarrage de l’arrière, un couple d’amarre permet donc de doubler les fonctions des amarres:
-	pointes AV et garde AR empêchent le bateau de reculer
-	pointes AR et Garde AV empêchent le bateau d’avancer
-	les traversiers empêchent le bateau de s’écarter du quai.  A placer impérativement avec vent traversier fort.
+	- pointes AV et garde AR empêchent le bateau de reculer
+	- pointes AR et Garde AV empêchent le bateau d’avancer
+	- les traversiers empêchent le bateau de s’écarter du quai.  A placer impérativement avec un vent traversier fort.
 
-Amarrage idéal est donc : 
+L'amarrage idéal est donc : 
 
 ![amarrage idéal]((/assets/css/images/blog/schema-2.png)
 
@@ -46,9 +47,9 @@ Mais comme la place est comptée partout, cela donne:
 
 ## Doubler les amarres
 Doubler les amarres signifie installer 2 brins pour les pointes, les gardes ou les traversiers au lieu d’1 seul
-Doubler les amarres est une sage précaution quand on s’absente pour un moment mais pour être utile, cela nécessite de respecter quelques points:
-	- faire le tour d’un taquet pour revenir sur le bateau ne s’appelle pas doubler une amarre.  En effet, si un brin cède, c’est toute l’amarre qui est inutile.  le tour du taquet: s’applique seulement pour quitter le port depuis le pont de son bateau !  Il est à gauche sur le shemas n° 4.
-	- faire un tour mort: faire passer deux fois à l'extérieur du taquet.  On freine ainsi l'amarre qui ne s'use plus.  C'est un bon moyen pour préserver les amarres.  Je le conseille avec un noeud de chaise.  Il est au milieu du schema 4.
+Doubler les amarres est une sage précaution quand on s’absente pour un moment mais pour être utile, cela nécessite de respecter quelques points:  
+	- faire le tour d’un taquet pour revenir sur le bateau ne s’appelle pas doubler une amarre.  En effet, si un brin cède, c’est toute l’amarre qui est inutile.  le tour du taquet: s’applique seulement pour quitter le port depuis le pont de son bateau !  Il est à gauche sur le shemas n° 4.  
+	- faire un tour mort: faire passer deux fois à l'extérieur du taquet.  On freine ainsi l'amarre qui ne s'use plus.  C'est un bon moyen pour préserver les amarres.  Je le conseille avec un noeud de chaise.  Il est au milieu du schema 4.  
 	- faire un noeud de cabestan sur le taquet: mon noeud fétiche car avec un bout je fais deux brins !  Il est auto-bloquant car plus il force, plus il serre.  Je ramène chaque brin sur un taquet de pont comme cela je crée deux amarres et libère les brase du taquet de quai pour d'autres amarres ! ;-)
 
 ![le tour du taquet](/assets/css/images/blog/schema-4.png)
