@@ -8,7 +8,7 @@ image: /assets/css/images/blog/amarrage.jpg
 description: Il y a quelques jpurs, V......., une amie navigatrice m'a demandée de parler de l'amarrage des bateaux et du tour mort.  J'en profite pour partager avec vous quelques conseils d'anciens reçu en matière d'amarrage de bateau au fil du temps. 
 ---
 En retournant sur notre bateau mardi dernier, l'amarrage des bateaux de ma panne m'a surpris car il usait prématurément les amarres et faisait courir un risque à leurs propriétaires.  Je me suis donc demander comment je pouvais limiter le ragage des amarres et éviter des dommages à mon bateau ? Voici quelques idées... 
-<!-- break-->
+<!--break-->
 
 
 La photo n° 1 représente l'amarrage le plus présent sur la panne en question.  (24 sur 27 bateaux).  
@@ -37,7 +37,7 @@ Entre l’amarrage de l’avant et l’amarrage de l’arrière, un couple d’a
 
 L'amarrage idéal est donc : 
 
-![amarrage idéal]((/assets/css/images/blog/schema-2.png)
+![amarrage idéal](/assets/css/images/blog/schema-2.png)
 
 Mais réalise cette amarrage est rare de part les formes du bateau ou la place disponible à quai.  
 Les pointes comme les gardes assurent donc aussi la fonction de traversier:
