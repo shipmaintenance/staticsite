@@ -7,6 +7,16 @@ categories: main
 image: /assets/css/images/blog/journal_de_bord.jpg
 description: Retrouvez les différents billets (ou posts) relatif au projet my noteboat dans ce journal de bord. 
 ---
+# Chapitre 5 - 14 sept 2018
+Le samedi 15 septembre nous participons à un concours à Saint Gilles croix de vie.
+C'est la premières fois que nous parlerons de notre projet en public.  Ce sera pour nous un moment intense après avoir rencontré de nombreux plaisanciers.  Si vous êtes vendéens, si vous voulez profiter d'une belle plage en cette fin d'été, venez nous supportez demain à partir de 11:00.
+
+Pour les autres, faites suivre ce message pour nous faire connaître.
+
+![concours NINA](assets/css/images/blog/concours.jpg)
+
+#NINA #mynoteboat #entretien #bateau
+
 # Chapitre 4 - 30 août 2018
 un seul numéro pour tous les professionnels du nautisme et la garantie d'avoir l'interlocuteur dont on a besoin dans les 3 minutes, tel est notre engagement pour que vous puissiez profiter de votre sortie en bateau."
 
