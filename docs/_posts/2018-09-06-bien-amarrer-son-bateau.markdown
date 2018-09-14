@@ -37,7 +37,7 @@ Entre l’amarrage de l’avant et l’amarrage de l’arrière, un couple d’a
 
 L'amarrage idéal est donc : 
 
-![amarrage idéal]((/assets/css/images/blog/schema-2.png)
+![amarrage idéal](/assets/css/images/blog/schema-2.png)
 
 Mais réalise cette amarrage est rare de part les formes du bateau ou la place disponible à quai.  
 Les pointes comme les gardes assurent donc aussi la fonction de traversier:
