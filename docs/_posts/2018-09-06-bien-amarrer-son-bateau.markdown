@@ -7,7 +7,11 @@ categories: main
 image: /assets/css/images/blog/amarrage.jpg
 description: Il y a quelques jpurs, V......., une amie navigatrice m'a demandée de parler de l'amarrage des bateaux et du tour mort.  J'en profite pour partager avec vous quelques conseils d'anciens reçu en matière d'amarrage de bateau au fil du temps. 
 ---
+<<<<<<< HEAD
 en retournant sur notre bateau mardi dernier, l'amarrage des bateaux de ma panne m'a surpris car il usait prématurément les amarres et faisait courir un risque à leurs propriétaires.  Je me suis donc demander comment je pouvais limiter le ragage des amarres et éviter des dommages à mon bateau ? Voici quelques idées... <!-- break-->
+=======
+en retournant sur notre bateau mardi dernier, l'amarrage des bateaux de ma panne m'a surpris car il usait prématurément les amarres et faisait courir un risque à leurs propriétaires.  Je me suis donc demander comment je pouvais limiter le ragage des amarres et éviter des dommages à mon bateau ? Voici quelques idées... <!--break-->
+>>>>>>> d25ad494d009c6f2655543f1eb0b75eabc191bbf
 
 
 La photo n° 1 représente l'amarrage le plus présent sur la panne en question.  (24 sur 27 bateaux).  
