@@ -5,11 +5,13 @@ title:  "le journal de mynoteboat"
 date:   2018-09-14 08:00:00
 categories: main
 image: /assets/css/images/blog/mynoteboat.jpg
-description: Retrouvez les différents billets (ou posts) relatif au projet my noteboat dans ce journal de bord. 
+description: Retrouvez les différents articles (ou posts) relatif au projet mynoteboat dans ce journal de bord. 
 ---
 # Chapitre 5 - 14 sept 2018
-Le samedi 15 septembre nous participons à un concours à Saint Gilles croix de vie.
-C'est la premières fois que nous parlerons de notre projet en public.  Ce sera pour nous un moment intense après avoir rencontré de nombreux plaisanciers.  Si vous êtes vendéens, si vous voulez profiter d'une belle plage en cette fin d'été, venez nous supportez demain à partir de 11:00.
+Le samedi 15 septembre nous participons à un concours organisé organisé par l'association [NINA](https://nautisme-innovation-numerique-atlantique.fr) dans le cadre de la digital week de Nantes cette semaine.  
+lire la suite...<!--break-->
+A l'occasion de la solitaire du Figaro Pour l'à Saint Gilles croix de vie 
+C'est la premières fois que nous parlerons de notre projet en public.  Ce sera pour nous un moment intense après avoir rencontré de nombreux plaisanciers au cours des 12 derniers mois.  Si vous êtes vendéens, si vous voulez profiter de la plage en cette fin d'été, si vous avez un bateau venez nous supportez demain à partir de 11:00.  Si vous répondez aux trois critères, vous serez nécessairement des notres.
 
 Pour les autres, faites suivre ce message pour nous faire connaître.
 
@@ -19,8 +21,6 @@ Pour les autres, faites suivre ce message pour nous faire connaître.
 
 # Chapitre 4 - 30 août 2018
 un seul numéro pour tous les professionnels du nautisme et la garantie d'avoir l'interlocuteur dont on a besoin dans les 3 minutes, tel est notre engagement pour que vous puissiez profiter de votre sortie en bateau."
-
-lire la suite...<!--break-->
 
 ![assistance téléphonique](/assets/css/images/blog/assistance.jpg)
 
