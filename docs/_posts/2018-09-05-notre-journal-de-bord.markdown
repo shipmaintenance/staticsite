@@ -2,9 +2,9 @@
 layout: default
 author: BJ MDY IL PJT
 title:  "le journal de mynoteboat"
-date:   2018-09-05 08:00:00
+date:   2018-09-14 08:00:00
 categories: main
-image: /assets/css/images/blog/journal_de_bord.jpg
+image: /assets/css/images/blog/mynoteboat.jpg
 description: Retrouvez les différents billets (ou posts) relatif au projet my noteboat dans ce journal de bord. 
 ---
 # Chapitre 5 - 14 sept 2018
@@ -13,7 +13,7 @@ C'est la premières fois que nous parlerons de notre projet en public.  Ce sera 
 
 Pour les autres, faites suivre ce message pour nous faire connaître.
 
-![concours NINA](assets/css/images/blog/concours.jpg)
+![concours NINA](/assets/css/images/blog/concours.jpg)
 
 #NINA #mynoteboat #entretien #bateau
 
