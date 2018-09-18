@@ -7,11 +7,19 @@ categories: main
 image: /assets/css/images/blog/mynoteboat.jpg
 description: Retrouvez les différents articles (ou posts) relatif au projet mynoteboat dans ce journal de bord. 
 ---
-# Chapitre 5 - 14 sept 2018
+# Chapitre 5 - 15 sept 2018
+du samedi après-midi: 
+Nous avons participé à notre premier concours.
+Félicitation au vainqueur, Batho, et à son projet d'hebergement social et solidaire.
+Nous sommes satisfait de notre place.  
+Est-ce que nous aurions eu une meilleure place si nous avions parlé du business plan de notre produit ?  Peut-être. Est-ce que je le regrette ? Non car nos avons "pitché" pour l'assistance et à la fin de notre présentation, nous avons reçu de chaleureux encouragements.  Notre projet n'avait pas le caractère innovant d'un boitier électronique qui pilote le foil d'un monocoque de la coupe A..... mais dans quelques semaines maintenant nous pourrons enfin parler librement de notre projet dans toutes ses dimensions.
+
+Nous vous remercions pour votre patience.
+
+du samedi matin: 
 Le samedi 15 septembre nous participons à un concours organisé organisé par l'association [NINA](https://nautisme-innovation-numerique-atlantique.fr) dans le cadre de la digital week de Nantes cette semaine.  
 lire la suite...<!--break-->
-A l'occasion de la solitaire du Figaro Pour l'à Saint Gilles croix de vie 
-C'est la premières fois que nous parlerons de notre projet en public.  Ce sera pour nous un moment intense après avoir rencontré de nombreux plaisanciers au cours des 12 derniers mois.  Si vous êtes vendéens, si vous voulez profiter de la plage en cette fin d'été, si vous avez un bateau venez nous supportez demain à partir de 11:00.  Si vous répondez aux trois critères, vous serez nécessairement des notres.
+Ce sera à l'occasion de l'arrivée de la Solitaire du Figaro URGO à Saint Gilles croix de vie que pour la première fois nous parlerons de notre projet en public.  Ce sera pour nous un moment intense après avoir rencontré de nombreux plaisanciers au cours des 12 derniers mois.  Si vous êtes vendéens, si vous voulez profiter de la plage en cette fin d'été, si vous avez un bateau venez nous supportez demain à partir de 11:00.  Si vous répondez aux trois critères, vous serez nécessairement des notres.
 
 Pour les autres, faites suivre ce message pour nous faire connaître.
 
