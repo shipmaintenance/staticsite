@@ -7,6 +7,9 @@ categories: main
 image: /assets/css/images/blog/mynoteboat.jpg
 description: Retrouvez les différents articles (ou posts) relatif au projet mynoteboat dans ce journal de bord. 
 ---
+Retrouvez l'histoire de notre projet à travers les différents chapitres qui l'ont marqué.  Notre dernier chapitre est consacré au premier concours d'innovation auquel nous avons participé, c'était le samedi 15 septembre...
+<!--break-->
+
 # Chapitre 5 - 15 sept 2018
 du samedi après-midi: 
 Nous avons participé à notre premier concours.
