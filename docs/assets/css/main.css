@@ -184,7 +184,15 @@ General boxing rules
     text-align: center;
     position: relative;
     margin-top: 5em;
+}
 
+.titleBanner h3 {
+    font-size:2em;
+    color: lightseagreen;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: 2em;
 }
 .row {
     margin: 2em;
