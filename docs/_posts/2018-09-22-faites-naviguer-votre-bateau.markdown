@@ -32,8 +32,12 @@ Il faut aussi que je compare cette somme avec mon budget tabac sur la même pér
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=Mynoteboat&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Mynoteboat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <h3> Si vous avez aimé, Dites-le sur 
 <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/09/22/faites-naviguer-votre-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
-           id="FB" class="socialicon"></a> et aussi 
-           <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script> enfin 
+           id="FB" class="socialicon"></a>
+            et aussi 
+           <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script></a>
+            enfin 
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h3>
