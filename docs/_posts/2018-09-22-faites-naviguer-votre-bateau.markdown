@@ -32,6 +32,13 @@ Il faut aussi que je compare cette somme avec mon budget tabac sur la même pér
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/09/22/faites-naviguer-votre-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
-           id="FB" class="socialicon"></a> et sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
-<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
+<h3> Si vous avez aimé, Dites-le sur 
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/09/22/faites-naviguer-votre-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
+           id="FB" class="socialicon"></a> et sur 
+           <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a> ou encore 
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Découvrez notre plaidoyer pour naviguer cet automne 
+<a href="https://twitter.com/GrandTetonNPS?ref_src=twsrc%5Etfw">@GrandTetonNPS</a>. 
+<a href="https://twitter.com/hashtag/nature?src=hash&amp;ref_src=twsrc%5Etfw">#Mynoteboat</a> 
+<a href="https://twitter.com/hashtag/sunset?src=hash&amp;ref_src=twsrc%5Etfw">#Navigation</a> 
+<a href="http://t.co/YuKy2rcjyU">pic.twitter.com/YuKy2rcjyU</a></p>&mdash; US Department of the Interior (@Interior) <a href="https://twitter.com/Interior/status/463440424141459456?ref_src=twsrc%5Etfw">Sept 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h3>
