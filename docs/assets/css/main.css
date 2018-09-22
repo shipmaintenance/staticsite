@@ -53,8 +53,8 @@ video {
     width: 100%;
 }
 #button-assistance {
-    background-color: RGBA(200, 200, 200, 1, 0.1);
-    border: 2px solid orangered;
+    background-color: RGBA(200, 200, 200, 0.1);
+    border: 4px solid orangered;
     padding: 1em;
     margin: 1em;
     border-radius: 12px;
@@ -186,14 +186,6 @@ General boxing rules
     margin-top: 5em;
 }
 
-.TitleBanner h3 {
-    font-size:2em;
-    color: lightseagreen;
-    width: 100%;
-    text-align: center;
-    position: relative;
-    margin-top: 2em;
-}
 .row {
     margin: 2em;
 }
@@ -267,6 +259,16 @@ Individual rules
     text-align: center;
     font-size: 3em;
 }
+
+#home h3 {
+    font-size:2em;
+    color: lightseagreen;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: 2em;
+}
+
 
 #cestquoi #mynoteboatimage {
     width: 80%;
