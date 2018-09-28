@@ -5,7 +5,7 @@ title:  "grand pavois à La Rochelle"
 date:   2018-09-28 19:00:00
 categories: main
 image: /assets/css/images/blog/nautique-Rochelle.jpg
-description: nous sommes allé faire un tour dans allées du grand pavois de la Rochelle.  Retrouvez en quelques lignes nos enseignements.
+description: nous sommes parti faire un tour dans les allées du grand pavois de la Rochelle.  Retrouvez en quelques lignes nos impressions sur cette journée.
 ---
 Un salon nautique se tient au port des minimes de la Rochelle jusque lundi 01 octobre: c'est la grand pavois.  
 A l'image des des pavillons hissés sur les bateaux les jours de parades, on y retrouve toyt ce que l'industrie nautique peut proposer. Revu de détails...
