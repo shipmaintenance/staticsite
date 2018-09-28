@@ -7,7 +7,7 @@ categories: main
 image: /assets/css/images/blog/nautique-Rochelle.jpg
 description: nous sommes allé faire un tour dans allées du grand pavois de la Rochelle.  Retrouvez en quelques lignes nos enseignements.
 ---
-Un salon nautique se tiend au port des minimes de la Rochelle jusque lundi 01 octobre: c'est la grand pavois.  
+Un salon nautique se tient au port des minimes de la Rochelle jusque lundi 01 octobre: c'est la grand pavois.  
 A l'image des des pavillons hissés sur les bateaux les jours de parades, on y retrouve toyt ce que l'industrie nautique peut proposer. Revu de détails...
 <!--break-->
 ## Un salon à flot, ça change
