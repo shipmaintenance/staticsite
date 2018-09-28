@@ -5,7 +5,7 @@ title:  "bien amarrer son bateau"
 date:   2018-09-06 19:00:00
 categories: main
 image: /assets/css/images/blog/amarrage.jpg
-description: Il y a quelques jpurs, V......., une amie navigatrice m'a demandée de parler de l'amarrage des bateaux et du tour mort.  J'en profite pour partager avec vous quelques conseils d'anciens reçu en matière d'amarrage de bateau au fil du temps. 
+description: Il y a quelques jours, V......., une amie navigatrice m'a demandée de parler de l'amarrage des bateaux et du tour mort.  J'en profite pour partager avec vous quelques conseils d'anciens reçu en matière d'amarrage de bateau au fil du temps. 
 ---
 En retournant sur notre bateau mardi dernier, l'amarrage des bateaux de ma panne m'a surpris car il usait prématurément les amarres et faisait courir un risque à leurs propriétaires.  Je me suis donc demander comment je pouvais limiter le ragage des amarres et éviter des dommages à mon bateau ? Voici quelques idées... 
 <!--break-->
