@@ -1,7 +1,7 @@
 ---
 layout: default
 author: MDY PJT
-title:  "où entretenir son bateau"
+title:  "ou entretenir son bateau"
 date:   2018-10-06 08:00:00
 categories: main
 image: /assets/css/images/blog/entretenir-un-bateau.jpg
@@ -93,7 +93,7 @@ Les places disponibles sont peu nombreuses, surtout pour les bricoleurs.  Je né
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
 <h3> Si vous avez aimé, Dites-le sur <br> 
-<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/10/06/où-entretenir-son-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook_post.png"
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/10/06/ou-entretenir-son-bateau.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook_post.png"
            id="FB" class="socialicon"></a>
  <br>
 <a href="https://twitter.com/intent/tweet?button_hashtag=Mynoteboat&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Mynoteboat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
