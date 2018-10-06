@@ -8,7 +8,7 @@ image: /assets/css/images/blog/nautique-Rochelle.jpg
 description: nous sommes parti faire un tour dans les allées du grand pavois de la Rochelle.  Retrouvez en quelques lignes nos impressions sur cette journée.
 ---
 Un salon nautique se tient au port des minimes de la Rochelle jusque lundi 01 octobre: c'est la grand pavois.  
-A l'image des des pavillons hissés sur les bateaux les jours de parades, on y retrouve toyt ce que l'industrie nautique peut proposer. Revu de détails...
+A l'image des pavillons hissés sur les bateaux les jours de parades, on y retrouve tout ce que l'industrie nautique peut proposer. Revu de détails...
 <!--break-->
 ## Un salon à flot, ça change
 En matière de salon nautique j'étais habitué au salon parisien, la première chose qui m'a marqué en arrivant c'est de voir en premier les ponts des bateaux et pas les oeuvres vives.  Cela donne une autre approche des bateaux, ils sont moins impressionnants.  Ceci est particulièrment vrai quand on regarde Pend Duick III.  Pour un peu ils sembleraient plus accessibles.  
@@ -18,7 +18,7 @@ C'est pratique pour décourvir les derniers nouveautés du nautisme sans être o
 J'ai ai vu beaucoup de bateau, des petits comme des gros.
 Il y a quelques semaines, je parlais des bateaux qui volaient, aujourd'hui j'en ai vu plusieurs qui roulaient.  J'ai aussi vu de plus petits voiliers dont un qui me faisait penser à notre muscadet familiale.  Quand à notre coque open italienne, sa ligne accuse son age à côté des dernières productions nationales ou internationales présentes à la Rochelle.
 ##  En conclusion
-Si vous voulez en savoir plus, je laisserai aux magazines spécialisés le soins de nous expliquer les différentes nouveautés que vous pouvez trouver dans les différentes allées de ce grand pavois.  Pour ma part, j'ai profité d'une ballade dans les allées, j'ai rêvé de notre futur bateau et j'ai profité d'une météo trés agréable.  D'ailleurs si vous manquez d'occupation allez y faire un tour, cela vous prendra une demie journée, sans vous presser.  Quant à moi, de voir autant de bateau m'a donné envie d'aller me promener.  Je vous laisse donc car j'ai un bateau à préparer.
+Si vous voulez en savoir plus, je laisserai aux magazines spécialisés le soins de nous expliquer les différentes nouveautés que vous pouvez trouver dans les différentes allées de ce grand pavois.  Pour ma part, j'ai profité d'une ballade dans les allées, j'ai rêvé de notre futur bateau et j'ai profité d'une météo trés agréable.  D'ailleurs si vous manquez d'occupation allez y faire un tour, cela vous prendra une demie journée, sans vous presser.  Quant à moi, de voir autant de bateaux m'a donné envie d'aller me promener.  Je vous laisse donc car j'ai un bateau à préparer.
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
