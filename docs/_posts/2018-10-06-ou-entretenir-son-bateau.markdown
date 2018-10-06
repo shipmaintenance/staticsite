@@ -1,7 +1,7 @@
 ---
 layout: default
 author: MDY PJT
-title:  "ou entretenir son bateau"
+title:  "où entretenir son bateau"
 date:   2018-10-06 08:00:00
 categories: main
 image: /assets/css/images/blog/entretenir-un-bateau.jpg
