@@ -22,6 +22,11 @@ Si vous voulez en savoir plus, je laisserai aux magazines spécialisés le soins
 
 Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-<H3>Si vous avez aimé, Dites-le sur <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/09/28/salon-nautique-a-la-rochelle.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook-icon-S.png"
-           id="FB" class="socialicon"></a> et sur <a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<h3> Si vous avez aimé, Dites-le sur <br> 
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/09/28/salon-nautique-a-la-rochelle.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook_post.png"
+           id="FB" class="socialicon"></a>
+ et aussi <br>
+<a href="https://twitter.com/intent/tweet?button_hashtag=Mynoteboat&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Mynoteboat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ et enfin <br>
+<a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
 <script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
