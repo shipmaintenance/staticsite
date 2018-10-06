@@ -4,7 +4,7 @@ author: MDY PJT
 title:  "où entretenir son bateau"
 date:   2018-10-06 08:00:00
 categories: main
-image: /assets/css/images/entretenir-un-bateau.jpg
+image: /assets/css/images/blog/entretenir-un-bateau.jpg
 description: entre deux périodes de navigation se pose la question du stockage du bateau et des travaux qu'il faudrait y faire.  Voici quelques pistes issues de nos expériences pour bien employer ces mois d'attentes avant de retoucher l'eau.
 ---
 Que ce soient nos mains ou celles d'un professionnel, elles vont prochainement s'activer sur notre bateau pour qu'il soit prêt pour l'année prochaine.  Dans le meilleur cas quelques heures suffiront, mais parfois la liste de travaux s'allongent le jour une fois noël passé.  L'endroit ou sera stocker le bateau est donc important, voici quelques critères pour bien choisir ce lieu...
