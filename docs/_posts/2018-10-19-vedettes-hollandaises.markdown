@@ -2,7 +2,7 @@
 layout: default
 author: BJY
 title:  "La vedette hollandaise : le top des bateaux typiques de Hollande"
-date:   2018-05-21 18:00:00
+date:   2018-10-19 18:00:00
 categories: main
 image: /assets/css/images/blog/hollandaise.jpg
 description: "Qu'est ce qu'une vedette Hollandaise ? Quels sont les critères pour estimer la valeur d'une occasion ?"
@@ -54,10 +54,13 @@ Pour les passionnés de ces sabots autrefois utilisés pour les transports, il s
 * Le principe de coucher le mat par un treuil lors des passages de pont peut s’effectuer à une seule personne.  
 * Il existe plusieurs associations en France qui vous feront partager ce type de navigation.
 
+Si vous voulez nous faire parvenir vos commentaires, contactez nous: [blog@mynoteboat.fr](mailto:blog@mynoteboat.fr)
 
-
-
-
-
-
-
+<h3> Si vous avez aimé, Dites-le sur 
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/10/19/vedettes-hollandaises.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook_post.png"
+           id="FB" class="socialicon"></a>
+ <br>
+<a href="https://twitter.com/intent/tweet?button_hashtag=Mynoteboat&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #Mynoteboat</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <br>
+<a><script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: fr_FR</script>
+<script type="IN/Share" data-url="www.mynoteboat.fr"></script></a></H3>
