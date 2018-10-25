@@ -23,7 +23,7 @@ Naviguer avec un bateau bien entretenu.  A l’image des l’articles sur les h�
 ## portable (téléphone <strong>et</strong> ordinateur)
 L’autre information importante à l’heure du développement de notre produit est le support.  Aujourd’hui nos articles sont lu aussi bien depuis un ordinateur qu’un Smartphone.  Ce qui prouve que vous lisez depuis n’importe quel support, donc que notre contenu doit être adapté à ces supports.
 
-## à la recherche de la meilleur coque ?
+## à la recherche de la meilleure coque ?
 C’est la question que nous nous posons quand nous regardons la popularité d’un article que nous avons mis en ligne il y a quelques mois maintenant sur les différents types de coque.  A la lecture de ces chiffres j’imagine donc que parmi vous certains se demandent s’ils ont acheté le bon support pour naviguer
 
 ## Vos navigations
