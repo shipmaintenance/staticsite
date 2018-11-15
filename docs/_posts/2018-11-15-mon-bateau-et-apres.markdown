@@ -5,43 +5,43 @@ title: "mon bateau et après ?"
 date: 2018-11-15 19:00:00
 categories: main 
 image: /assets/css/images/blog/mon-bateau-et-apres.jpg
-description: Cette question pré-occupe un jour au l'autre chaque propriétaire de bateau.  Cette question possède que 4 réponses à l'image des modèles économiques que le propriétaire et l'industrie nautique peuvent mettre en avant.  Explication
+description: Cette question préoccupe un jour ou l'autre chaque propriétaire de bateau.  Cette question possède que 4 réponses à l'image des modèles économiques que le propriétaire et l'industrie nautique peuvent mettre en avant.  Explication
 ---
-Il y a plusieurs mois nous évoquions la cérémonie permettant de donner un nom à son [bateau](http://www.mynoteboat.fr//main/2018/06/21/re-nommer-un-bateau.html){:target="_blank"} et le faire entrer dans son cercle familiale par la plus grande porte.  Aujourd'hui nous allons aborder un sujet plus délicat auquel est confronté chacun de nous: la transmission d'un bateau et le cas échéant sa dé-construction en passant par une autre solution, sociale et durable.  
+Il y a plusieurs mois nous évoquions la cérémonie permettant de donner un nom à son [bateau](http://www.mynoteboat.fr//main/2018/06/21/re-nommer-un-bateau.html){:target="_blank"} et le faire entrer dans son cercle familial par la plus grande porte.  Aujourd'hui nous allons aborder un sujet plus délicat auquel est confronté chacun de nous: la transmission d'un bateau et le cas échéant sa dé-construction en passant par une autre solution, sociale et durable.  
 Que faire alors de son bateau ? Cette question se rapproche beaucoup du modèle économique que son propriétaire et l'industrie nautique peuvent proposer, explication.
 <!--break-->
 ## Transmettre son bateau
 La plus belle solution qui s'offre à un propriétaire de bateau qui ne peut plus naviguer est de le transmettre.  Soit à ses petits-enfants ou plus probablement ses enfants mais ce n'est pas si simple que cela puisqu'en plus du bateau, il faut aussi transmettre la passion.  Malheureusement pour envisager cette solution, il faut s'y préparer dés le jour de son acquisition.  
-Comment ce n'est pas je sujet de cet article, nous n'irons pas plus loin aujourd'hui.  
-Une autre - belle - possibilité est de donner son bateau.  L'exercice n'est pas simple car il faut identifier le futur propriétaire.  Aujourd'hui les sites internet facilitent ces rencontres et en particuliers les forums de propriétaires.  
+Comment ce n'est pas le sujet de cet article, nous n'irons pas plus loin aujourd'hui.  
+Une autre - belle - possibilité est de donner son bateau.  L'exercice n'est pas simple car il faut identifier le futur propriétaire.  Aujourd'hui les sites internet facilitent ces rencontres et en particulier les forums de propriétaires.  
 Cette solution permet une double transmission, celle du bateau et celle de la passion. 
-Elle peut être avantageuse quand le bateau n'a plus été entretenu pendant quelque temps et que l'on ne veut pas devoir dépenser d'argent pour sa dé-construction (voir le dernier chapitre pour plus de renseignements).
+Elle peut être avantageuse quand le bateau n'a plus été entretenu pendant quelques temps et que l'on ne veut pas devoir dépenser d'argent pour sa déconstruction (voir le dernier chapitre pour plus de renseignements).
 Si vous envisagez cette solution, vous aurez navigué pendant de nombreuses années avec de magnifiques souvenirs et c'est ce que votre bateau vous aura apporter de plus beau.  Mais vous pouvez aussi essayer d'en tirer un profit.
 
 ## Revendre son bateau
 Revendre son bateau parce que l'on ne peut plus le faire naviguer est une solution tout aussi logique que la première et entre les revues d'annonces spécialisées et les sites de ventes entre particuliers, il est simple de le mettre en vente.  Encore faut-il respecter certains critères pour conclure une vente:
 - 1/ respecter le prix du marché:  comme dans le monde automobile la valeur de l'argus et la valeur de marché ne sont pas liées.  Il est donc nécessaire de bien connaître la valeur de son bateau.  Une expertise vous aidera à placer votre bateau par rapport au marché et ainsi définir un prix juste.  Personnellement je préconise une vente rapide selon l'adage populaire "un tien vaut mieux que deux tu l'auras".  Sauf si vous n'êtes pas préssé de le vendre, baisser un peu le prix du bateau, il partira plus rapidement et vous pourrez utiliser cette somme d'argent comme bon vous semble.
-- 2/ vendre un bateau qui navigue: C'est une raison pour laquelle il ne faut pas négliger l'entretien d'un bateau et qu'il faut naviguer avec.  A quelques exception prés, le futur acheteur voudra utiliser son bateau et peut-être le plus rapidement possible:  quel enfant ne veut pas jouer avec son dernier cadeau de Noël ?  Il en est de même du futur propriétaire de bateau.
-- 3/ la remorque: si le bateau est au gabarit routier, posez-vous la question de la remorque. Bien que cet investissement représente un coût supplémentaire, il ne présente à mes yeux que des avantages:
+- 2/ vendre un bateau qui navigue: C'est une raison pour laquelle il ne faut pas négliger l'entretien d'un bateau et qu'il faut naviguer avec.  A quelques exceptions près, le futur acheteur voudra utiliser son bateau et peut-être le plus rapidement possible:  quel enfant ne veut pas jouer avec son dernier cadeau de Noël ?  Il en est de même du futur propriétaire de bateau.
+- 3/ la remorque: si le bateau est au gabarit routier, posez vous la question de la remorque. Bien que cet investissement représente un coût supplémentaire, il ne présente à mes yeux que des avantages:
 - elle augmente le programme de navigation
-- elle peut intéressé plus d'acheteur potentiel
+- elle peut intéresser plus d'acheteur potentiel
 - vous pouvez la vendre séparément si nécessaire.
 
-Mais la revente d'un bateau est parfois longue et je vois des annonces de bateaux à vendre sur certains site qui sont régulièrment remises à jour au fil des trimestres.  Si votre objectif est de le vendre, réflechissez bien à la valeur de votre bateau et à son prix car pendant la période de vente vous continuer à payer pour son emplacement.  :-(
+Mais la revente d'un bateau est parfois longue et je vois des annonces de bateaux à vendre sur certains site qui sont régulièrment remises à jour au fil des trimestres.  Si votre objectif est de le vendre, réflechissez bien à la valeur de votre bateau et à son prix car pendant la période de vente vous continuez à payer pour son emplacement.  :-(
 Et si vous n'arrivez pas à transmettre ou vendre ce bateau pour qu'il continue de naviguer, il existe une solution: le faire "naviguer à terre ».
 
 ## Naviguer à terre
 Avec le développement de l'économie circulaire, il est possible aujourd'hui d'envisager une nouvelle vie à son bateau.  
 A l'image des produits de l'association [Batho](https://www.batho.fr){:target="_blank"} basée à Rezé au sud de Nantes qui prolonge leur durée de vie en les transformant en habitats de plein air sur terre ferme.
-Cette entreprise solidaire d’utilité sociale reprend des bateaux en fin de vie pour les transformer en un bureau en gite ou une chambre supplémentaire pour le jardin. Ou encore en habitat insolite pour le camping
-Ainsi, un Calife des chantiers Jouet abandonné dans une marina de l'Atlantique a retrouvé une seconde vie en tant que chambre d'hôte dans une résidence secondaire.   Cette transformation est possible grâce au réemploi d'un bateau déjà existant mais aussi par l'embauche de personne en difficulté que  Batho ré-insert. En donnant votre bateau vous êtes assuré qu'il finira paisiblement sa vie, en accueillant des visiteurs qui pourront y passer confortablement quelques jours, comme une Croisiére immobile.
+Cette entreprise solidaire d’utilité sociale reprend des bateaux en fin de vie pour les transformer en un bureau, en gite ou une chambre supplémentaire pour le jardin. Ou encore en habitat insolite pour le camping.
+Ainsi, un Calife des chantiers Jouet abandonné dans une marina de l'Atlantique a retrouvé une seconde vie en tant que chambre d'hôte dans une résidence secondaire.   Cette transformation est possible grâce au réemploi d'un bateau déjà existant mais aussi par l'embauche de personne en difficulté que  Batho réinsert. En donnant votre bateau vous êtes assuré qu'il finira paisiblement sa vie, en accueillant des visiteurs qui pourront y passer confortablement quelques jours, comme une croisiére immobile.
 
-Cette solution met en avant l'économie circulaire qui est le modèle économique le plus vertueux puisque l'on ré-emploi un produit déjà existant en lui conférant une nouvelle valeur, le tout en créant de l’emploi.  
-Enfin, il reste la solutions de la destruction du bateau.
+Cette solution met en avant l'économie circulaire qui est le modèle économique le plus vertueux puisque l'on réemploit un produit déjà existant en lui conférant une nouvelle valeur, le tout en créant de l’emploi.  
+Enfin, il reste la solution de la destruction du bateau.
 
-## Dé-construire son bateau
+## Déconstruire son bateau
 La dernière solution est de détruire son bateau et pour des raisons environnementales ou réglementaires il n'est pas possible de le brûler dans son jardin ou de le couler au large.  
-le volume de bateaux concernés diffère selon l'organisme que l'on consulte mais plusieurs dizaine de milliers de bateaux devraient être dé-construit aujourd'hui.  Beaucoup de français sont donc concerné par la dé-construction.  Une loi du le 23 décembre 2016, impose aux "metteurs sur le marché" d'organiser le recyclage des déchets des bateaux de plaisance et de sport.
+Le volume de bateaux concernés diffère selon l'organisme que l'on consulte mais plusieurs dizaines de milliers de bateaux devraient être déconstruit aujourd'hui.  Beaucoup de français sont donc concernés par la déconstruction.  Une loi du le 23 décembre 2016, impose aux "metteurs sur le marché" d'organiser le recyclage des déchets des bateaux de plaisance et de sport.
 
 A partir du 1er janvier 2019, cette obligation entre en vigueur. La déconstruction des bateaux de plaisance ou de sport sera gratuite pour leurs propriétaires.  Pour pouvoir bénéficier de cette résolution, ces propriétaires devront consulter le site Internet de l’association [APER](https://www.aper.asso.fr/recycler-son-bateau/){:target="_blank"} à partir de mars 2019. 
 
@@ -53,10 +53,10 @@ Quand vous faites déconstruire un bateau:
 - démâter votre bateau - si vous le pouvez.
 Si vous voulez faire déconstruire votre bateau, comptez 800€ pour un bateau de 6 m.
 
-<strong>remarque sur la dé-construction</strong>: aujourd’hui, des professionnels de ce secteur recherchent un modèle économique durable afin de pouvoir recycler plus rapidement certains éléments d’un bateau et d'en valoriser certains déchets car l’enfouissment n’est pas une solutions à long terme quand on avance le chiffre de 300 000 unités.
+<strong>remarque sur la déconstruction</strong>: aujourd’hui, des professionnels de ce secteur recherchent un modèle économique durable afin de pouvoir recycler plus rapidement certains éléments d’un bateau et d'en valoriser certains déchets car l’enfouissment n’est pas une solution à long terme quand on avance le chiffre de 300 000 unités.
 
 ## Notre conseil:
-Avant d'achèter un bateau, refléchissez à l'usage que vous en aurez afin de partir tout de suite sur le bon modèle.  Il existe une analogie entre le bateau et la maison: les deux peuvent paraître rapidement trop petit et les biens atypiques sont plus difficiles à vendre.
+Avant d'acheter un bateau, refléchissez à l'usage que vous en aurez afin de partir tout de suite sur le bon modèle.  Il existe une analogie entre le bateau et la maison: les deux peuvent paraître rapidement trop petits et les biens atypiques sont plus difficiles à vendre.
 
 <h3> Si vous avez aimé, Dites-le sur <br> 
 <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.mynoteboat.fr//main/2018/11/15/mon-bateau-et-apres.html" target="_blank" ><img src="{{ site.url }}/assets/images/facebook_post.png"
