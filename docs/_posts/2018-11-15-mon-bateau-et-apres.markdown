@@ -8,26 +8,26 @@ image: /assets/css/images/blog/mon-bateau-et-apres.jpg
 description: Cette question préoccupe un jour ou l'autre chaque propriétaire de bateau.  Cette question possède que 4 réponses à l'image des modèles économiques que le propriétaire et l'industrie nautique peuvent mettre en avant.  Explication
 ---
 Il y a plusieurs mois nous évoquions la cérémonie permettant de donner un nom à son [bateau](http://www.mynoteboat.fr//main/2018/06/21/re-nommer-un-bateau.html){:target="_blank"} et le faire entrer dans son cercle familial par la plus grande porte.  Aujourd'hui nous allons aborder un sujet plus délicat auquel est confronté chacun de nous: la transmission d'un bateau et le cas échéant sa dé-construction en passant par une autre solution, sociale et durable.  
-Que faire alors de son bateau ? Cette question se rapproche beaucoup du modèle économique que son propriétaire et l'industrie nautique peuvent proposer, explication.
+Que faire alors de son bateau ? Cette question interroge le modèle économique que son propriétaire et l'industrie nautique peuvent proposer, explication.
 <!--break-->
 ## Transmettre son bateau
-La plus belle solution qui s'offre à un propriétaire de bateau qui ne peut plus naviguer est de le transmettre.  Soit à ses petits-enfants ou plus probablement ses enfants mais ce n'est pas si simple que cela puisqu'en plus du bateau, il faut aussi transmettre la passion.  Malheureusement pour envisager cette solution, il faut s'y préparer dés le jour de son acquisition.  
-Comment ce n'est pas le sujet de cet article, nous n'irons pas plus loin aujourd'hui.  
+Une solution qui s'offre à un propriétaire de bateau qui ne peut plus naviguer est de le transmettre.  Soit à ses petits-enfants ou plus probablement ses enfants mais ce n'est pas si simple que cela puisqu'en plus du bateau, il faut aussi transmettre la passion.  Malheureusement pour envisager cette solution, il faut s'y préparer dés le jour de son acquisition.  
+Comment ce n'est pas le sujet de cet article, nous n'irons pas plus loin aujourd'hui sur cette première solution.  
 Une autre - belle - possibilité est de donner son bateau.  L'exercice n'est pas simple car il faut identifier le futur propriétaire.  Aujourd'hui les sites internet facilitent ces rencontres et en particulier les forums de propriétaires.  
 Cette solution permet une double transmission, celle du bateau et celle de la passion. 
-Elle peut être avantageuse quand le bateau n'a plus été entretenu pendant quelques temps et que l'on ne veut pas devoir dépenser d'argent pour sa déconstruction (voir le dernier chapitre pour plus de renseignements).
+Elle peut être avantageuse lorque le bateau a un pedigree ou quand il n'a plus été entretenu pendant quelques temps et que l'on ne veut pas devoir dépenser d'argent pour sa déconstruction (voir le dernier chapitre pour plus de renseignements).
 Si vous envisagez cette solution, vous aurez navigué pendant de nombreuses années avec de magnifiques souvenirs et c'est ce que votre bateau vous aura apporter de plus beau.  Mais vous pouvez aussi essayer d'en tirer un profit.
 
 ## Revendre son bateau
 Revendre son bateau parce que l'on ne peut plus le faire naviguer est une solution tout aussi logique que la première et entre les revues d'annonces spécialisées et les sites de ventes entre particuliers, il est simple de le mettre en vente.  Encore faut-il respecter certains critères pour conclure une vente:
-- 1/ respecter le prix du marché:  comme dans le monde automobile la valeur de l'argus et la valeur de marché ne sont pas liées.  Il est donc nécessaire de bien connaître la valeur de son bateau.  Une expertise vous aidera à placer votre bateau par rapport au marché et ainsi définir un prix juste.  Personnellement je préconise une vente rapide selon l'adage populaire "un tien vaut mieux que deux tu l'auras".  Sauf si vous n'êtes pas préssé de le vendre, baisser un peu le prix du bateau, il partira plus rapidement et vous pourrez utiliser cette somme d'argent comme bon vous semble.
+- 1/ respecter le prix du marché:  comme dans le monde automobile la valeur de l'argus et la valeur de marché ne sont pas liées.  Il est donc nécessaire de bien connaître la valeur de son bateau.  Une expertise vous aidera à placer votre bateau par rapport au marché et ainsi définir un prix juste.  Personnellement je préconise une vente rapide selon l'adage populaire "un tien vaut mieux que deux tu l'auras".  Sauf si vous n'êtes pas préssé de le vendre, baisser un peu le prix du bateau, il partira plus rapidement et vous éviterez le cercle vicieux des frais de port à payer et de la dégradation du bateau.
 - 2/ vendre un bateau qui navigue: C'est une raison pour laquelle il ne faut pas négliger l'entretien d'un bateau et qu'il faut naviguer avec.  A quelques exceptions près, le futur acheteur voudra utiliser son bateau et peut-être le plus rapidement possible:  quel enfant ne veut pas jouer avec son dernier cadeau de Noël ?  Il en est de même du futur propriétaire de bateau.
 - 3/ la remorque: si le bateau est au gabarit routier, posez vous la question de la remorque. Bien que cet investissement représente un coût supplémentaire, il ne présente à mes yeux que des avantages:
-- elle augmente le programme de navigation
-- elle peut intéresser plus d'acheteur potentiel
-- vous pouvez la vendre séparément si nécessaire.
+- il augmente le programme de navigation
+- il peut intéresser plus d'acheteur potentiel
+- vous pouvez revendre la remorque séparément si nécessaire.
 
-Mais la revente d'un bateau est parfois longue et je vois des annonces de bateaux à vendre sur certains site qui sont régulièrment remises à jour au fil des trimestres.  Si votre objectif est de le vendre, réflechissez bien à la valeur de votre bateau et à son prix car pendant la période de vente vous continuez à payer pour son emplacement.  :-(
+Mais la revente d'un bateau est parfois longue et je vois des annonces de bateaux à vendre sur certains site qui sont remises en ligne au fil des trimestres.  Si votre objectif est de le vendre, réfléchissez bien à la valeur de votre bateau et à son prix car pendant la période de vente vous continuez à payer pour son emplacement.  :-(
 Et si vous n'arrivez pas à transmettre ou vendre ce bateau pour qu'il continue de naviguer, il existe une solution: le faire "naviguer à terre ».
 
 ## Naviguer à terre
