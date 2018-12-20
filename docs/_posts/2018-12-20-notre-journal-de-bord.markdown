@@ -13,7 +13,7 @@ Retrouvez l'histoire de notre projet à travers les différents chapitres qui l'
 # Chapitre 7 - 20 dec 2018
 
 ## l'application numérique indispensable pour le nautisme
-Cela a été plus long que prévu mais nous y sommes arrivé.  Depuis le 19 décembre 2018 à 17:54 les propriétaires de bateaux, et les autres peuvent accéder à my noteboat, l'outil numérique indispensable du nautisme.  Depuis cette application vous pouvez configurer votre bateau et créer une note en prévision de travaux.  Vous y retrouverez le matériel de sécurité pour votre bateau selon votre zone de navigation ainsi qu'un annuaire des professionnels du nautisme et c'est <strong>>[ici]<</strong>(http://app.mynoteboat.bakasable.fr){:target="_blank"}
+Cela a été plus long que prévu mais nous y sommes arrivé.  Depuis le 19 décembre 2018 à 17:54 les propriétaires de bateaux, et les autres peuvent accéder à my noteboat, l'outil numérique indispensable du nautisme.  Depuis cette application vous pouvez configurer votre bateau et créer une note en prévision de travaux.  Vous y retrouverez le matériel de sécurité pour votre bateau selon votre zone de navigation ainsi qu'un annuaire des professionnels du nautisme et c'est <strong>[> ici <]</strong>(http://app.mynoteboat.bakasable.fr){:target="_blank"}
 Tout ce qui est utile pour <strong>naviguer</strong> et <strong>entretenir</strong> son bateau se trouve sur [mynoteboat.com](http://mynoteboat.bakasable.fr){:target="_blank"}
 
 ## l'appli disponible en février 2019
